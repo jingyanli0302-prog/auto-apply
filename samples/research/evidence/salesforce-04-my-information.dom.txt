@@ -1,0 +1,95 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "search for jobs":
+    - /url: /en-US/External_Career_Site
+    - img "search for jobs"
+  - heading [level=1]
+  - button "English":
+    - generic: English
+  - button "Settings":
+    - generic: Settings
+  - button "synthetic-ats-test@example.org":
+    - generic: synthetic-ats-test@example.org
+  - navigation:
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Software Engineering MTS" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: current step 1 of 5
+      - generic: My Information
+      - generic: step 2 of 5
+      - generic: My Experience
+      - generic: step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "My Information" [active] [level=3]
+  - generic: "* Indicates a required field"
+  - generic: How Did You Hear About Us?*
+  - textbox "How Did You Hear About Us?":
+    - /placeholder: Search
+  - generic: 0 items selected
+  - 'group "Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If \"Yes\" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally."':
+    - generic: "Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If \"Yes\" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally.*"
+    - 'generic "Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If \"Yes\" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally."':
+      - radio "Yes"
+      - generic: "Yes"
+      - radio "No"
+      - generic: "No"
+  - generic: Country*
+  - button "Country United States of America Required": United States of America
+  - group "Legal Name":
+    - heading "Legal Name" [level=4]
+    - generic: First Name*
+    - textbox "First Name"
+    - generic: Last Name*
+    - textbox "Last Name"
+    - generic: I have a preferred name
+    - checkbox "I have a preferred name"
+  - group "Address":
+    - heading "Address" [level=4]
+    - generic: Address Line 1*
+    - textbox "Address Line 1"
+    - generic: City*
+    - textbox "City"
+    - generic: State*
+    - button "State Select One Required": Select One
+    - generic: Postal Code*
+    - textbox "Postal Code"
+  - group "Email Address":
+    - heading "Email Address" [level=4]
+    - generic: synthetic-ats-test@example.org
+  - group "Phone":
+    - heading "Phone" [level=4]
+    - generic: Phone Device Type*
+    - button "Phone Device Type Mobile Required": Mobile
+    - generic: Country Phone Code*
+    - textbox "Country Phone Code":
+      - /placeholder: Search
+    - generic: 1 item selected, United States of America (+1)
+    - listbox "items selected":
+      - option "United States of America (+1), press delete to clear value.":
+        - paragraph: United States of America (+1)
+    - generic: Phone Number*
+    - textbox "Phone Number"
+    - generic: Phone Extension
+    - textbox "Phone Extension"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+  - link "Facebook":
+    - /url: https://www.facebook.com/salesforce
+  - link "X":
+    - /url: https://twitter.com/salesforcejobs
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/salesforce
+- generic: © 2026 Workday, Inc. All rights reserved.

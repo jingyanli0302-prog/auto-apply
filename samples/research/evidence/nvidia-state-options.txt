@@ -1,0 +1,224 @@
+Browser tab: 1, Title: "Sign In", URL: "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually".
+1 AXWebArea Sign In, URL: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+		4 container
+			21 link Description:  careers home, Value: nvidia.com/en-us/about-nvidia/careers/
+			5 heading CAREERS AT NVIDIA, Value: 1
+				6 text CAREERS AT NVIDIA
+			39 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			40 pop up button (collapsed) [USER-OPERATED-TEST-ACCOUNT], ID: accountSettingsButton, Secondary Actions: Expand
+			8 container
+				9 button Home
+				10 button Search for Jobs
+				41 button Candidate Home
+		22 container
+			23 link Back to Job Posting
+				24 text Back to Job Posting
+			25 heading Senior Systems Software Engineer - GPU Performance at Scale, Value: 2
+				26 text Senior Systems Software Engineer - GPU Performance at Scale
+			27 container Application Progress
+				28 content list
+					29 container
+						30 text current step 1 of 5 My Information
+					31 container
+						32 text step 2 of 5 My Experience
+					33 container
+						34 text step 3 of 5 Application Questions
+					35 container
+						36 text step 4 of 5 Voluntary Disclosures
+					37 container
+						38 text step 5 of 5 Review
+			42 heading My Information, Value: 3
+				43 text My Information
+			44 container
+				45 text * Indicates a required field
+			46 container
+				47 text How Did You Hear About Us?
+				48 container
+					49 text field (settable) How Did You Hear About Us?, ID: source--source
+			50 container Have you previously worked for NVIDIA as an employee or contractor?
+				51 text Have you previously worked for NVIDIA as an employee or contractor?
+				52 container Description: Have you previously worked for NVIDIA as an employee or contractor?, ID: previousWorker--candidateIsPreviousWorker
+					53 container
+						54 radio button (settable, integer) Description: Yes, Value: 0, ID: vx04n
+					55 container
+						56 radio button (settable, integer) Description: No, Value: 1, ID: vx04o
+			57 container
+				58 text Country
+				59 pop up button Description: Country United States of America Required, ID: country--country
+			60 container Legal Name
+				61 heading Legal Name, Value: 4, ID: Legal-Name-section
+					62 text Legal Name
+				63 text First Name
+				64 text field (settable) First Name, ID: name--legalName--firstName
+				65 text Last Name
+				66 text field (settable) Last Name, ID: name--legalName--lastName
+				67 container
+					68 checkbox (settable, integer) Description: I have a preferred name, Value: 0, ID: name--preferredCheck
+			69 container Address
+				70 heading Address, Value: 4, ID: Address-section
+					71 text Address
+				72 text Address Line 1
+				73 text field (settable) Address Line 1, ID: address--addressLine1
+				74 text City
+				75 text field (settable) City, ID: address--city
+				76 text State
+				77 pop up button (expanded) Description: State Select One, ID: address--countryRegion, Secondary Actions: Collapse
+				78 text Postal Code
+				79 text field (settable) Postal Code, ID: address--postalCode
+			80 container Email Address
+				81 heading Email Address, Value: 4, ID: Email-Address-section
+					82 text Email Address
+				83 text [USER-OPERATED-TEST-ACCOUNT]
+			84 container Phone
+				85 heading Phone, Value: 4, ID: Phone-section
+					86 text Phone
+				87 text Phone Device Type
+				88 pop up button Description: Phone Device Type Select One Required, ID: phoneNumber--phoneType
+				89 text Country Phone Code
+				90 container
+					91 text field (settable) Country Phone Code
+					92 list items selected
+						93 Value: United States of America (+1), press delete to clear value., ID: pill-db8d3ca6446c11de98360015c5e6daf6
+							94 text United States of America (+1)
+				95 text Phone Number
+				96 text field (settable) Phone Number
+				97 text Phone Extension
+				98 text field (settable) Phone Extension
+			99 button Save and Continue
+		11 heading Follow Us, Value: 4
+			12 text Follow Us
+		13 content list
+			14 link Description: X, Value: twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+			15 link Description: Facebook, Value: facebook.com/NVIDIA
+			16 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+			17 link Description: LinkedIn, Value: linkedin.com/company/nvidia
+			18 link Description: YouTube, Value: youtube.com/nvidia
+		19 link Description: Applicant Privacy Policy, Value: nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+		20 text © 2026 Workday, Inc. All rights reserved.
+	100 list vx04m
+		101 (selected) Value: Select One, ID: select-one
+			102 text Select One
+		103 Value: Alabama, ID: 31475924e5494080a8a458bf4fa293ed
+			104 text Alabama
+		105 Value: Alaska, ID: c8891443252c4c4ea9427be64d755b9f
+			106 text Alaska
+		107 Value: American Samoa, ID: c89eea109e00414ebd2bcf86c3657443
+			108 text American Samoa
+		109 Value: Arizona, ID: c7b20b0d4bc04711a00900569e9afabd
+			110 text Arizona
+		111 Value: Arkansas, ID: cea6c5355e1b4983b5fd0640310385b5
+			112 text Arkansas
+		113 Value: Armed Forces Americas, ID: 1ca58d5d459441c486b5921520e418d2
+			114 text Armed Forces Americas
+		115 Value: Armed Forces Europe, ID: a2a30548028d4ec28e8ffcb4473cec2e
+			116 text Armed Forces Europe
+		117 Value: Armed Forces Pacific, ID: f6518ded366f46f882c4edcf152fb735
+			118 text Armed Forces Pacific
+		119 Value: California, ID: ec3d210e4240442e99a28fa70419aec5
+			120 text California
+		121 Value: Colorado, ID: a83d6eabae3b49718c4ce09eeb66fd0b
+			122 text Colorado
+		123 Value: Connecticut, ID: bffb3e4c9a4a4542bc6bd075a4c26247
+			124 text Connecticut
+		125 Value: Delaware, ID: 18b4cf9ddb4e4542a39614cb55b4dde7
+			126 text Delaware
+		127 Value: District of Columbia, ID: 0d2bcd0308f541938f3ae29e7cc69ae0
+			128 text District of Columbia
+		129 Value: Florida, ID: 9c1a239b35bd4598856e5393b249b8a1
+			130 text Florida
+		131 Value: Georgia, ID: dec8eabbb13d45bdb159b8e25d896110
+			132 text Georgia
+		133 Value: Guam, ID: 65ca11288f1d4599bef44996d074b286
+			134 text Guam
+		135 Value: Hawaii, ID: e7634111501844fe83a0b316b16beb08
+			136 text Hawaii
+		137 Value: Idaho, ID: b1c017b8f6294b0e82773aaca1dce33e
+			138 text Idaho
+		139 Value: Illinois, ID: d8bb292ed9fe44a2899a990ad569538c
+			140 text Illinois
+		141 Value: Indiana, ID: 28489665bcac44028a70d0642c932be4
+			142 text Indiana
+		143 Value: Iowa, ID: a9be12393ccd460ea46d08c249ce6c8b
+			144 text Iowa
+		145 Value: Kansas, ID: 975ef5fd66c048909a4d64b64b762836
+			146 text Kansas
+		147 Value: Kentucky, ID: 66d386e70a2946b695835e59cebcd7b2
+			148 text Kentucky
+		149 Value: Louisiana, ID: 777facb47a8442bfba79628424812d64
+			150 text Louisiana
+		151 Value: Maine, ID: b6d5367355b64eebb870b465d2e72205
+			152 text Maine
+		153 Value: Maryland, ID: 586509e6daa741808206b095fee97e8f
+			154 text Maryland
+		155 Value: Massachusetts, ID: c66d738416b74fb180376cf59cc7ec8f
+			156 text Massachusetts
+		157 Value: Michigan, ID: b8372eef6b5341a39cdc95ac32790cba
+			158 text Michigan
+		159 Value: Minnesota, ID: 02f3984b69ba450080e456fe733f6741
+			160 text Minnesota
+		161 Value: Mississippi, ID: 7c552cab901d4a1aa359a9cfc62850a7
+			162 text Mississippi
+		163 Value: Missouri, ID: 790e3c3ddfaa4123905237a05f1df9e9
+			164 text Missouri
+		165 Value: Montana, ID: d649a916a12e4680887c98d5836d0647
+			166 text Montana
+		167 Value: Nebraska, ID: 3a652942d5f84071a48bc94a2b17d331
+			168 text Nebraska
+		169 Value: Nevada, ID: 33e7c3874e0e4d28a8047926aa4a1d21
+			170 text Nevada
+		171 Value: New Hampshire, ID: 9efc91fd842142a0b0bf455e723b65a0
+			172 text New Hampshire
+		173 Value: New Jersey, ID: 9b56fe16bdf74b2cbad8b644cdf6015a
+			174 text New Jersey
+		175 Value: New Mexico, ID: 32c182efea294964a9000772bc740672
+			176 text New Mexico
+		177 Value: New York, ID: 9819bf0148e54f89adb255aa7bead635
+			178 text New York
+		179 Value: North Carolina, ID: 1486a0a4a8464c3b9ec482d4038deb99
+			180 text North Carolina
+		181 Value: North Dakota, ID: 0567a9c4e90340e192aa655d387323c6
+			182 text North Dakota
+		183 Value: Northern Mariana Islands, ID: 4848ee8c358e47e699dd8e11c9ef7112
+			184 text Northern Mariana Islands
+		185 Value: Ohio, ID: 41493c81d9214eb190fd14067c7d974d
+			186 text Ohio
+		187 Value: Oklahoma, ID: 205ef21c556342268847466c48ec5a8c
+			188 text Oklahoma
+		189 Value: Oregon, ID: 6fcc4198762c4a7c807486c849fe94dd
+			190 text Oregon
+		191 Value: Pennsylvania, ID: f620a79f2dc44473828b42881312de2b
+			192 text Pennsylvania
+		193 Value: Puerto Rico, ID: 23c0c7a08b674337bd67252e3648f2a9
+			194 text Puerto Rico
+		195 Value: Rhode Island, ID: 4c2f08af9b834f13bf4c2d41679d222d
+			196 text Rhode Island
+		197 Value: South Carolina, ID: 1d2632a43d204a2799bcd38b57e8a26e
+			198 text South Carolina
+		199 Value: South Dakota, ID: 745d76f06d2b41738aecee630c5888a0
+			200 text South Dakota
+		201 Value: Tennessee, ID: 00044a0287144032bca6973ac0eedb3e
+			202 text Tennessee
+		203 Value: Texas, ID: fc77e3a1ab36487f9646d14f7242dd77
+			204 text Texas
+		205 Value: United States Minor Outlying Islands, ID: 98d5e73cb8d048558744b3b43786d883
+			206 text United States Minor Outlying Islands
+		207 Value: Utah, ID: 9bf006cfb5a44c51b84138e1a0e7d805
+			208 text Utah
+		209 Value: Vermont, ID: 7df7a0cb48724af7891cb70410546897
+			210 text Vermont
+		211 Value: Virginia, ID: e0889a76c58d4fff9b54b80dadc49000
+			212 text Virginia
+		213 Value: Virgin Islands, U.S., ID: 954f8a558c0c42acae0fe0dccc6b0b14
+			214 text Virgin Islands, U.S.
+		215 Value: Washington, ID: de9b48948ef8421db97ddf4ea206e931
+			216 text Washington
+		217 Value: West Virginia, ID: dc5bc08fd91446bdbd108d98a19ac0ff
+			218 text West Virginia
+		219 Value: Wisconsin, ID: 96f29b3353ac4653b1a860751618e36b
+			220 text Wisconsin
+		221 Value: Wyoming, ID: 0022bee925f740b0a078f707a1868642
+			222 text Wyoming
+
+The focused UI element is 100 list vx04m

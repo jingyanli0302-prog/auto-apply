@@ -1,0 +1,113 @@
+Browser tab: 4, Title: "Sign In", URL: "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually".
+1 AXWebArea Sign In, URL: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+		4 container
+			17 link Description:  search for jobs, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			35 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			36 pop up button (collapsed) synthetic-ats-test@example.org, ID: accountSettingsButton, Secondary Actions: Expand
+			37 container
+				38 button Search for Jobs
+				39 button Candidate Home
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Software Engineering MTS, Value: 2
+				22 text Software Engineering MTS
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text completed step 2 of 5 My Experience
+					29 container
+						30 text current step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			40 heading Application Questions, Value: 3
+				41 text Application Questions
+			42 container
+				43 text * Indicates a required field
+			133 container
+				134 container What is your preferred geographic location?
+					135 text What is your preferred geographic location?
+					136 text entry area (settable) primaryQuestionnaire--96555e5bb83a1001f0d93bcd5dbc0001
+				137 container I understand that upon employment, proof of legal right to work in the US and completion of an I-9 form will be required.*
+					138 container
+						139 text I understand that upon employment, proof of legal right to work in the US and completion of an I-9 form will be required.
+						140 container required
+							141 text *
+					142 pop up button Description:  No Required, ID: primaryQuestionnaire--96555e5bb83a1001f0d93bcd5dbc0002
+				143 container Do you have the unrestricted right to work in the country to which you're applying? (You must answer “No” if you are on any visa or possess any government issued work authorization document that has an expiration date; you should answer “Yes” if you have DACA or TPS authorization in the US)*
+					144 container
+						145 text Do you have the unrestricted right to work in the country to which you're applying? (You must answer “No” if you are on any visa or possess any government issued work authorization document that has an expiration date; you should answer “Yes” if you have DACA or TPS authorization in the US)
+						146 container required
+							147 text *
+					148 pop up button Description:  No Required, ID: primaryQuestionnaire--96555e5bb83a1001f0d93d02b9290000
+				149 container Will you now or could you in the future require sponsorship to obtain work authorization or to transfer or extend your current visa? (You must answer “Yes” if your current visa is tied to your spouse or partner’s visa.)*
+					150 container
+						151 text Will you now or could you in the future require sponsorship to obtain work authorization or to transfer or extend your current visa? (You must answer “Yes” if your current visa is tied to your spouse or partner’s visa.)
+						152 container required
+							153 text *
+					154 pop up button Description:  No Required, ID: primaryQuestionnaire--bf22155da24d1001f11cf321dd1d0000
+				155 container Government Employment: In the last 5 years, have you been an employee of a U.S. federal, state, or local government, including a "special Government employee" (defined under 18 U.S.C. §202), or a member of the U.S. Armed Services (including Reserve and Guard components)?*
+					156 container
+						157 text Government Employment: In the last 5 years, have you been an employee of a U.S. federal, state, or local government, including a "special Government employee" (defined under 18 U.S.C. §202), or a member of the U.S. Armed Services (including Reserve and Guard components)?
+						158 container required
+							159 text *
+					160 pop up button Description:  No Required, ID: primaryQuestionnaire--96555e5bb83a1001f0d93d9db41f0001
+				161 container I attest/confirm that I have no post-government employment restrictions currently applicable to me that have not already been addressed or disclosed in the previous questions, OR that if I am aware of any applicable restrictions, I will disclose them to the recruiter if contacted for further processing of my application. If I received written advice from my current or former government employer about work restrictions that are still active, I will provide it to the recruiter if contacted for further processing of my application.*
+					162 container
+						163 text I attest/confirm that I have no post-government employment restrictions currently applicable to me that have not already been addressed or disclosed in the previous questions, OR that if I am aware of any applicable restrictions, I will disclose them to the recruiter if contacted for further processing of my application. If I received written advice from my current or former government employer about work restrictions that are still active, I will provide it to the recruiter if contacted for further processing of my application.
+						164 container required
+							165 text *
+					166 pop up button Description:  No Required, ID: primaryQuestionnaire--83b8d2becb371001f134b96d678b0000
+				167 container Are you currently or have you in the past been debarred, suspended, proposed for debarment or declared ineligible for award of a contract by any federal agency?*
+					168 container
+						169 text Are you currently or have you in the past been debarred, suspended, proposed for debarment or declared ineligible for award of a contract by any federal agency?
+						170 container required
+							171 text *
+					172 pop up button Description:  No Required, ID: primaryQuestionnaire--96555e5bb83a1001f0d93f6c3f2a0001
+				173 container As a U.S. company that exports software and technology internationally, we must comply with U.S. export control laws in every country where we operate. The information provided will be used to determine whether we need to obtain an Export Control License for your employment if you are hired. Are you a citizen, national or permanent resident of Iran, Cuba, North Korea or Syria?*
+					174 container rich-label281
+						175 text As a U.S. company that exports software and technology internationally, we must comply with U.S. export control laws in every country where we operate. The information provided will be used to determine whether we need to obtain an Export Control License for your employment if you are hired.
+						176 container
+							177 text Are you a citizen, national or permanent resident of Iran, Cuba, North Korea or Syria?
+							178 container required
+								179 text *
+					180 pop up button Description:  No Required, ID: primaryQuestionnaire--aea409ffd4271001f1386458c9630000
+				181 container Regarding future positions at Salesforce, please select one of the following options*
+					182 container
+						183 text Regarding future positions at Salesforce, please select one of the following options
+						184 container required
+							185 text *
+					186 pop up button Description:  No, please do not contact me about Salesforce and future openings Required, ID: primaryQuestionnaire--96555e5bb83a1001f0d9430856c50000
+				187 container I acknowledge that I have read, reviewed and answered the above questions truthfully and accurately. I further understand, and agree, that any offer of employment I may receive from Salesforce is conditional on the truth of the above statements and that, in the event it is subsequently determined that any of the above is inaccurate, any such offer of employment can be rescinded and, in the event I have commenced employment, such employment will be terminated, to the extent permitted by applicable law. Please select "yes" if you acknowledge.*
+					188 container
+						189 text I acknowledge that I have read, reviewed and answered the above questions truthfully and accurately. I further understand, and agree, that any offer of employment I may receive from Salesforce is conditional on the truth of the above statements and that, in the event it is subsequently determined that any of the above is inaccurate, any such offer of employment can be rescinded and, in the event I have commenced employment, such employment will be terminated, to the extent permitted by applicable law. Please select "yes" if you acknowledge.
+						190 container required
+							191 text *
+					192 pop up button (expanded) Description:  Select One Required, ID: primaryQuestionnaire--aea409ffd4271001f123450c4c880000, Secondary Actions: Collapse
+			132 button Back
+			97 button Save and Continue
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+			13 link Description: Facebook, Value: facebook.com/salesforce
+			14 link Description: X, Value: twitter.com/salesforcejobs
+			15 link Description: LinkedIn, Value: linkedin.com/company/salesforce
+		16 text © 2026 Workday, Inc. All rights reserved.
+	193 list o4dq17
+		194 (selected, disabled) Value: Select One, ID: select-one
+			195 text Select One
+		196 Value: Yes, ID: 6e238f706211100200e5b5ae41ad0000
+			197 text Yes
+		198 Value: No, ID: 6e238f706211100200e5b6e223090001
+			199 text No
+
+The focused UI element is 193 list o4dq17

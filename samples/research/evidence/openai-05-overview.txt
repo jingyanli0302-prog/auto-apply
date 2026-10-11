@@ -1,0 +1,164 @@
+Browser tab: 7, Title: "Technical Program Manager, Compute Infrastructure @ OpenAI", URL: "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3".
+0 AXWebArea Technical Program Manager, Compute Infrastructure @ OpenAI, URL: jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3
+	1 container root
+		2 content list
+			3 link Description: OpenAI, Value: openai.com/
+			4 link Description: Back to OpenAI’s Job Listings, Value: openai.com/careers/search/
+		5 heading Technical Program Manager, Compute Infrastructure, Value: 1
+			6 text Technical Program Manager, Compute Infrastructure
+		7 heading Location, Value: 2
+			8 text Location
+		9 text San Francisco
+		10 heading Employment Type, Value: 2
+			11 text Employment Type
+		12 text Full time
+		13 heading Department, Value: 2
+			14 text Department
+		15 text Technical Program Management
+		16 heading Compensation, Value: 2
+			17 text Compensation
+		18 content list
+			19 text $257K – $335K • Offers Equity
+		20 text The base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. If the role is non-exempt, overtime pay will be provided consistent with applicable laws. In addition to the salary range listed above, total compensation also includes generous equity, performance-related bonus(es) for eligible employees, and the following benefits.
+		21 content list
+			22 container
+				23 AXListMarker • 
+				24 text Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
+			25 container
+				26 AXListMarker • 
+				27 text Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
+			28 container
+				29 AXListMarker • 
+				30 text 401(k) retirement plan with employer match
+			31 container
+				32 AXListMarker • 
+				33 text Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
+			34 container
+				35 AXListMarker • 
+				36 text Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees
+			37 container
+				38 AXListMarker • 
+				39 text 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
+			40 container
+				41 AXListMarker • 
+				42 text Mental health and wellness support
+			43 container
+				44 AXListMarker • 
+				45 text Employer-paid basic life and disability coverage
+			46 container
+				47 AXListMarker • 
+				48 text Annual learning and development stipend to fuel your professional growth
+			49 container
+				50 AXListMarker • 
+				51 text Daily meals in our offices, and meal delivery credits as eligible
+			52 container
+				53 AXListMarker • 
+				54 text Relocation support for eligible employees
+			55 container
+				56 AXListMarker • 
+				57 text Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
+		58 text More details about our benefits are available to candidates during the hiring process. This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.
+		59 tab group
+			60 tab (selected, settable, boolean) Overview, Value: 1, ID: job-overview
+			61 tab (selectable, settable, boolean) Application, Value: 0, ID: job-application-form
+		205 container Description: Overview, ID: overview
+			206 heading About the Team, Value: 3
+				207 text About the Team
+			208 text The compute infrastructure team runs the GPU fleet and large-scale compute clusters that serve the models backing ChatGPT and the API, while also supporting training workloads for our next generation models. We operate a large, modern GPU fleet and provide a unified platform for other OpenAI teams to seamlessly run production Applied AI and Research training workloads.
+			209 text We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth.
+			210 heading About the Role, Value: 3
+				211 text About the Role
+			212 text You will be part of an engineer-first TPM team as a Technical Program Manager for Compute Infrastructure who owns the end-to-end delivery of large-scale GPU clusters, partnering with engineers to bring clusters online across external providers and partners. You’ll run a broad, parallel portfolio spanning hardware, networking, power, and cooling—driving execution, risk management, and crisp alignment from working teams through leadership to deliver production-ready capacity at scale.
+			213 text This role is based in San Francisco, CA. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees.
+			214 heading In this role, you will:, Value: 3
+				215 text In this role, you will:
+			216 content list
+				217 container
+					218 AXListMarker • 
+					219 text Lead end-to-end delivery of both New Compute SKUs and large-scale GPU clusters across an external partner ecosystem while supporting capacity planning for training and inference.
+				220 container
+					221 AXListMarker • 
+					222 text Ability to contextually drive multi-threaded bring-up programs spanning hardware, networking, power, and cooling—owning plans, dependencies, and critical paths.
+				223 container
+					224 AXListMarker • 
+					225 text Interface with chip providers to derisk long-term onboarding to new hardware platforms by working across kernels, comms, hardware, and scheduling engineering teams.
+				226 container
+					227 AXListMarker • 
+					228 text Build and operationalize program mechanisms (roadmaps, milestones, risk registers, runbooks) that make delivery predictable at massive scale.
+				229 container
+					230 AXListMarker • 
+					231 text Partner with engineering to improve cluster turn-up reliability, repeatability, and automation, reducing time-to-serve for new capacity.
+				232 container
+					233 AXListMarker • 
+					234 text Support network operations and end-to-end physical and logical bring-up of OpenAI network Points-of-Presence (PoPs), including on-site deployment, rack cabling, and close collaboration with engineering teams.
+				235 container
+					236 AXListMarker • 
+					237 text Coordinate cross-functional readiness (security, finance, operations, product/research stakeholders) to ship production-ready compute.
+				238 container
+					239 AXListMarker • 
+					240 text Manage integration and handoffs across teams and partners—ensuring consistent execution, clear communication, and fast issue resolution.
+				241 container
+					242 AXListMarker • 
+					243 text Identify bottlenecks and systemic gaps, then drive durable fixes across tooling, process, and partner interfaces.
+				244 container
+					245 AXListMarker • 
+					246 text Provide crisp executive visibility on progress, tradeoffs, and risks across a large portfolio of concurrent programs.
+			247 heading You might thrive in this role if you:, Value: 3
+				248 text You might thrive in this role if you:
+			249 content list
+				250 container
+					251 AXListMarker • 
+					252 text Possess a degree in a hard science, or have a demonstrated track record of engineering expertise.
+				253 container
+					254 AXListMarker • 
+					255 text Have 5+ years of experience in program management for major projects including capital projects or hyperscaler infrastructure deployment.
+				256 container
+					257 AXListMarker • 
+					258 text Demonstrate the ability to serve as the go-to person solely responsible for driving and delivering complex projects.
+				259 container
+					260 AXListMarker • 
+					261 text Are comfortable managing cross-functional and cross-company teams; experience driving information and decision hygiene.
+				262 container
+					263 AXListMarker • 
+					264 text Have an extensive track record of successfully delivering high-profile, technical projects against tight deadlines.
+				265 container
+					266 AXListMarker • 
+					267 text Are technically adept and have effectively partnered with engineering or fundamental research teams of the highest caliber.
+				268 container
+					269 AXListMarker • 
+					270 text Have experience interfacing with and leading external vendors including engineering firms, equipment suppliers, and/or construction firms.
+				271 container
+					272 AXListMarker • 
+					273 text Have expertise in designing and implementing simple, scalable processes that solve complex problems.
+				274 container
+					275 AXListMarker • 
+					276 text Have experience managing complicated dependencies such as logistics and/or supply chains.
+				277 container
+					278 AXListMarker • 
+					279 text Are relentlessly resourceful and thrive in ambiguous, fast-paced environments.
+				280 container
+					281 AXListMarker • 
+					282 text Are interested in and thoughtful about the impacts of AGI.
+			283 text About OpenAI
+			284 text OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+			285 text We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+			286 text For additional information, please see 
+			287 link Description: OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement, Value: cdn.openai.com/policies/eeo-policy-statement.pdf
+			288 text .
+			289 text Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+			290 text To notify OpenAI that you believe this job posting is non-compliant, please submit a report through 
+			291 link Description: this form, Value: form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA
+			292 text . No response will be provided to inquiries unrelated to job posting compliance.
+			293 text We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this 
+			294 link Description: link, Value: form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241
+			295 text .
+			296 link Description: OpenAI Global Applicant Privacy Policy, Value: cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf
+			297 text At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+			298 link Description: Apply for this Job, Value: jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3/application
+		200 container
+			201 link Description: Learn more about Ashby, Value: ashbyhq.com/
+			202 link Description: Privacy Policy, Value: ashbyhq.com/privacy
+			203 link Description: Security, Value: ashbyhq.com/security
+			204 link Description: Vulnerability Disclosure, Value: ashbyhq.com/disclosure
+
+The focused UI element is 60 tab (selected, settable, boolean) Overview, Value: 1, ID: job-overview

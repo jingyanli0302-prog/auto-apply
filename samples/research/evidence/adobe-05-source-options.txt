@@ -1,0 +1,166 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually".
+1 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+		4 container
+			17 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Sr. Technical Account Manager, Value: 2
+				22 text Sr. Technical Account Manager
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text current step 1 of 5 My Information
+					27 container
+						28 text step 2 of 5 My Experience
+					29 container
+						30 text step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			35 heading My Information, Value: 3
+				36 text My Information
+			37 container
+				38 text * Indicates a required field
+			94 heading Errors Found, Value: 3
+				95 button (expanded) Errors Found, Secondary Actions: Collapse
+			96 content list
+				97 container
+					98 AXListMarker 1. 
+					99 button ErrorHow Did You Hear About Us?
+						100 text Error
+						101 text How Did You Hear About Us?
+					102 text The field How Did You Hear About Us? is required and must have a value.
+				103 container
+					104 AXListMarker 2. 
+					105 button ErrorHave you been employed by Adobe in the past?
+						106 text Error
+						107 text Have you been employed by Adobe in the past?
+					108 text The field Have you been employed by Adobe in the past? is required and must have a value.
+				109 container
+					110 AXListMarker 3. 
+					111 button ErrorFirst Name
+						112 text Error
+						113 text First Name
+					114 text The field First Name is required and must have a value.
+				115 container
+					116 AXListMarker 4. 
+					117 button ErrorLast Name
+						118 text Error
+						119 text Last Name
+					120 text The field Last Name is required and must have a value.
+				121 container
+					122 AXListMarker 5. 
+					123 button ErrorEmail
+						124 text Error
+						125 text Email
+					126 text The field Email is required and must have a value.
+				127 container
+					128 AXListMarker 6. 
+					129 button ErrorPhone Number
+						130 text Error
+						131 text Phone Number
+					132 text The field Phone Number is required and must have a value.
+			39 container
+				40 text How Did You Hear About Us?
+				145 container
+					146 text field (settable) How Did You Hear About Us?, ID: source--source
+				133 container error1-source--source
+					134 text Error :  The field How Did You Hear About Us? is required and must have a value.
+			43 container Have you been employed by Adobe in the past?
+				44 text Have you been employed by Adobe in the past?
+				45 container Description: Have you been employed by Adobe in the past?, ID: previousWorker--candidateIsPreviousWorker
+					46 container
+						47 radio button (settable, integer) Description: Yes, Value: 0, ID: ubbcm
+					48 container
+						49 radio button (settable, integer) Description: No, Value: 0, ID: ubbcn
+				135 container error1-previousWorker--candidateIsPreviousWorker
+					136 text Error :  The field Have you been employed by Adobe in the past? is required and must have a value.
+			50 container
+				51 text Country
+				52 pop up button Description: Country United States of America Required, ID: country--country
+			53 container Name
+				54 heading Name, Value: 4, ID: Name-section
+					55 text Name
+				56 text First Name
+				57 text field (settable) First Name, ID: name--legalName--firstName
+				137 container error1-name--legalName--firstName
+					138 text Error :  The field First Name is required and must have a value.
+				58 text Last Name
+				59 text field (settable) Last Name, ID: name--legalName--lastName
+				139 container error1-name--legalName--lastName
+					140 text Error :  The field Last Name is required and must have a value.
+			60 container Address
+				61 heading Address, Value: 4, ID: Address-section
+					62 text Address
+				63 text Address Line 1
+				64 text field (settable) Address Line 1, ID: address--addressLine1
+				65 text Address Line 2
+				66 text field (settable) Address Line 2, ID: address--addressLine2
+				67 text City
+				68 text field (settable) City, ID: address--city
+				69 text State
+				70 pop up button Description: State Select One, ID: address--countryRegion
+				71 text Postal Code
+				72 text field (settable) Postal Code, ID: address--postalCode
+			73 container Email Address
+				74 heading Email Address, Value: 4, ID: Email-Address-section
+					75 text Email Address
+				76 text Email
+				77 text field (settable) Email
+				141 container error1-emailAddress--emailAddress
+					142 text Error :  The field Email is required and must have a value.
+			78 container Phone
+				79 heading Phone, Value: 4, ID: Phone-section
+					80 text Phone
+				81 text Phone Device Type
+				82 pop up button Description: Phone Device Type Mobile Required, ID: phoneNumber--phoneType
+				83 text Country Phone Code
+				84 container
+					85 text field (settable) Country Phone Code
+					86 list items selected
+						87 Value: United States of America (+1), press delete to clear value., ID: pill-db8d3ca6446c11de98360015c5e6daf6
+							88 text United States of America (+1)
+				89 text Phone Number
+				90 text field (settable) Phone Number
+				143 container error1-phoneNumber--phoneNumber
+					144 text Error :  The field Phone Number is required and must have a value.
+				91 text Phone Extension
+				92 text field (settable) Phone Extension
+			93 button Next
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: YouTube, Value: youtube.com/adobecareers
+			13 link Description: X, Value: twitter.com/AdobeCareers
+			14 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			15 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		16 text © 2026 Workday, Inc. All rights reserved.
+	147 list Options Expanded
+		148 Value: Adobe Source not checked, ID: menuItem-3ba4ecdf4893100b31921acea3f56e93
+			149 container
+				150 text Adobe Source
+		151 Value: Contingent Worker-Specific not checked, ID: menuItem-9821e4ba31f01013e95aa8370a11ce69
+			152 container
+				153 text Contingent Worker-Specific
+		154 Value: External Organizations / Events not checked, ID: menuItem-98d9b30ea0ec0198f024c870af01ce5d
+			155 container
+				156 text External Organizations / Events
+		157 Value: Job Board not checked, ID: menuItem-ed408c5e515b018fc804dbc458017235
+			158 container
+				159 text Job Board
+		160 Value: Social Media not checked, ID: menuItem-ed408c5e515b01544395dfc458018935
+			161 container
+				162 text Social Media
+		163 Value: Through my University not checked, ID: menuItem-98d9b30ea0ec015269d3ce70af01fd5d
+			164 container
+				165 text Through my University
+
+The focused UI element is 146 text field (settable) How Did You Hear About Us?, ID: source--source

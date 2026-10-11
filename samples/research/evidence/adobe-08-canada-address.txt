@@ -1,0 +1,132 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually".
+1 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+		4 container
+			17 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Sr. Technical Account Manager, Value: 2
+				22 text Sr. Technical Account Manager
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text current step 1 of 5 My Information
+					27 container
+						28 text step 2 of 5 My Experience
+					29 container
+						30 text step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			35 heading My Information, Value: 3
+				36 text My Information
+			37 container
+				38 text * Indicates a required field
+			39 heading Errors Found, Value: 3
+				40 button (expanded) Errors Found, Secondary Actions: Collapse
+			41 content list
+				42 container
+					43 AXListMarker 1. 
+					44 button ErrorFirst Name
+						45 text Error
+						46 text First Name
+					47 text The field First Name is required and must have a value.
+				48 container
+					49 AXListMarker 2. 
+					50 button ErrorLast Name
+						51 text Error
+						52 text Last Name
+					53 text The field Last Name is required and must have a value.
+				54 container
+					55 AXListMarker 3. 
+					56 button ErrorEmail
+						57 text Error
+						58 text Email
+					59 text The field Email is required and must have a value.
+				60 container
+					61 AXListMarker 4. 
+					62 button ErrorPhone Number
+						63 text Error
+						64 text Phone Number
+					65 text The field Phone Number is required and must have a value.
+			66 container
+				67 text How Did You Hear About Us?
+				68 container
+					69 text field (settable) How Did You Hear About Us?, ID: source--source
+					70 list items selected
+						71 Value: Adobe.com, press delete to clear value., ID: pill-3ba4ecdf4893100b31921b09f4ac6e96
+							72 text Adobe.com
+			73 container Have you been employed by Adobe in the past?
+				74 text Have you been employed by Adobe in the past?
+				75 container Description: Have you been employed by Adobe in the past?, ID: previousWorker--candidateIsPreviousWorker
+					76 container
+						77 radio button (settable, integer) Description: Yes, Value: 0, ID: ubbcm
+					78 container
+						79 radio button (settable, integer) Description: No, Value: 1, ID: ubbcn
+			80 container
+				81 text Country
+				82 pop up button Description: Country Canada Required, ID: country--country
+			83 container Name
+				84 heading Name, Value: 4, ID: Name-section
+					85 text Name
+				86 text First Name
+				87 text field (settable) First Name, ID: name--legalName--firstName
+				88 container error1-name--legalName--firstName
+					89 text Error :  The field First Name is required and must have a value.
+				90 text Last Name
+				91 text field (settable) Last Name, ID: name--legalName--lastName
+				92 container error1-name--legalName--lastName
+					93 text Error :  The field Last Name is required and must have a value.
+			94 container Address
+				95 heading Address, Value: 4, ID: Address-section
+					96 text Address
+				97 text Address Line 1
+				98 text field (settable) Address Line 1, ID: address--addressLine1
+				99 text City
+				100 text field (settable) City, ID: address--city
+				101 text Province or Territory
+				102 pop up button Description: Province or Territory Select One, ID: address--countryRegion
+				103 text Postal Code
+				104 text field (settable) Postal Code, ID: address--postalCode
+			105 container Email Address
+				106 heading Email Address, Value: 4, ID: Email-Address-section
+					107 text Email Address
+				108 text Email
+				109 text field (settable) Email
+				110 container error1-emailAddress--emailAddress
+					111 text Error :  The field Email is required and must have a value.
+			112 container Phone
+				113 heading Phone, Value: 4, ID: Phone-section
+					114 text Phone
+				115 text Phone Device Type
+				116 pop up button Description: Phone Device Type Mobile Required, ID: phoneNumber--phoneType
+				117 text Country Phone Code
+				118 container
+					119 text field (settable) Country Phone Code
+					120 list items selected
+						121 Value: Canada (+1), press delete to clear value., ID: pill-db8d3db4446c11de98360015c5e6daf6
+							122 text Canada (+1)
+				123 text Phone Number
+				124 text field (settable) Phone Number
+				125 container error1-phoneNumber--phoneNumber
+					126 text Error :  The field Phone Number is required and must have a value.
+				127 text Phone Extension
+				128 text field (settable) Phone Extension
+			129 button Next
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: YouTube, Value: youtube.com/adobecareers
+			13 link Description: X, Value: twitter.com/AdobeCareers
+			14 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			15 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 82 pop up button Description: Country Canada Required, ID: country--country

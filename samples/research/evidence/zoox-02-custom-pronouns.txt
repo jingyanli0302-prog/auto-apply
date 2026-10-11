@@ -1,0 +1,176 @@
+Browser tab: 11, Title: "Zoox - Administrative Business Partner, Floater", URL: "https://jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply".
+0 AXWebArea Zoox - Administrative Business Partner, Floater, URL: jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply
+	1 container
+		2 heading Administrative Business Partner, Floater, Value: 2
+			3 text Administrative Business Partner, Floater
+		4 container
+			5 text Foster City, CA Executive Office – Executive Office / Full-Time / Hybrid
+		6 container application-form
+			7 container
+				8 heading SUBMIT YOUR APPLICATION, Value: 4
+					9 text SUBMIT YOUR APPLICATION
+				10 content list
+					11 container
+						12 text Resume/CV ✱
+						13 link Description: ATTACH RESUME/CV Resume/CV ✱: No file chosen, Value: jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply#
+					14 container
+						15 text Full name ✱
+						16 text field (settable) Full name ✱
+					17 container
+						18 text Pronouns
+						19 content list candidatePronounsCheckboxes
+							20 container
+								21 container
+									22 checkbox (settable, integer) Description: He/him, Value: 0
+									23 text He/him
+								24 container
+									25 checkbox (settable, integer) Description: She/her, Value: 0
+									26 text She/her
+								27 container
+									28 checkbox (settable, integer) Description: They/them, Value: 0
+									29 text They/them
+								30 container
+									31 checkbox (settable, integer) Description: Xe/xem, Value: 0
+									32 text Xe/xem
+								33 container
+									34 checkbox (settable, integer) Description: Ze/hir, Value: 0
+									35 text Ze/hir
+								36 container
+									37 checkbox (settable, integer) Description: Ey/em, Value: 0
+									38 text Ey/em
+								39 container
+									40 checkbox (settable, integer) Description: Hir/hir, Value: 0
+									41 text Hir/hir
+								42 container
+									43 checkbox (settable, integer) Description: Fae/faer, Value: 0
+									44 text Fae/faer
+								45 container
+									46 checkbox (settable, integer) Description: Hu/hu, Value: 0
+									47 text Hu/hu
+							48 container
+								49 checkbox (settable, integer) Description: Use name only, Value: 0, ID: useNameOnlyPronounsOption
+								50 text Use name only
+							172 container
+								173 checkbox (settable, integer) Description: Custom, Value: 1, ID: customPronounsOption
+								174 text Custom
+								175 text field (settable) customPronounsTextField
+							54 text Let the employer know what pronouns you use so that they can address you correctly.
+					55 container
+						56 text Email ✱
+						57 text field (settable) Email ✱
+					58 container
+						59 text Phone ✱
+						60 text field (settable) Phone ✱
+					61 container
+						62 text Current location
+						63 text field (settable) Current location, ID: location-input
+					64 container
+						65 text Current company
+						66 text field (settable) Current company
+			67 container
+				68 heading LINKS, Value: 4
+					69 text LINKS
+				70 content list
+					71 container
+						72 text LinkedIn URL
+						73 text field (settable) LinkedIn URL
+					74 container
+						75 text Other website
+						76 text field (settable) Other website
+			77 container
+				78 heading A FEW MORE QUESTIONS..., Value: 4
+					79 text A FEW MORE QUESTIONS...
+				80 content list
+					81 container
+						82 text What is your preferred first name and last name? If your legal first and last name is your preferred name, you do not need to respond.
+						83 text entry area (settable)
+					84 container
+						85 container
+							86 text Export Control and Compliance: For the sole purpose of determining export licensing requirements, please list any countries of which you are a citizen or legal permanent resident, and when you obtained such status. ✱
+						87 text entry area (settable)
+					88 container
+						89 container
+							90 text Sponsorship: Do you require sponsorship, or will you require sponsorship in the future for employment authorization in the United States? ✱
+						91 pop up button (collapsed, settable) Value: Select..., Secondary Actions: Expand
+							92 menu
+								93 (selected) Select...
+								94 Yes
+								95 No
+					96 container
+						97 container
+							98 text How did you hear about us? ✱
+						99 content list
+							100 container
+								101 checkbox (settable, integer) Description: Zoox Ads / Social Media, Value: 0
+								102 text Zoox Ads / Social Media
+							103 container
+								104 checkbox (settable, integer) Description: LinkedIn, Value: 0
+								105 text LinkedIn
+							106 container
+								107 checkbox (settable, integer) Description: Event, Media Interview, or other PR, Value: 0
+								108 text Event, Media Interview, or other PR
+							109 container
+								110 checkbox (settable, integer) Description: Recruiter Outreach, Value: 0
+								111 text Recruiter Outreach
+							112 container
+								113 checkbox (settable, integer) Description: Employee Referral, Value: 0
+								114 text Employee Referral
+							115 container
+								116 checkbox (settable, integer) Description: CVPR Conference, Value: 0
+								117 text CVPR Conference
+							118 container
+								119 checkbox (settable, integer) Description: SHPE Conference, Value: 0
+								120 text SHPE Conference
+							121 container
+								122 checkbox (settable, integer) Description: Other, Value: 0
+								123 text Other
+					124 container
+						125 text If you attended an on-campus or virtual event, which did you attend?
+						126 text field (settable)
+			127 container eeoSurvey_65f5e6fd-0ec6-423a-bc28-401ef04b6d76
+				128 heading Value: 4, U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)
+					129 text U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION    (Completion is voluntary and will not subject you to adverse treatment)
+				130 text Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+				131 container
+					132 text Gender
+					133 pop up button (collapsed, settable) Gender, Value: Select ..., Secondary Actions: Expand
+						134 menu
+							135 (selected) Select ...
+							136 Male
+							137 Female
+							138 Decline to self-identify
+				139 container
+					140 text Race
+					141 link (collapsed) Description: Click to see details about each option., Value: javascript:void(0), Secondary Actions: Expand
+					142 pop up button (collapsed, settable) Race Click to see details about each option., Value: Select ..., Secondary Actions: Expand
+						143 menu
+							144 (selected) Select ...
+							145 Hispanic or Latino
+							146 White (Not Hispanic or Latino)
+							147 Black or African American (Not Hispanic or Latino)
+							148 Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+							149 Asian (Not Hispanic or Latino)
+							150 American Indian or Alaska Native (Not Hispanic or Latino)
+							151 Two or More Races (Not Hispanic or Latino)
+							152 Decline to self-identify
+				153 container
+					154 text Veteran status
+					155 pop up button (collapsed, settable) Veteran status, Value: Select ..., Secondary Actions: Expand
+						156 menu
+							157 (selected) Select ...
+							158 I am a veteran
+							159 I am not a veteran
+							160 Decline to self-identify
+			161 container
+				162 content list
+					163 container
+						164 text By applying for this position, your data will be processed as per Zoox 
+						165 link Description: Privacy Policy, Value: zoox.com/privacy/
+						166 text .
+			167 button SUBMIT APPLICATION, ID: btn-submit
+	168 container
+		169 link Description: Zoox Home Page, Value: zoox.com/
+		170 text We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+		171 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 173 checkbox (settable, integer) Description: Custom, Value: 1, ID: customPronounsOption

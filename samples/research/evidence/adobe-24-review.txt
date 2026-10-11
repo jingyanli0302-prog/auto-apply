@@ -1,0 +1,162 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually".
+1 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+		4 container
+			17 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Sr. Technical Account Manager, Value: 2
+				22 text Sr. Technical Account Manager
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text completed step 2 of 5 My Experience
+					29 container
+						30 text completed step 3 of 5 Application Questions
+					31 container
+						32 text completed step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text current step 5 of 5 Review
+			35 heading Review, Value: 3
+				36 text Review
+			210 heading My Information, Value: 3
+				211 text My Information
+			212 container
+				213 text How Did You Hear About Us?
+				214 text Adobe.com
+			215 container
+				216 text Have you been employed by Adobe in the past?
+				217 text No
+			218 container
+				219 heading Name, Value: 4
+					220 text Name
+				221 text Synthetic TestApplicant
+			222 container
+				223 heading Address, Value: 4
+					224 text Address
+				225 text ON
+Canada
+			226 container
+				227 heading Email Address, Value: 4
+					228 text Email Address
+				229 text synthetic-ats-test@example.org
+			230 container
+				231 heading Phone, Value: 4
+					232 text Phone
+				233 text +1 (202) 5550100 (Mobile)
+			234 heading My Experience, Value: 3
+				235 text My Experience
+			236 container Work Experience
+				237 heading Work Experience, Value: 4, ID: Work-Experience-section
+					238 text Work Experience
+				239 container Work Experience 1
+					240 heading Work Experience 1, Value: 5, ID: Work-Experience-1-panel
+						241 text Work Experience 1
+					242 text Job Title
+					243 text Synthetic Test Engineer
+					244 text Company
+					245 text Synthetic Test Company
+					246 text Location
+					247 text No Response
+					248 text I currently work here
+					249 text Yes
+					250 text From
+					251 text 01/2026
+					252 text Role Description
+					253 text No Response
+			254 container Education
+				255 heading Education, Value: 4, ID: Education-section
+					256 text Education
+				257 container Education 1
+					258 heading Education 1, Value: 5, ID: Education-1-panel
+						259 text Education 1
+					260 text School or University
+					261 text Synthetic Test University
+					262 text Degree
+					263 text Bachelors
+					264 text Field of Study
+					265 text Computer Engineering
+					266 text Overall Result (GPA)
+					267 text No Response
+					268 text From
+					269 text No Response
+					270 text To (Actual or Expected)
+					271 text No Response
+			272 container Certifications
+				273 heading Certifications, Value: 4, ID: Certifications-section
+					274 text Certifications
+				275 text No Response
+			276 heading Skills, Value: 4
+				277 text Skills
+			278 container Resume/CV
+				279 heading Resume/CV, Value: 4, ID: Resume/CV-section
+					280 text Resume/CV
+				281 container attachments
+					282 container
+						283 text synthetic-test-resume.txt 344 B
+			284 container Social Network URLs
+				285 heading Social Network URLs, Value: 4, ID: Social-Network-URLs-section
+					286 text Social Network URLs
+				287 text Share your LinkedIn Profile site
+				288 text No Response
+			289 heading Application Questions, Value: 3
+				290 text Application Questions
+			291 container
+				292 container
+					293 text Are you of legal age to work in the country in which this position will be based?
+					294 container required
+						295 text *
+				296 text No
+				297 container
+					298 text Have you ever worked at Adobe in the following capacity:
+					299 container required
+						300 text *
+				301 content list
+					302 text I have not worked for Adobe in the past.
+				303 container
+					304 text Are you willing to submit a background check during the hiring process?
+					305 container required
+						306 text *
+				307 text No
+				308 container
+					309 text If you are offered employment by Adobe, can you provide documentation establishing your identity and right to work in the country where this position will be based?
+					310 container required
+						311 text *
+				312 text No
+				313 container
+					314 text Are you able to work on a daily basis in the work location listed for this position?  If not, are you willing to relocate at your own expense to accept a position with Adobe?
+					315 container required
+						316 text *
+				317 text No
+				318 container
+					319 text Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status, spouse visa, etc)?
+					320 container required
+						321 text *
+				322 text No
+			323 heading Voluntary Disclosures, Value: 3
+				324 text Voluntary Disclosures
+			325 container Terms and Conditions
+				326 heading Terms and Conditions, Value: 4, ID: Terms-and-Conditions-section
+					327 text Terms and Conditions
+				328 text Check this box to confirm the statement above.
+				329 text Yes
+			209 button Back
+			129 button Submit
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: YouTube, Value: youtube.com/adobecareers
+			13 link Description: X, Value: twitter.com/AdobeCareers
+			14 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			15 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 35 heading Review, Value: 3

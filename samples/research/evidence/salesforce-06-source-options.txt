@@ -1,0 +1,108 @@
+Browser tab: 4, Title: "Sign In", URL: "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually".
+1 AXWebArea Sign In, URL: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+		4 container
+			17 link Description:  search for jobs, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			35 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			36 pop up button (collapsed) synthetic-ats-test@example.org, ID: accountSettingsButton, Secondary Actions: Expand
+			37 container
+				38 button Search for Jobs
+				39 button Candidate Home
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Software Engineering MTS, Value: 2
+				22 text Software Engineering MTS
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text current step 1 of 5 My Information
+					27 container
+						28 text step 2 of 5 My Experience
+					29 container
+						30 text step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			40 heading My Information, Value: 3
+				41 text My Information
+			42 container
+				43 text * Indicates a required field
+			44 container
+				45 text How Did You Hear About Us?
+				98 container
+					99 text field (settable) How Did You Hear About Us?, ID: source--source
+			48 container Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If "Yes" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally.
+				49 text Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If "Yes" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally.
+				50 container ID: previousWorker--candidateIsPreviousWorker, Description: Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If "Yes" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally.
+					51 container
+						52 radio button (settable, integer) Description: Yes, Value: 0, ID: o4dqc
+					53 container
+						54 radio button (settable, integer) Description: No, Value: 1, ID: o4dqd
+			55 container
+				56 text Country
+				57 pop up button Description: Country Canada Required, ID: country--country
+			58 container Legal Name
+				59 heading Legal Name, Value: 4, ID: Legal-Name-section
+					60 text Legal Name
+				61 text First Name
+				100 text field (settable) First Name, Value: Synthetic, ID: name--legalName--firstName
+				63 text Last Name
+				101 text field (settable) Last Name, Value: TestApplicant, ID: name--legalName--lastName
+				65 container
+					66 checkbox (settable, integer) Description: I have a preferred name, Value: 0, ID: name--preferredCheck
+			67 container Address
+				68 heading Address, Value: 4, ID: Address-section
+					69 text Address
+				70 text Address Line 1
+				71 text field (settable) Address Line 1, ID: address--addressLine1
+				72 text City
+				73 text field (settable) City, ID: address--city
+				74 text Province or Territory
+				75 pop up button Description: Province or Territory Select One, ID: address--countryRegion
+				76 text Postal Code
+				77 text field (settable) Postal Code, ID: address--postalCode
+			78 container Email Address
+				79 heading Email Address, Value: 4, ID: Email-Address-section
+					80 text Email Address
+				81 text synthetic-ats-test@example.org
+			82 container Phone
+				83 heading Phone, Value: 4, ID: Phone-section
+					84 text Phone
+				85 text Phone Device Type
+				86 pop up button Description: Phone Device Type Mobile Required, ID: phoneNumber--phoneType
+				87 text Country Phone Code
+				88 container
+					89 text field (settable) Country Phone Code
+					90 list items selected
+						91 Value: Canada (+1), press delete to clear value., ID: pill-db8d3db4446c11de98360015c5e6daf6
+							92 text Canada (+1)
+				93 text Phone Number
+				102 text field (settable) Phone Number, Value: <redacted>
+				95 text Phone Extension
+				96 text field (settable) Phone Extension
+			97 button Save and Continue
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+			13 link Description: Facebook, Value: facebook.com/salesforce
+			14 link Description: X, Value: twitter.com/salesforcejobs
+			15 link Description: LinkedIn, Value: linkedin.com/company/salesforce
+		16 text © 2026 Workday, Inc. All rights reserved.
+	103 list Options Expanded
+		104 Value: Current or Former Employee not checked, ID: menuItem-c1095efdb48b1010a1fbaf64e1f00000
+			105 container
+				106 text Current or Former Employee
+		107 Value: External Career Site Sources not checked, ID: menuItem-c1095efdb48b1010a1fb7232db460000
+			108 container
+				109 text External Career Site Sources
+		110 Value: Referral not checked, ID: menuItem-c1095efdb48b1010a1fb88ff73e20000
+			111 container
+				112 text Referral
+
+The focused UI element is 99 text field (settable) How Did You Hear About Us?, ID: source--source

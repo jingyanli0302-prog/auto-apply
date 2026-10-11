@@ -1,0 +1,212 @@
+Browser tab: 1, Title: "Sign In", URL: "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually".
+1 AXWebArea Sign In, URL: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+		4 container
+			21 link Description:  careers home, Value: nvidia.com/en-us/about-nvidia/careers/
+			5 heading CAREERS AT NVIDIA, Value: 1
+				6 text CAREERS AT NVIDIA
+			39 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			40 pop up button (collapsed) [USER-OPERATED-TEST-ACCOUNT], ID: accountSettingsButton, Secondary Actions: Expand
+			8 container
+				9 button Home
+				10 button Search for Jobs
+				41 button Candidate Home
+		22 container
+			23 link Back to Job Posting
+				24 text Back to Job Posting
+			25 heading Senior Systems Software Engineer - GPU Performance at Scale, Value: 2
+				26 text Senior Systems Software Engineer - GPU Performance at Scale
+			27 container Application Progress
+				28 content list
+					29 container
+						30 text completed step 1 of 5 My Information
+					31 container
+						32 text current step 2 of 5 My Experience
+					33 container
+						34 text step 3 of 5 Application Questions
+					35 container
+						36 text step 4 of 5 Voluntary Disclosures
+					37 container
+						38 text step 5 of 5 Review
+			42 heading My Experience, Value: 3
+				43 text My Experience
+			44 container
+				45 text * Indicates a required field
+			100 container Work Experience
+				101 heading Work Experience, Value: 4, ID: Work-Experience-section
+					102 text Work Experience
+				133 container Work Experience 1
+					134 heading Work Experience 1, Value: 5, ID: Work-Experience-1-panel
+						135 text Work Experience 1
+					136 button Delete
+					137 text Job Title
+					138 text field (settable) Job Title, ID: workExperience-730--jobTitle
+					139 text Company
+					140 text field (settable) Company, ID: workExperience-730--companyName
+					141 text Location
+					142 text field (settable) Location, ID: workExperience-730--location
+					143 container
+						144 checkbox (settable, integer) Description: I currently work here, Value: 0, ID: workExperience-730--currentlyWorkHere
+					145 container From
+						146 text From
+						147 container workExperience-730--startDate
+							148 container
+								149 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-730--startDate-dateSectionMonth-input
+								150 text /
+								151 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-730--startDate-dateSectionYear-input
+							152 button Calendar
+					153 container To
+						154 text To
+						155 container workExperience-730--endDate
+							156 container
+								157 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-730--endDate-dateSectionMonth-input
+								158 text /
+								159 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-730--endDate-dateSectionYear-input
+							160 button Calendar
+					161 text Role Description
+					162 text entry area (settable) Role Description, ID: workExperience-730--roleDescription
+				183 container Work Experience 2
+					184 heading Work Experience 2, Value: 5, ID: Work-Experience-2-panel
+						185 text Work Experience 2
+					186 button Delete
+					187 text Job Title
+					188 text field (settable) Job Title, ID: workExperience-748--jobTitle
+					189 text Company
+					190 text field (settable) Company, ID: workExperience-748--companyName
+					191 text Location
+					192 text field (settable) Location, ID: workExperience-748--location
+					193 container
+						194 checkbox (settable, integer) Description: I currently work here, Value: 0, ID: workExperience-748--currentlyWorkHere
+					195 container From
+						196 text From
+						197 container workExperience-748--startDate
+							198 container
+								199 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-748--startDate-dateSectionMonth-input
+								200 text /
+								201 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-748--startDate-dateSectionYear-input
+							202 button Calendar
+					203 container To
+						204 text To
+						205 container workExperience-748--endDate
+							206 container
+								207 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-748--endDate-dateSectionMonth-input
+								208 text /
+								209 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-748--endDate-dateSectionYear-input
+							210 button Calendar
+					211 text Role Description
+					212 text entry area (settable) Role Description, ID: workExperience-748--roleDescription
+				103 button Add Another
+			104 container Education
+				105 heading Education, Value: 4, ID: Education-section
+					106 text Education
+				163 container Education 1
+					164 heading Education 1, Value: 5, ID: Education-1-panel
+						165 text Education 1
+					166 button Delete
+					167 text School or University
+					168 text field (settable) School or University, ID: education-739--schoolName
+					169 text Degree
+					170 pop up button (expanded) Description: Degree Select One Required, ID: education-739--degree, Secondary Actions: Collapse
+					171 text Field of Study
+					172 container
+						173 text field (settable) Field of Study, ID: education-739--fieldOfStudy
+					174 button The field will alphabetically return the first 100 results and can also return specified matches.
+					175 text Overall Result (GPA)
+					176 text field (settable) Overall Result (GPA), ID: education-739--gradeAverage
+					177 container From
+						178 text From
+						179 stepper (settable, integer) Description: Year, Value: 0, ID: education-739--firstYearAttended-dateSectionYear-input
+					180 container To (Actual or Expected)
+						181 text To (Actual or Expected)
+						182 stepper (settable, integer) Description: Year, Value: 0, ID: education-739--lastYearAttended-dateSectionYear-input
+				213 container Education 2
+					214 heading Education 2, Value: 5, ID: Education-2-panel
+						215 text Education 2
+					216 button Delete
+					217 text School or University
+					218 text field (settable) School or University, ID: education-761--schoolName
+					219 text Degree
+					220 pop up button Description: Degree Select One Required, ID: education-761--degree
+					221 text Field of Study
+					222 container
+						223 text field (settable) Field of Study, ID: education-761--fieldOfStudy
+					224 button The field will alphabetically return the first 100 results and can also return specified matches.
+					225 text Overall Result (GPA)
+					226 text field (settable) Overall Result (GPA), ID: education-761--gradeAverage
+					227 container From
+						228 text From
+						229 stepper (settable, integer) Description: Year, Value: 0, ID: education-761--firstYearAttended-dateSectionYear-input
+					230 container To (Actual or Expected)
+						231 text To (Actual or Expected)
+						232 stepper (settable, integer) Description: Year, Value: 0, ID: education-761--lastYearAttended-dateSectionYear-input
+				107 button Add Another
+			108 container Skills
+				109 heading Skills, Value: 4, ID: Skills-section
+					110 text Skills
+				111 text Type to Add Skills
+				112 container
+					113 text field (settable) Type to Add Skills, ID: skills--skills
+			114 container Resume/CV
+				115 heading Resume/CV, Value: 4, ID: Resume/CV-section
+					116 text Resume/CV
+				117 text Upload a file (5MB max)
+				118 container Upload a file (5MB max)
+					119 container
+						120 text Drop files here or
+						121 button Select files, ID: resumeAttachments--attachments
+			122 container Websites
+				123 heading Websites, Value: 4, ID: Websites-section
+					124 text Websites
+				125 text Add any relevant websites.
+				126 button Add
+			127 container Social Network URLs
+				128 heading Social Network URLs, Value: 4, ID: Social-Network-URLs-section
+					129 text Social Network URLs
+				130 text Please provide a link to your LinkedIn profile:
+				131 text field (settable) Please provide a link to your LinkedIn profile:, ID: socialNetworkAccounts--linkedInAccount
+			132 button Back
+			99 button Save and Continue
+		11 heading Follow Us, Value: 4
+			12 text Follow Us
+		13 content list
+			14 link Description: X, Value: twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+			15 link Description: Facebook, Value: facebook.com/NVIDIA
+			16 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+			17 link Description: LinkedIn, Value: linkedin.com/company/nvidia
+			18 link Description: YouTube, Value: youtube.com/nvidia
+		19 link Description: Applicant Privacy Policy, Value: nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+		20 text © 2026 Workday, Inc. All rights reserved.
+	233 list vx0417
+		234 (selected, disabled) Value: Select One, ID: select-one
+			235 text Select One
+		236 Value: Post-diploma studies, ID: b8012e10b7d21000ace74f23befe0000
+			237 text Post-diploma studies
+		238 Value: University Diploma, ID: 456ed1055320017a222c6d3e7b5169fa
+			239 text University Diploma
+		240 Value: Associates, ID: 0c40f6bd1d8f10ae2a31337d5c8c8d85
+			241 text Associates
+		242 Value: Technical/other training, ID: 0c40f6bd1d8f10ae2a3131d127748d84
+			243 text Technical/other training
+		244 Value: Some college, ID: 0c40f6bd1d8f10ae2a312fe8953c8d83
+			245 text Some college
+		246 Value: PhD, ID: 0c40f6bd1d8f10ae2a312e6b440c8d82
+			247 text PhD
+		248 Value: Some post college, ID: 0c40f6bd1d8f10ae2a312cef0c1c8d81
+			249 text Some post college
+		250 Value: No Degree, ID: 0c40f6bd1d8f10ae2a312b51f2348d80
+			251 text No Degree
+		252 Value: MBA, ID: 0c40f6bd1d8f10ae2a3129c9333c8d7f
+			253 text MBA
+		254 Value: Masters, ID: 0c40f6bd1d8f10ae2a31285b89dc8d7e
+			255 text Masters
+		256 Value: Juris Doctor, ID: 0c40f6bd1d8f10ae2a3126de57ec8d7d
+			257 text Juris Doctor
+		258 Value: High School, ID: 0c40f6bd1d8f10ae2a312577fda48d7c
+			259 text High School
+		260 Value: Doctorate, ID: 0c40f6bd1d8f10ae2a3123e280f48d7b
+			261 text Doctorate
+		262 Value: Bachelors, ID: 0c40f6bd1d8f10ae2a311f3f76248d7a
+			263 text Bachelors
+
+The focused UI element is 233 list vx0417

@@ -1,0 +1,29 @@
+Browser tab: 13, Title: "MyGreenhouse", URL: "https://my.greenhouse.io/users/sign_in?initiator=autofill&source=quick_apply&job_post_id=5426468004&job_board=figma".
+0 AXWebArea MyGreenhouse, URL: my.greenhouse.io/users/sign_in?initiator=autofill&source=quick_apply&job_post_id=5426468004&job_board=figma
+	1 container app
+		2 container
+			3 container
+				4 image Greenhouse logo
+				5 text Apply
+				6 text  for
+				7 text what’s next. Search smarter, apply faster and take control of your job search with MyGreenhouse.
+				8 container
+					9 text field (settable) Email
+				10 button Send security code
+				11 container Sign in with a social account
+					12 text Or continue with
+					13 button Continue with Google
+					14 button Continue with Apple
+					15 button Continue with LinkedIn
+				16 text By continuing, you agree to the 
+				17 link Description: Greenhouse Privacy Policy, Value: greenhouse.com/privacy-policy
+				18 text  and 
+				19 link Description: MyGreenhouse User Agreement, Value: my.greenhouse.io/users/agreement
+				20 text . Looking for your organization's Greenhouse account?
+				21 link Description: Sign in, Value: app.greenhouse.io/users/sign_in
+		22 container
+			23 text This site uses cookies By continuing to use this site, you are agreeing to our use of cookies. 
+			24 link Description: See Privacy Policy, Value: greenhouse.io/privacy-policy
+			25 button Ok
+
+The focused UI element is 9 text field (settable) Email

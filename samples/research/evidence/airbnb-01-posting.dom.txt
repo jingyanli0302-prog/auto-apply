@@ -1,0 +1,142 @@
+- dialog "Cookie Consent Banner":
+  - button "Close this consent banner" [active]:
+  - generic: We use cookies and other technologies to personalize content, measure ads and provide an optimized experience. Some cookies are required for the site to function and cannot be turned off. By accepting, you agree to the Airbnb Cookie Policy. You can update your preferences any time.
+  - link "Cookie Policy":
+    - /url: https://www.airbnb.com/help/article/2866
+  - button "Manage preferences"
+  - button "Accept all"
+  - button "Only necessary"
+- banner:
+  - link "Skip to main content":
+    - /url: "#main-content"
+  - link "Careers at Airbnb Careers":
+    - /url: https://careers.airbnb.com/
+    - img "Careers at Airbnb"
+    - text: Careers
+  - navigation:
+    - list:
+      - link "Life at Airbnb":
+        - /url: https://careers.airbnb.com/life-at-airbnb/
+      - link "Job Search":
+        - /url: /positions
+- heading "Account Manager" [level=1]
+- generic: London, United Kingdom
+- tablist "Job information":
+  - tab "Role overview" [selected]
+  - tab "Application"
+- tabpanel "Role overview":
+  - paragraph: Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+  - paragraph:
+    - strong: "The Community you will join:"
+  - paragraph:
+    - text: Our Supply Team is growing, and we want you to be part of it! As a
+    - strong: Market Associate / Account Manager,
+    - text: you will play a crucial role in the retention, growth, and optimisation of host entrepreneurs and rising hosts in your assigned territory. These hosts are individuals who manage their own property or support owners by hosting on their behalf. You will focus on building strong relationships with these hosts, helping them optimise their listings, improve pricing strategies, and enhance their overall success on Airbnb.
+  - paragraph:
+    - strong: "The difference you will make:"
+  - paragraph: As a Market Associate, you will be responsible for the retention and growth of long-tail Hosts in an assigned territory. You will establish and nurture business relationships with emerging professional host accounts by suggesting and supporting strategic initiatives that drive their success on Airbnb. These initiatives will include supply optimisation, pricing optimisation, host recruitment, and platform education. In addition, as these Hosts successfully grow on the platform, it will be imperative that you help them maintain best-in-class hospitality standards for an excellent guest experience. Beyond one-to-one account management responsibilities, you’ll also support Market Managers on your team to deliver one-to-many education programs, such as webinars and scaled e-mail communication. Ultimately, this team will be responsible for helping long-tail Hosts thrive on Airbnb.
+  - paragraph:
+    - strong: "A typical day:"
+  - list:
+    - listitem: Manage a book of business consisting of host entrepreneurs and rising hosts, ensuring their retention, growth, and optimisation on Airbnb.
+    - listitem: Conduct one-on-one optimisation and onboarding conversations, providing strategic recommendations on pricing, availability, and listing quality.
+    - listitem: Secure availability over high compression dates, ensuring hosts maximise their revenue potential.
+    - listitem: Educate hosts on product updates and policy changes, while channeling their feedback to internal teams.
+    - listitem: Respond to host inquiries and provide timely, high-quality support to improve their experience on the platform.
+    - listitem: Analyse performance data to identify trends and take action on opportunities that drive increased bookings and host success.
+    - listitem: Develop long-lasting relationships with hosts, ensuring they receive ongoing support tailored to their needs.
+  - paragraph:
+    - strong: "Your expertise:"
+  - list:
+    - listitem: 3+ years of experience in new sales, account management, or partner support.
+    - listitem: 2+ years of hospitality/travel industry experience (nice to have).
+    - listitem: Strong time management and prioritisation skills, with the ability to manage multiple accounts effectively.
+    - listitem: Proven experience working a book of business, driving engagement and growth through proactive account management.
+    - listitem: Highly goal-driven, with a strong bias for action and persistence in the face of challenges.
+    - listitem: Excellent communication and presentation skills, with the ability to engage effectively via phone, email, and in-person.
+    - listitem: Proficiency in CRM tools, particularly working with leads and opportunities (Salesforce experience is a plus).
+  - paragraph:
+    - strong: "Our Commitment To Inclusion & Belonging:"
+  - paragraph: Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+  - paragraph:
+    - strong: "How We'll Take Care of You:"
+  - paragraph: "Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits."
+  - generic: United Kingdom Annual Pay Range
+  - generic: £46,000—£54,000 GBP
+  - paragraph
+  - paragraph:
+    - strong: "Reasonable Accommodations:"
+    - text: We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+  - paragraph:
+    - strong: "A Note on Recruiting Scams:"
+    - text: "Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @"
+    - link "airbnb.com":
+      - /url: http://airbnb.com
+    - text: or @
+    - link "ext.airbnb.com":
+      - /url: http://ext.airbnb.com
+    - text: email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing. We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.
+  - paragraph
+  - paragraph
+- button "Switch to application form": Apply Now
+- contentinfo:
+  - paragraph: "Airbnb, Inc. can hire employees in states where we have registered entities. Currently, employees cannot be located/live in: Alaska, Mississippi, and North Dakota. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list."
+  - paragraph: Reasonable Accommodation — Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+  - list:
+    - link "Airbnb":
+      - /url: https://airbnb.com/
+      - generic: Airbnb
+    - list:
+      - link "Life at Airbnb":
+        - /url: https://careers.airbnb.com/life-at-airbnb/
+      - link "FAQ":
+        - /url: https://careers.airbnb.com/faq/
+      - link "Candidate Privacy":
+        - /url: https://careers.airbnb.com/candidate-privacy/
+    - generic: Careers
+    - list:
+      - link "Job Search":
+        - /url: https://careers.airbnb.com/positions
+      - link "Connect Engineering Apprenticeship":
+        - /url: https://careers.airbnb.com/connect-engineering-apprenticeship/
+      - link "Internship Programs":
+        - /url: https://careers.airbnb.com/internship-programs/
+    - generic: Machine Readable Files
+    - list:
+      - link "HMSA":
+        - /url: https://www.hmsa.com/help-center/transparency-in-coverage-machine-readable-files/
+      - link "Kaiser Permanente":
+        - /url: https://healthy.kaiserpermanente.org/northern-california/pages/technical-information#machine-readable-files
+      - link "Anthem":
+        - /url: https://www.anthem.com/ca/machine-readable-file/search/
+  - text: © Airbnb, Inc
+  - list:
+    - text: •
+    - link "Terms":
+      - /url: https://www.airbnb.com/terms
+    - text: •
+    - link "Privacy":
+      - /url: https://www.airbnb.com/terms/privacy_policy
+    - text: •
+    - link "Sitemap":
+      - /url: https://www.airbnb.com/sitemaps/v2
+  - link "• Cookie Preferences":
+    - /url: "#"
+    - text: •
+    - generic: Cookie Preferences
+  - link "• Your Privacy Choices":
+    - /url: "#"
+    - text: •
+    - generic: Your Privacy Choices
+  - button "English"
+  - link "linkedin":
+    - /url: https://www.linkedin.com/company/airbnb
+    - img "linkedin"
+  - link "twitter":
+    - /url: https://twitter.com/airbnb
+    - img "twitter"
+  - link "instagram":
+    - /url: https://instagram.com/airbnb
+    - img "instagram"
+- status
+- status

@@ -1,0 +1,19 @@
+{
+  "companies": 12,
+  "platforms": {
+    "workday": 3,
+    "greenhouse": 3,
+    "ashby": 3,
+    "lever": 3
+  },
+  "field_control_observation_rows": 476,
+  "screenshots": 114,
+  "evidence_files": 267,
+  "reviews_observed": [
+    "Adobe",
+    "Salesforce"
+  ],
+  "successful_formal_submissions": 0,
+  "broken_local_links": [],
+  "requested_D_path_written": false
+}

@@ -1,0 +1,100 @@
+- dialog "cookieconsent":
+  - generic: 🍪
+  - button "Dismiss"
+  - heading "Privacy Notice" [level=4]
+  - paragraph: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+- link "Veeva Systems logo":
+  - /url: https://careers.veeva.com
+  - img "Veeva Systems logo"
+- heading "Account Director" [level=2]
+- generic: New Jersey - Lyndhurst
+- generic: Professional Services – Digital Events /
+- generic: Full-Time /
+- generic: On-site
+- link "apply for this job":
+  - /url: https://jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply
+- generic: Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.
+- text: "At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a"
+- link "public benefit corporation":
+  - /url: https://medium.com/@peter.gassner/public-benefit-corporation-pbc-486e1e9508a6
+- text: (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+- text: Join us in
+- link "transforming the life sciences industry":
+  - /url: https://www.youtube.com/watch?v=TaPSP8cCSKY&ab_channel=Forbes
+- text: ", committed to making a positive impact on its customers, employees, and communities."
+- heading "The Role" [level=3]:
+  - strong: The Role
+- generic: The Account Director is responsible for overseeing one or more customers and teams, ensuring the delivery of honest, reliable services with transparency and clarity. They act as a strategic partner, offering innovative solutions when technology alone may not meet a customer’s goals. Collaborating closely with internal teams, the Account Director plays a key role in driving both customer and employee success. Through proactive leadership, clear communication, and a commitment to excellence, they foster strong relationships that support long-term growth and satisfaction for all stakeholders.
+- generic: This role is expected to be office based at least 2-3 days a week.
+- heading "What You’ll Do" [level=3]
+- list:
+  - strong: Relationship Management
+  - listitem: Serve as the primary escalation point for customer stakeholders, ensuring swift issue resolution
+  - listitem: Develop and maintain strong, long-term customer relationships that foster trust, advocacy, and sustained business growth
+  - listitem: Participate in customer meetings (weekly, monthly, quarterly) to align on goals and objectives
+  - listitem: Identify and pursue new business opportunities with existing and potential customers
+  - strong: Service Excellence & Strategic Guidance
+  - listitem: Ensure teams successfully deliver on customer requests and objectives, including reporting, technology updates, and service execution
+  - listitem: Provide strategic guidance on industry best practices to enhance customer operations
+  - listitem: Maintain a deep understanding of life sciences, regulated environments, event planning, and speakers bureau operations to provide expert-level service
+  - listitem: Stay up to date with relevant industry regulations, such as OIG guidelines and the PhRMA Code, ensuring compliance and high-quality service delivery
+  - listitem: Continuously seek ways to improve processes and enhance the overall customer experience
+  - strong: Team & Operational Management
+  - listitem: Build, mentor, and develop internal teams, fostering professional growth and high performance
+  - listitem: Manage staffing within budget constraints for various customer structures, collaborating with internal teams to ensure appropriate resourcing
+  - listitem: Oversee Statements of Work (SOWs) and ensure project scopes are effectively managed
+- heading "Requirements" [level=3]
+- list:
+  - listitem: B.S. or B.A. degree or equivalent experience
+  - listitem: 5+ years of customer service or account management or operations
+  - listitem: 3+ years of personnel development and leadership
+  - listitem: Prior experience within Life Sciences, Speakers Bureau, and Event Planning
+  - listitem: Strong analytical and problem-solving skills
+  - listitem: Professional and clear oral and written communication
+  - listitem: Demonstrate ability to work in a fast-paced environment, and/or multitask often to meet fluctuating customer/company priorities
+  - listitem: Strong working knowledge of Microsoft Office (Excel, Word, PowerPoint)
+- heading "Nice to Have" [level=3]
+- list:
+  - listitem: Familiar with the Life Science industry
+  - listitem: Maintain current knowledge of appropriate regulations, e.g., OIG, PhRMA Code
+  - listitem: Fundamental knowledge of Veeva Commercial CRM Product Suite including but not limited to Veeva CRM, Veeva Vault, Events Management, and Engage
+  - listitem: Ability to work and thrive in a team atmosphere
+  - listitem: Positive attitude and maintain a “Whatever it Takes” attitude
+  - listitem: A strong customer focus
+  - listitem: A servant leader
+- heading "Interviewing with Veeva" [level=3]
+- generic: We value your time and believe in a transparent hiring process. Here is the process you can expect.
+- list:
+  - listitem: Follow the application process and submit your resume.
+  - text: "If moving to the interview stage, our process is as follows:"
+  - list:
+    - listitem: A conversation with the hiring manager
+    - listitem: A personality assessment
+    - listitem: A practical case exercise
+    - listitem: A final conversation with our group's Senior Leader
+  - listitem: Once all interviews are complete, the manager will be in touch with a final decision.
+- heading "Perks & Benefits" [level=3]
+- list:
+  - listitem: Medical, dental, vision, and basic life insurance
+  - listitem: Flexible PTO and company paid holidays
+  - listitem: Retirement programs
+  - listitem: 1% charitable giving program
+- heading "Compensation" [level=3]
+- list:
+  - listitem: "Base pay: $95,000 - $140,000"
+  - listitem: The salary range listed here has been provided to comply with local regulations and represents a potential base salary range for this role. Please note that actual salaries may vary within the range above or below, depending on experience and location. We look at compensation for each individual and base our offer on your unique qualifications, experience, and expected contributions. This position may also be eligible for other types of compensation in addition to base salary, such as variable bonus and/or stock bonus.
+- heading "#LI-MidSenior" [level=6]
+- generic: Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+- text: Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at
+- link "talent_accommodations@veeva.com":
+  - /url: mailto:talent_accommodations@veeva.com
+- text: .
+- link "apply for this job":
+  - /url: https://jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply
+- paragraph:
+  - link "Veeva Systems Home Page":
+    - /url: https://www.veeva.com/meet-veeva/careers/
+- link "Jobs powered by Lever logo":
+  - /url: https://www.lever.co/job-seeker-support/
+  - generic: Jobs powered by
+  - img "Lever logo"

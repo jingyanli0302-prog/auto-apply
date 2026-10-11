@@ -1,0 +1,191 @@
+Browser tab: 14, Title: "Veeva Systems - Account Director", URL: "https://jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027".
+1 AXWebArea Veeva Systems - Account Director, URL: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027
+	2 container cookieconsent
+		3 container
+			4 text 🍪
+			5 button dismiss
+			6 heading Privacy Notice, Value: 4
+				7 text Privacy Notice
+			8 text This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+	9 link Description: Veeva Systems logo, Value: careers.veeva.com/
+	10 container
+		11 heading Account Director, Value: 2
+			12 text Account Director
+		13 container
+			14 text New Jersey - Lyndhurst Professional Services – Digital Events / Full-Time / On-Site
+		15 link Description: APPLY FOR THIS JOB, Value: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply
+		16 text Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.
+		17 container
+			18 text At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a 
+			19 link Description: public benefit corporation, Value: medium.com/@peter.gassner/public-benefit-corporation-pbc-486e1e9508a6
+			20 text  (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+		21 container
+			22 text Join us in 
+			23 link Description: transforming the life sciences industry, Value: youtube.com/watch?v=TaPSP8cCSKY&ab_channel=Forbes
+			24 text , committed to making a positive impact on its customers, employees, and communities.
+		25 heading The Role, Value: 3
+			26 text The Role
+		27 text The Account Director is responsible for overseeing one or more customers and teams, ensuring the delivery of honest, reliable services with transparency and clarity. They act as a strategic partner, offering innovative solutions when technology alone may not meet a customer’s goals. Collaborating closely with internal teams, the Account Director plays a key role in driving both customer and employee success. Through proactive leadership, clear communication, and a commitment to excellence, they foster strong relationships that support long-term growth and satisfaction for all stakeholders.
+		28 text This role is expected to be office based at least 2-3 days a week.
+		29 heading What You’ll Do, Value: 3
+			30 text What You’ll Do
+		31 content list
+			32 container
+				33 AXListMarker • 
+				34 text Relationship Management
+			35 container
+				36 AXListMarker • 
+				37 text Serve as the primary escalation point for customer stakeholders, ensuring swift issue resolution
+			38 container
+				39 AXListMarker • 
+				40 text Develop and maintain strong, long-term customer relationships that foster trust, advocacy, and sustained business growth
+			41 container
+				42 AXListMarker • 
+				43 text Participate in customer meetings (weekly, monthly, quarterly) to align on goals and objectives
+			44 container
+				45 AXListMarker • 
+				46 text Identify and pursue new business opportunities with existing and potential customers
+			47 container
+				48 AXListMarker • 
+				49 text Service Excellence & Strategic Guidance
+			50 container
+				51 AXListMarker • 
+				52 text Ensure teams successfully deliver on customer requests and objectives, including reporting, technology updates, and service execution
+			53 container
+				54 AXListMarker • 
+				55 text Provide strategic guidance on industry best practices to enhance customer operations
+			56 container
+				57 AXListMarker • 
+				58 text Maintain a deep understanding of life sciences, regulated environments, event planning, and speakers bureau operations to provide expert-level service
+			59 container
+				60 AXListMarker • 
+				61 text Stay up to date with relevant industry regulations, such as OIG guidelines and the PhRMA Code, ensuring compliance and high-quality service delivery
+			62 container
+				63 AXListMarker • 
+				64 text Continuously seek ways to improve processes and enhance the overall customer experience
+			65 container
+				66 AXListMarker • 
+				67 text Team & Operational Management
+			68 container
+				69 AXListMarker • 
+				70 text Build, mentor, and develop internal teams, fostering professional growth and high performance
+			71 container
+				72 AXListMarker • 
+				73 text Manage staffing within budget constraints for various customer structures, collaborating with internal teams to ensure appropriate resourcing
+			74 container
+				75 AXListMarker • 
+				76 text Oversee Statements of Work (SOWs) and ensure project scopes are effectively managed
+		77 heading Requirements, Value: 3
+			78 text Requirements
+		79 content list
+			80 container
+				81 AXListMarker • 
+				82 text B.S. or B.A. degree or equivalent experience
+			83 container
+				84 AXListMarker • 
+				85 text 5+ years of customer service or account management or operations
+			86 container
+				87 AXListMarker • 
+				88 text 3+ years of personnel development and leadership
+			89 container
+				90 AXListMarker • 
+				91 text Prior experience within Life Sciences,  Speakers Bureau, and Event Planning
+			92 container
+				93 AXListMarker • 
+				94 text Strong analytical and problem-solving skills
+			95 container
+				96 AXListMarker • 
+				97 text Professional and clear oral and written communication
+			98 container
+				99 AXListMarker • 
+				100 text Demonstrate ability to work in a fast-paced environment, and/or multitask often to meet fluctuating customer/company priorities
+			101 container
+				102 AXListMarker • 
+				103 text Strong working knowledge of Microsoft Office (Excel, Word, PowerPoint)
+		104 heading Nice to Have, Value: 3
+			105 text Nice to Have
+		106 content list
+			107 container
+				108 AXListMarker • 
+				109 text Familiar with the Life Science industry
+			110 container
+				111 AXListMarker • 
+				112 text Maintain current knowledge of appropriate regulations, e.g., OIG, PhRMA Code
+			113 container
+				114 AXListMarker • 
+				115 text Fundamental knowledge of Veeva Commercial CRM Product Suite including but not limited to Veeva CRM, Veeva Vault, Events Management, and Engage
+			116 container
+				117 AXListMarker • 
+				118 text Ability to work and thrive in a team atmosphere
+			119 container
+				120 AXListMarker • 
+				121 text Positive attitude and maintain a “Whatever it Takes” attitude
+			122 container
+				123 AXListMarker • 
+				124 text A strong  customer focus
+			125 container
+				126 AXListMarker • 
+				127 text A servant leader
+		128 heading Interviewing with Veeva, Value: 3
+			129 text Interviewing with Veeva
+		130 text We value your time and believe in a transparent hiring process. Here is the process you can expect.
+		131 content list
+			132 container
+				133 AXListMarker • 
+				134 text Follow the application process and submit your resume.
+			135 container
+				136 AXListMarker • 
+				137 text If moving to the interview stage, our process is as follows:
+				138 content list
+					139 container
+						140 AXListMarker 1. 
+						141 text A conversation with the hiring manager
+					142 container
+						143 AXListMarker 2. 
+						144 text A personality assessment
+					145 container
+						146 AXListMarker 3. 
+						147 text A practical case exercise
+					148 container
+						149 AXListMarker 4. 
+						150 text A final conversation with our group's Senior Leader
+			151 container
+				152 AXListMarker • 
+				153 text Once all interviews are complete, the manager will be in touch with a final decision. 
+		154 heading Perks & Benefits, Value: 3
+			155 text Perks & Benefits
+		156 content list
+			157 container
+				158 AXListMarker • 
+				159 text Medical, dental, vision, and basic life insurance
+			160 container
+				161 AXListMarker • 
+				162 text Flexible PTO and company paid holidays
+			163 container
+				164 AXListMarker • 
+				165 text Retirement programs
+			166 container
+				167 AXListMarker • 
+				168 text 1% charitable giving program
+		169 heading Compensation, Value: 3
+			170 text Compensation
+		171 content list
+			172 container
+				173 AXListMarker • 
+				174 text Base pay: $95,000 - $140,000
+			175 container
+				176 AXListMarker • 
+				177 text The salary range listed here has been provided to comply with local regulations and represents a potential base salary range for this role. Please note that actual salaries may vary within the range above or below, depending on experience and location. We look at compensation for each individual and base our offer on your unique qualifications, experience, and expected contributions. This position may also be eligible for other types of compensation in addition to base salary, such as variable bonus and/or stock bonus.
+		178 heading #li-midsenior, Value: 6
+			179 text #li-midsenior
+		180 text Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+		181 container
+			182 text Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at 
+			183 link Description: talent_accommodations@veeva.com, Value: mailto:talent_accommodations@veeva.com
+			184 text .
+		185 link Description: APPLY FOR THIS JOB, Value: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply
+	186 container
+		187 link Description: Veeva Systems Home Page, Value: veeva.com/meet-veeva/careers/
+		188 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 1 AXWebArea Veeva Systems - Account Director, URL: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027

@@ -1,0 +1,104 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "careers home":
+    - /url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    - img "careers home"
+  - heading "CAREERS AT NVIDIA" [level=1]
+  - button "Settings":
+    - generic: Settings
+  - button "[USER-OPERATED-TEST-ACCOUNT]":
+    - generic: [USER-OPERATED-TEST-ACCOUNT]
+  - navigation:
+    - button "Home"
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Senior Systems Software Engineer - GPU Performance at Scale" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: current step 1 of 5
+      - generic: My Information
+      - generic: step 2 of 5
+      - generic: My Experience
+      - generic: step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "My Information" [level=3]
+  - generic: "* Indicates a required field"
+  - generic: How Did You Hear About Us?*
+  - textbox "How Did You Hear About Us?":
+    - /placeholder: Search
+  - generic: 0 items selected
+  - group "Have you previously worked for NVIDIA as an employee or contractor?":
+    - generic: Have you previously worked for NVIDIA as an employee or contractor?*
+    - generic "Have you previously worked for NVIDIA as an employee or contractor?":
+      - radio "Yes" [checked] [active]
+      - generic: "Yes"
+      - radio "No"
+      - generic: "No"
+  - generic: Country*
+  - button "Country United States of America Required": United States of America
+  - group "Legal Name":
+    - heading "Legal Name" [level=4]
+    - generic: First Name*
+    - textbox "First Name"
+    - generic: Last Name*
+    - textbox "Last Name"
+    - generic: I have a preferred name
+    - checkbox "I have a preferred name" [checked]
+    - group "Preferred Name":
+      - heading "Preferred Name" [level=4]
+      - generic: First Name*
+      - textbox "First Name"
+      - generic: Last Name*
+      - textbox "Last Name"
+  - group "Address":
+    - heading "Address" [level=4]
+    - generic: Address Line 1
+    - textbox "Address Line 1"
+    - generic: City
+    - textbox "City"
+    - generic: State
+    - button "State Select One": Select One
+    - generic: Postal Code
+    - textbox "Postal Code"
+  - group "Email Address":
+    - heading "Email Address" [level=4]
+    - generic: [USER-OPERATED-TEST-ACCOUNT]
+  - group "Phone":
+    - heading "Phone" [level=4]
+    - generic: Phone Device Type*
+    - button "Phone Device Type Select One Required": Select One
+    - generic: Country Phone Code*
+    - textbox "Country Phone Code":
+      - /placeholder: Search
+    - generic: 1 item selected, United States of America (+1)
+    - listbox "items selected":
+      - option "United States of America (+1), press delete to clear value.":
+        - paragraph: United States of America (+1)
+    - generic: Phone Number*
+    - textbox "Phone Number"
+    - generic: Phone Extension
+    - textbox "Phone Extension"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "X":
+    - /url: https://twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - link "Facebook":
+    - /url: https://www.facebook.com/NVIDIA
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/nvidia
+  - link "YouTube":
+    - /url: https://www.youtube.com/nvidia
+- link "Applicant Privacy Policy":
+  - /url: https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+- generic: © 2026 Workday, Inc. All rights reserved.

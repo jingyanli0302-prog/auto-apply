@@ -1,0 +1,91 @@
+Browser tab: 1, Title: "Create Account", URL: "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually".
+1 AXWebArea Create Account, URL: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+		4 container
+			21 link Description:  careers home, Value: nvidia.com/en-us/about-nvidia/careers/
+			5 heading CAREERS AT NVIDIA, Value: 1
+				6 text CAREERS AT NVIDIA
+			7 button Sign In
+			8 container
+				9 button Home
+				10 button Search for Jobs
+		22 container
+			23 link Back to Job Posting
+				24 text Back to Job Posting
+			25 heading Senior Systems Software Engineer - GPU Performance at Scale, Value: 2
+				26 text Senior Systems Software Engineer - GPU Performance at Scale
+			27 container Application Progress
+				28 content list
+					29 container
+						30 text current step 1 of 6 Create Account/Sign In
+					31 container
+						32 text step 2 of 6 My Information
+					33 container
+						34 text step 3 of 6 My Experience
+					35 container
+						36 text step 4 of 6 Application Questions
+					37 container
+						38 text step 5 of 6 Voluntary Disclosures
+					39 container
+						40 text step 6 of 6 Review
+			41 container
+				42 heading Create Account, Value: 3, ID: authViewTitle
+					43 text Create Account
+				44 container
+					45 text Password Requirements:
+					46 content list
+						47 container
+							48 AXListMarker • 
+							49 text A special character
+						50 container
+							51 AXListMarker • 
+							52 text A lowercase character
+						53 container
+							54 AXListMarker • 
+							55 text A numeric character
+						56 container
+							57 AXListMarker • 
+							58 text An alphabetic character
+						59 container
+							60 AXListMarker • 
+							61 text A minimum of 8 characters
+						62 container
+							63 AXListMarker • 
+							64 text An uppercase character
+				65 container
+					66 text Email Address
+					67 text field (settable) Email Address, Value: <redacted>
+					68 text Password
+					69 text field (settable) Password, Value: <redacted>
+					70 text Verify New Password
+					71 text field (settable) Verify New Password, Value: <redacted>
+					82 container 48
+						83 text To maintain the integrity of our hiring process, each candidate is permitted to maintain only one authentic profile. The creation of duplicate accounts may result in disqualification and removal from consideration.
+						84 container
+							85 text I understand I am creating a candidate account, and my information will be stored by NVIDIA. At any time, I may request to have my account deleted. ​By selecting the checkbox, you are agreeing to the 
+							86 link Description: Terms and Conditions, Value: nvidia.com/en-us/about-nvidia/terms-of-service/
+							87 text  and acknowledging our 
+							88 link Description: Applicant Privacy, Value: nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+					72 button Read Less, ID: 47
+					73 container
+						74 checkbox (settable, integer) Description: I agree, Value: 0, ID: input-19
+					75 button Create Account
+				76 text Already have an account?
+				77 button Sign In
+				78 button Forgot your password?
+				79 container
+					80 text Enter website. This input is for robots only, do not enter if you're human.
+					81 text field (settable) Enter website. This input is for robots only, do not enter if you're human., ID: 5a328c09-a32e-4b8e-832e-f9864719bd28
+		11 heading Follow Us, Value: 4
+			12 text Follow Us
+		13 content list
+			14 link Description: X, Value: twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+			15 link Description: Facebook, Value: facebook.com/NVIDIA
+			16 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+			17 link Description: LinkedIn, Value: linkedin.com/company/nvidia
+			18 link Description: YouTube, Value: youtube.com/nvidia
+		19 link Description: Applicant Privacy Policy, Value: nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+		20 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 71 text field (settable) Verify New Password, Value: <redacted>

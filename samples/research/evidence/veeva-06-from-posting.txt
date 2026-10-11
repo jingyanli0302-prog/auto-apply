@@ -1,0 +1,127 @@
+Browser tab: 14, Title: "Veeva Systems - Account Director", URL: "https://jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply".
+1 AXWebArea Veeva Systems - Account Director, URL: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply
+	2 container cookieconsent
+		3 container
+			4 text 🍪
+			5 button dismiss
+			6 heading Privacy Notice, Value: 4
+				7 text Privacy Notice
+			8 text This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+	9 link Description: Veeva Systems logo, Value: careers.veeva.com/
+	10 container
+		11 heading Account Director, Value: 2
+			12 text Account Director
+		13 container
+			14 text New Jersey - Lyndhurst Professional Services – Digital Events / Full-Time / On-Site
+		15 container application-form
+			16 container
+				17 heading SUBMIT YOUR APPLICATION, Value: 4
+					18 text SUBMIT YOUR APPLICATION
+				19 content list
+					20 container
+						21 text Resume/CV
+						22 link Description: ATTACH RESUME/CV Resume/CV: No file chosen, Value: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply#
+					23 container
+						24 text Full name ✱
+						25 text field (settable) Full name ✱
+					26 container
+						27 text Email ✱
+						28 text field (settable) Email ✱
+					29 container
+						30 text Phone
+						31 text field (settable) Phone
+					32 container
+						33 text Current location
+						34 text field (settable) Current location, ID: location-input
+					35 container
+						36 text Current company
+						37 text field (settable) Current company
+			38 container
+				39 heading LINKS, Value: 4
+					40 text LINKS
+				41 content list
+					42 container
+						43 text LinkedIn URL
+						44 text field (settable) LinkedIn URL
+			45 container
+				46 heading UNITED STATES, Value: 4
+					47 text UNITED STATES
+				48 content list
+					49 container
+						50 container
+							51 text Do you now, or in the future require sponsorship? ✱
+						52 content list
+							53 container
+								54 radio button (settable, integer) Description: Yes, Value: 0
+								55 text Yes
+							56 container
+								57 radio button (settable, integer) Description: No, Value: 0
+								58 text No
+					59 container
+						60 container
+							61 text Do you have the unrestricted right to work in the United States? ✱
+						62 content list
+							63 container
+								64 radio button (settable, integer) Description: Yes, Value: 0
+								65 text Yes
+							66 container
+								67 radio button (settable, integer) Description: No, Value: 0
+								68 text No
+			69 container
+				70 heading NEXT STEP CONFIRMATION, Value: 4
+					71 text NEXT STEP CONFIRMATION
+				72 content list
+					73 container
+						74 container
+							75 text Stay Connected | To ensure you receive status updates and interview invitations, please add  no-reply@hire.lever.co  to your safe sender list and check your spam/junk folders regularly. ✱
+						76 content list
+							77 container
+								78 checkbox (settable, integer) Value: 0, Description: I understand that next steps will be sent via email and I have marked the sender address above as safe.
+								79 text I understand that next steps will be sent via email and I have marked the sender address above as safe.
+			80 container eeoSurvey_23d0936a-3e59-43a1-9cd7-d0232533a322
+				81 heading Value: 4, U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)
+					82 text U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION    (Completion is voluntary and will not subject you to adverse treatment)
+				83 text Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+				84 container
+					85 text Gender
+					86 pop up button (collapsed, settable) Gender, Value: Select ..., Secondary Actions: Expand
+						87 menu
+							88 (selected) Select ...
+							89 Male
+							90 Female
+							91 Decline to self-identify
+				92 container
+					93 text Race
+					94 link (collapsed) Description: Click to see details about each option., Value: javascript:void(0), Secondary Actions: Expand
+					95 pop up button (collapsed, settable) Race Click to see details about each option., Value: Select ..., Secondary Actions: Expand
+						96 menu
+							97 (selected) Select ...
+							98 Hispanic or Latino
+							99 White (Not Hispanic or Latino)
+							100 Black or African American (Not Hispanic or Latino)
+							101 Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+							102 Asian (Not Hispanic or Latino)
+							103 American Indian or Alaska Native (Not Hispanic or Latino)
+							104 Two or More Races (Not Hispanic or Latino)
+							105 Decline to self-identify
+				106 container
+					107 text Veteran status
+					108 pop up button (collapsed, settable) Veteran status, Value: Select ..., Secondary Actions: Expand
+						109 menu
+							110 (selected) Select ...
+							111 I am a veteran
+							112 I am not a veteran
+							113 Decline to self-identify
+			114 container
+				115 content list
+					116 content list
+						117 container
+							118 checkbox (settable, integer) Description: Yes, Veeva Systems can contact me about future job opportunities for up to 2 years Privacy policy, Value: 0
+							119 text Yes, Veeva Systems can contact me about future job opportunities for up to 2 years
+							120 link Description: Privacy policy, Value: veeva.com/job-applicant-data-privacy-notice/
+			121 button SUBMIT APPLICATION, ID: btn-submit
+	122 container
+		123 link Description: Veeva Systems Home Page, Value: veeva.com/meet-veeva/careers/
+		124 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 1 AXWebArea Veeva Systems - Account Director, URL: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply

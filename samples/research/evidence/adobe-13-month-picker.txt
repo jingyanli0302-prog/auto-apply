@@ -1,0 +1,194 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually".
+1 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+		4 container
+			17 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Sr. Technical Account Manager, Value: 2
+				22 text Sr. Technical Account Manager
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text current step 2 of 5 My Experience
+					29 container
+						30 text step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			35 heading My Experience, Value: 3
+				36 text My Experience
+			37 container
+				38 text * Indicates a required field
+			130 container Work Experience
+				131 heading Work Experience, Value: 4, ID: Work-Experience-section
+					132 text Work Experience
+				133 container Work Experience 1
+					134 heading Work Experience 1, Value: 5, ID: Work-Experience-1-panel
+						135 text Work Experience 1
+					136 text Job Title
+					137 text field (settable) Job Title, ID: workExperience-73--jobTitle
+					138 text Company
+					139 text field (settable) Company, ID: workExperience-73--companyName
+					140 text Location
+					141 text field (settable) Location, ID: workExperience-73--location
+					142 container
+						143 checkbox (settable, integer) Description: I currently work here, Value: 1, ID: workExperience-73--currentlyWorkHere
+					144 container From
+						145 text From
+						146 container workExperience-73--startDate
+							147 container
+								148 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-73--startDate-dateSectionMonth-input
+								149 text /
+								150 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-73--startDate-dateSectionYear-input
+							151 button Calendar
+					160 text Role Description
+					161 text entry area (settable) Role Description, ID: workExperience-73--roleDescription
+				210 container Work Experience 2
+					211 heading Work Experience 2, Value: 5, ID: Work-Experience-2-panel
+						212 text Work Experience 2
+					213 button Delete
+					214 text Job Title
+					215 text field (settable) Job Title, ID: workExperience-93--jobTitle
+					216 text Company
+					217 text field (settable) Company, ID: workExperience-93--companyName
+					218 text Location
+					219 text field (settable) Location, ID: workExperience-93--location
+					220 container
+						221 checkbox (settable, integer) Description: I currently work here, Value: 0, ID: workExperience-93--currentlyWorkHere
+					222 container From
+						223 text From
+						224 container workExperience-93--startDate
+							225 container
+								226 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-93--startDate-dateSectionMonth-input
+								227 text /
+								228 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-93--startDate-dateSectionYear-input
+							229 button Calendar
+					230 container To
+						231 text To
+						232 container workExperience-93--endDate
+							233 container
+								234 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-93--endDate-dateSectionMonth-input
+								235 text /
+								236 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-93--endDate-dateSectionYear-input
+							237 button Calendar
+					238 text Role Description
+					239 text entry area (settable) Role Description, ID: workExperience-93--roleDescription
+				162 button Add Another
+			163 container Education
+				164 heading Education, Value: 4, ID: Education-section
+					165 text Education
+				166 container Education 1
+					167 heading Education 1, Value: 5, ID: Education-1-panel
+						168 text Education 1
+					169 text School or University
+					170 text field (settable) School or University, ID: education-74--schoolName
+					171 text Degree
+					172 pop up button Description: Degree Select One Required, ID: education-74--degree
+					173 text Field of Study
+					174 container
+						175 text field (settable) Field of Study, ID: education-74--fieldOfStudy
+					176 button The field will alphabetically return the first 100 results and can also return specified matches.
+					177 text Overall Result (GPA)
+					178 text field (settable) Overall Result (GPA), ID: education-74--gradeAverage
+					179 container From
+						180 text From
+						181 stepper (settable, integer) Description: Year, Value: 0, ID: education-74--firstYearAttended-dateSectionYear-input
+					182 container To (Actual or Expected)
+						183 text To (Actual or Expected)
+						184 stepper (settable, integer) Description: Year, Value: 0, ID: education-74--lastYearAttended-dateSectionYear-input
+				240 container Education 2
+					241 heading Education 2, Value: 5, ID: Education-2-panel
+						242 text Education 2
+					243 button Delete
+					244 text School or University
+					245 text field (settable) School or University, ID: education-106--schoolName
+					246 text Degree
+					247 pop up button Description: Degree Select One Required, ID: education-106--degree
+					248 text Field of Study
+					249 container
+						250 text field (settable) Field of Study, ID: education-106--fieldOfStudy
+					251 button The field will alphabetically return the first 100 results and can also return specified matches.
+					252 text Overall Result (GPA)
+					253 text field (settable) Overall Result (GPA), ID: education-106--gradeAverage
+					254 container From
+						255 text From
+						256 stepper (settable, integer) Description: Year, Value: 0, ID: education-106--firstYearAttended-dateSectionYear-input
+					257 container To (Actual or Expected)
+						258 text To (Actual or Expected)
+						259 stepper (settable, integer) Description: Year, Value: 0, ID: education-106--lastYearAttended-dateSectionYear-input
+				185 button Add Another
+			186 container Certifications
+				187 heading Certifications, Value: 4, ID: Certifications-section
+					188 text Certifications
+				189 button Add
+			190 container Skills
+				191 heading Skills, Value: 4, ID: Skills-section
+					192 text Skills
+				193 text Type to Add Skills
+				194 container
+					195 text field (settable) Type to Add Skills, ID: skills--skills
+			196 container Resume/CV
+				197 heading Resume/CV, Value: 4, ID: Resume/CV-section
+					198 text Resume/CV
+				199 text Upload a file (5MB max)
+				200 container Upload a file (5MB max)
+					201 container
+						202 text Drop files here or
+						203 button Select files, ID: resumeAttachments--attachments
+			204 container Social Network URLs
+				205 heading Social Network URLs, Value: 4, ID: Social-Network-URLs-section
+					206 text Social Network URLs
+				207 text Share your LinkedIn Profile site
+				208 text field (settable) Share your LinkedIn Profile site, ID: socialNetworkAccounts--linkedInAccount
+			209 button Back
+			129 button Next
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: YouTube, Value: youtube.com/adobecareers
+			13 link Description: X, Value: twitter.com/AdobeCareers
+			14 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			15 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		16 text © 2026 Workday, Inc. All rights reserved.
+	260 container undefined-month-year
+		261 container undefined-month-year-monthpicker-spinner
+			262 button Previous Year
+			263 text 2026
+			264 button Next Year
+		265 content list Description: Month Picker, ID: undefined-month-year-monthpicker-grid
+			266 button Description: January 2026, Help: January
+				267 text Jan
+			268 button Description: February 2026, Help: February
+				269 text Feb
+			270 button Description: March 2026, Help: March
+				271 text Mar
+			272 button Description: April 2026, Help: April
+				273 text Apr
+			274 button May 2026
+				275 text May
+			276 button Description: June 2026, Help: June
+				277 text Jun
+			278 button Description: July 2026, Help: July
+				279 text Jul
+			280 button Description: August 2026, Help: August
+				281 text Aug
+			282 button Description: September 2026, Help: September
+				283 text Sep
+			284 button Description: Selected October 2026, Help: October
+				285 text Oct
+			286 button Description: November 2026, Help: November
+				287 text Nov
+			288 button Description: December 2026, Help: December
+				289 text Dec
+
+The focused UI element is 284 button Description: Selected October 2026, Help: October

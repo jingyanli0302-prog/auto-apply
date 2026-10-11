@@ -1,0 +1,22 @@
+[
+  {
+    "matches": [
+      "Tsinghua University"
+    ],
+    "query": "Tsinghua University"
+  },
+  {
+    "matches": [
+      "Berkeley College",
+      "University of California - Berkeley"
+    ],
+    "query": "University of California, Berkeley"
+  },
+  {
+    "matches": [
+      "Cornell University - Cornell Tech",
+      "Cornell University - Ithaca"
+    ],
+    "query": "Cornell University"
+  }
+]

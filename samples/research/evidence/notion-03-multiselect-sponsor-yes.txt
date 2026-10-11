@@ -1,0 +1,165 @@
+Browser tab: 5, Title: "Software Engineer, Developer Platform @ Notion", URL: "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application".
+0 AXWebArea Software Engineer, Developer Platform @ Notion, URL: jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application
+	1 container root
+		2 content list
+			3 link Description: Notion, Value: notion.com/
+			4 link Description: Back to Notion’s Job Listings, Value: jobs.ashbyhq.com/notion
+		5 heading Software Engineer, Developer Platform, Value: 1
+			6 text Software Engineer, Developer Platform
+		7 heading Location, Value: 2
+			8 text Location
+		9 text San Francisco, California; New York, New York
+		10 heading Employment Type, Value: 2
+			11 text Employment Type
+		12 text Full time
+		13 heading Location Type, Value: 2
+			14 text Location Type
+		15 text Hybrid
+		16 heading Department, Value: 2
+			17 text Department
+		18 text Engineering
+		19 tab group
+			20 tab (selectable, settable, boolean) Overview, Value: 0, ID: job-overview
+			21 tab (selected, settable, boolean) Application, Value: 1, ID: job-application-form
+		22 container Description: Application, ID: form
+			23 button Choose File
+			24 image
+			25 heading Autofill from resume, Value: 3
+				26 text Autofill from resume
+			27 container
+				28 text Upload your resume here to autofill key application fields.
+			29 button Upload file
+			30 container
+				31 text Full Name *
+			32 text field (settable) Full Name*
+			33 container
+				34 text Email *
+			35 text field (settable) Email*
+			36 container
+				37 text Phone *
+			38 text field (settable) Phone*
+			39 container
+				40 text Location *
+			41 container
+				42 combo box (collapsed, settable) Secondary Actions: Expand
+				43 button
+					44 image
+			45 container
+				46 text Resume *
+			47 button Resume*
+			48 button Upload File
+				49 image
+				50 text Upload File
+			51 text or drag and drop here
+			52 container
+				53 text LinkedIn Profile *
+			54 text field (settable) LinkedIn Profile*, ID: dbb7e595-3d7b-4a1f-b0b6-76497b74b4cb
+			55 container
+				56 text What pronouns would you like our team to use when addressing you?
+				57 radio button (settable, integer) Description: He/Him, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_b0a5aba8-dbb7-41a9-b548-f72cc3e48956-labeled-radio-0
+				58 radio button (settable, integer) Description: She/Her, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_b0a5aba8-dbb7-41a9-b548-f72cc3e48956-labeled-radio-1
+				59 radio button (settable, integer) Description: They/Them, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_b0a5aba8-dbb7-41a9-b548-f72cc3e48956-labeled-radio-2
+				60 radio button (settable, integer) Description: Prefer not to say, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_b0a5aba8-dbb7-41a9-b548-f72cc3e48956-labeled-radio-3
+				61 radio button (settable, integer) Description: Not represented here, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_b0a5aba8-dbb7-41a9-b548-f72cc3e48956-labeled-radio-4
+			62 container
+				63 text We work from our offices on Mondays, Tuesdays, and Thursdays (Anchor Days). If you need an accommodation, we’ll partner with you and explore reasonable options consistent with applicable law. Are you able to commit to working from one of our offices on Anchor Days each week? *
+			64 container
+				65 checkbox Yes, Value: 0
+				66 checkbox No, Value: 0
+			67 container
+				68 text Will you now or in the future require Notion to sponsor an immigration case in order to employ you? *
+			69 container
+				70 checkbox Yes, Value: 1
+				71 checkbox No, Value: 0
+			72 container
+				73 text How did you hear about this opportunity? (select all that apply)
+				74 image
+				75 checkbox (settable, integer) Description: LinkedIn, Value: 1, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-0
+				160 text LinkedIn
+				76 image
+				77 checkbox (settable, integer) Description: Glassdoor, Value: 1, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-1
+				161 text Glassdoor
+				78 image
+				79 checkbox (settable, integer) Description: Notion Blog, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-2
+				80 image
+				81 checkbox (settable, integer) Description: Notion Employee, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-3
+				82 image
+				83 checkbox (settable, integer) Description: Notion Website, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-4
+				84 image
+				85 checkbox (settable, integer) Description: Billboard/Outdoor Ads, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-5
+				86 image
+				87 checkbox (settable, integer) Description: Conference or Meetup, Value: 0, ID: 02f75f9a-3b5d-457d-931d-ecab72b75eb4_0b3b7773-f6d9-4032-9ab1-368c4164e95a-labeled-checkbox-6
+			88 text U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+			89 text    (Completion is voluntary and will not subject you to adverse treatment)
+			90 text Notion provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other classification protected by applicable law.
+			91 text We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+			92 container
+				93 text Gender Input gender
+				94 radio button (settable, integer) Description: Male, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_gender-labeled-radio-0
+				95 radio button (settable, integer) Description: Female, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_gender-labeled-radio-1
+				96 radio button (settable, integer) Description: Decline to self-identify, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_gender-labeled-radio-2
+			97 container
+				98 text Race
+				99 content list
+					100 container
+						101 AXListMarker • 
+						102 text Hispanic or Latino  - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.
+				103 content list
+					104 container
+						105 AXListMarker • 
+						106 text White  (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+					107 container
+						108 AXListMarker • 
+						109 text Black or African American  (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.
+					110 container
+						111 AXListMarker • 
+						112 text Native Hawaiian or Other Pacific Islander  (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+					113 container
+						114 AXListMarker • 
+						115 text Asian  (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+					116 container
+						117 AXListMarker • 
+						118 text American Indian or Alaska Native  (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+					119 container
+						120 AXListMarker • 
+						121 text Two or More Races  (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+				122 radio button (settable, integer) Description: Hispanic or Latino, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-0
+				123 radio button (settable, integer) Description: White (Not Hispanic or Latino), Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-1
+				124 radio button (settable, integer) Description: Black or African American (Not Hispanic or Latino), Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-2
+				125 radio button (settable, integer) Description: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino), Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-3
+				126 radio button (settable, integer) Description: Asian (Not Hispanic or Latino), Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-4
+				127 radio button (settable, integer) Description: American Indian or Alaska Native (Not Hispanic or Latino), Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-5
+				128 radio button (settable, integer) Description: Two or More Races (Not Hispanic or Latino), Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-6
+				129 radio button (settable, integer) Description: Decline to self-identify, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_race-labeled-radio-7
+			130 text SELF-IDENTIFICATION OF VETERAN STATUS
+			131 text   (Completion is voluntary and will not subject you to adverse treatment)
+			132 text If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection
+			133 content list
+				134 container
+					135 AXListMarker • 
+					136 text Disabled veteran  – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+				137 container
+					138 AXListMarker • 
+					139 text Recently separated veteran  – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+				140 container
+					141 AXListMarker • 
+					142 text Active duty wartime or campaign badge veteran  – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+				143 container
+					144 AXListMarker • 
+					145 text Armed forces service medal veteran  – A veteran who, while serving on active duty in the U.S. military, ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209).
+			146 container
+				147 text Veteran Status
+				148 radio button (settable, integer) Description: I identify as one or more of the classifications of protected veteran listed above, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_veteran_status-labeled-radio-0
+				149 radio button (settable, integer) Description: I am not a protected veteran, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_veteran_status-labeled-radio-1
+				150 radio button (settable, integer) Description: I decline to self-identify for protected veteran status, Value: 0, ID: 2a86e624-4a4f-4959-9e2a-0ea74a19e49d__systemfield_eeoc_veteran_status-labeled-radio-2
+			151 link Description: Recruiting Privacy Policy, Value: notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550
+			152 button Submit Application
+				153 text Submit Application
+				154 image
+		155 container
+			156 link Description: Learn more about Ashby, Value: ashbyhq.com/
+			157 link Description: Privacy Policy, Value: ashbyhq.com/privacy
+			158 link Description: Security, Value: ashbyhq.com/security
+			159 link Description: Vulnerability Disclosure, Value: ashbyhq.com/disclosure
+
+The focused UI element is 70 checkbox Yes, Value: 1

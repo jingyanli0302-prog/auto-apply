@@ -1,0 +1,803 @@
+Browser tab: 10, Title: "Palantir Technologies - Administrative Business Partner", URL: "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply".
+0 AXWebArea Palantir Technologies - Administrative Business Partner, URL: jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply
+	1 container cookieconsent
+		2 container
+			781 text 🍪
+			784 button deny
+			785 button accept
+			5 heading Privacy Notice, Value: 4
+				782 text Privacy Notice
+			783 text This website uses cookies to improve your web experience. By clicking  Accept , you agree to the use of cookies. 
+			6 link Description: Cookie Policy, Value: employinc.com/cookie-policy/
+	7 link Description: Palantir Technologies logo, Value: jobs.lever.co/palantir
+	8 container
+		9 heading Administrative Business Partner, Value: 2
+			10 text Administrative Business Partner
+		11 container
+			12 text Singapore, Singapore Administrative / Full-Time / Hybrid
+		13 container application-form
+			14 container
+				15 heading SUBMIT YOUR APPLICATION, Value: 4
+					16 text SUBMIT YOUR APPLICATION
+				17 content list
+					18 container
+						19 text Resume/CV ✱
+						20 link Description: ATTACH RESUME/CV Resume/CV ✱: No file chosen, Value: jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply#
+					21 container
+						22 text Full name ✱
+						23 text field (settable) Full name ✱
+					24 container
+						25 text Email ✱
+						26 text field (settable) Email ✱
+					27 container
+						28 text Phone
+						29 text field (settable) Phone
+					30 container
+						31 text Current location ✱
+						32 text field (settable) Current location ✱, ID: location-input
+					33 container
+						34 text Current company
+						35 text field (settable) Current company
+			36 container
+				37 heading LINKS, Value: 4
+					38 text LINKS
+				39 content list
+					40 container
+						41 text LinkedIn URL
+						42 text field (settable) LinkedIn URL
+					43 container
+						44 text GitHub URL
+						45 text field (settable) GitHub URL
+					46 container
+						47 text Portfolio URL
+						48 text field (settable) Portfolio URL
+			49 container
+				50 heading SUPPLEMENTARY QUESTIONS, Value: 4
+					51 text SUPPLEMENTARY QUESTIONS
+				52 content list
+					53 container
+						54 container
+							55 text Language Skill(s) (Check all that apply) ✱
+						56 content list
+							57 container
+								58 checkbox (settable, integer) Description: English (ENG), Value: 1
+								59 text English (ENG)
+							60 container
+								61 checkbox (settable, integer) Description: Spanish (SPA), Value: 1
+								62 text Spanish (SPA)
+							63 container
+								64 checkbox (settable, integer) Description: French (FRA), Value: 0
+								65 text French (FRA)
+							66 container
+								67 checkbox (settable, integer) Description: German (DEU), Value: 0
+								68 text German (DEU)
+							69 container
+								70 checkbox (settable, integer) Description: Japanese (JPN), Value: 0
+								71 text Japanese (JPN)
+							72 container
+								73 checkbox (settable, integer) Description: Cantonese (CANT), Value: 0
+								74 text Cantonese (CANT)
+							75 container
+								76 checkbox (settable, integer) Description: Mandarin (MAN), Value: 0
+								77 text Mandarin (MAN)
+							78 container
+								79 checkbox (settable, integer) Description: Dutch (NLD), Value: 0
+								80 text Dutch (NLD)
+							81 container
+								82 checkbox (settable, integer) Description: Hindi (HIN), Value: 0
+								83 text Hindi (HIN)
+							84 container
+								85 checkbox (settable, integer) Description: Arabic (ARA), Value: 0
+								86 text Arabic (ARA)
+							87 container
+								88 checkbox (settable, integer) Description: Danish (DAN), Value: 0
+								89 text Danish (DAN)
+							90 container
+								91 checkbox (settable, integer) Description: Turkish (TUR), Value: 0
+								92 text Turkish (TUR)
+							93 container
+								94 checkbox (settable, integer) Description: Portuguese (POR), Value: 0
+								95 text Portuguese (POR)
+							96 container
+								97 checkbox (settable, integer) Description: Hebrew (HEB), Value: 0
+								98 text Hebrew (HEB)
+							99 container
+								100 checkbox (settable, integer) Description: Swedish (SWE), Value: 0
+								101 text Swedish (SWE)
+							102 container
+								103 checkbox (settable, integer) Description: Norwegian (NOR), Value: 0
+								104 text Norwegian (NOR)
+							105 container
+								106 checkbox (settable, integer) Description: Italian (ITA), Value: 0
+								107 text Italian (ITA)
+							108 container
+								109 checkbox (settable, integer) Description: Vietnamese (VIE), Value: 0
+								110 text Vietnamese (VIE)
+							111 container
+								112 checkbox (settable, integer) Description: Tagalog (TGL), Value: 0
+								113 text Tagalog (TGL)
+							114 container
+								115 checkbox (settable, integer) Description: Khmer (KHM), Value: 0
+								116 text Khmer (KHM)
+							117 container
+								118 checkbox (settable, integer) Description: Hmong (HMN), Value: 0
+								119 text Hmong (HMN)
+							120 container
+								121 checkbox (settable, integer) Description: Telugu (TEL), Value: 0
+								122 text Telugu (TEL)
+							123 container
+								124 checkbox (settable, integer) Description: Bengali (BNE), Value: 0
+								125 text Bengali (BNE)
+							126 container
+								127 checkbox (settable, integer) Description: Marathi (MAR), Value: 0
+								128 text Marathi (MAR)
+							129 container
+								130 checkbox (settable, integer) Description: Urdu (URD), Value: 0
+								131 text Urdu (URD)
+							132 container
+								133 checkbox (settable, integer) Description: Gujarati (GUJ), Value: 0
+								134 text Gujarati (GUJ)
+							135 container
+								136 checkbox (settable, integer) Description: Lithuanian (LIT), Value: 0
+								137 text Lithuanian (LIT)
+							138 container
+								139 checkbox (settable, integer) Description: Korean (KOR), Value: 0
+								140 text Korean (KOR)
+							141 container
+								142 checkbox (settable, integer) Description: American Sign Language (ASL), Value: 0
+								143 text American Sign Language (ASL)
+							144 container
+								145 checkbox (settable, integer) Description: British Sign Language (BSL), Value: 0
+								146 text British Sign Language (BSL)
+							147 container
+								148 checkbox (settable, integer) Description: Choose not to disclose, Value: 0
+								149 text Choose not to disclose
+							150 container
+								151 checkbox (settable, integer) Description: Polish, Value: 0
+								152 text Polish
+							153 container
+								154 checkbox (settable, integer) Description: Other, Value: 1
+								155 text Other
+					156 container
+						157 text Preferred Name | What would you like us to call you?
+						158 text field (settable)
+					159 container
+						160 text Name Pronunciation | How do you pronounce your name?
+						161 text field (settable)
+			162 container
+				163 heading WORK AUTHORIZATION, Value: 4
+					164 text WORK AUTHORIZATION
+				165 content list
+					166 container
+						167 container
+							168 text Are you legally authorized to work in the country for which you are applying? ✱
+						169 content list
+							170 container
+								171 radio button (settable, integer) Description: Yes, Value: 0
+								172 text Yes
+							173 container
+								174 radio button (settable, integer) Description: No, Value: 0
+								175 text No
+					176 container
+						177 container
+							178 text Will you now or in the future require sponsorship for employment visa status (e.g., H-1B, etc.)? ✱
+						179 content list
+							180 container
+								181 radio button (settable, integer) Description: Yes, Value: 0
+								182 text Yes
+							183 container
+								184 radio button (settable, integer) Description: No, Value: 1
+								185 text No
+			186 container
+				187 heading UNIVERSITY, Value: 4
+					188 text UNIVERSITY
+				189 content list
+					190 container
+						191 container
+							192 text Which university are you currently attending or did you last attend? Please select "Other (School Not Listed)" if your school is not listed. ✱
+						193 pop up button (collapsed, settable) Value: Other - School Not Listed, Secondary Actions: Expand
+							194 menu (showing 0-500 of 3302 items)
+								195 Click Here (If you encounter an issue, make sure your browser is updated and try clearing cache & cookies)
+								196 Aalborg University
+								197 Aalto University
+								198 Aarhus University
+								199 Abdullah Gul University
+								200 Abertay University
+								201 Aberystwyth University
+								202 Abilene Christian University
+								203 Abo Akademi University
+								204 Abubakar Tafawa Balewa University
+								205 Academy of Art University
+								206 Academy of Economic Studies of Moldova
+								207 Academy of Fine Arts in Warsaw
+								208 Academy of Information Technology
+								209 Academy of Technology - AOT
+								210 Acharya Nagarjuna University
+								211 Adam Mickiewicz University in Poznan
+								212 Adams State College
+								213 Adana Science and Technology University
+								214 Addis Ababa Institute of Technology
+								215 Addis Ababa University
+								216 Adelphi University
+								217 Adi Shankara Institute of Engineering and Technology
+								218 Adina Institute of Science and Technology - AIST
+								219 Adiyaman University
+								220 Adnan Menderes University
+								221 Adolfo Ibanez University
+								222 African Leadership College, Mauritius
+								223 African Leadership University, Rwanda
+								224 African University of Science and Technology
+								225 Afyon Kocatepe University
+								226 AGH University of Science and Technology
+								227 Agro ParisTech
+								228 Ahmadu Bello University
+								229 Ahmedabad University
+								230 Ahmet Yesevi University
+								231 Aiken Technical College
+								232 Ain Shams University
+								233 Air Force Institute of Technology
+								234 Air University
+								235 Aix-Marseille University
+								236 Ajay Kumar Garg Engineering College
+								237 Akdeniz University
+								238 Aksaray University
+								239 Al Akhawayn University
+								240 Al Falah University
+								241 Al-Balqa Applied University
+								242 Ala-Too International University
+								243 Alabama A&M University
+								244 Alabama State University
+								245 Alagappa Chettiar College of Engineering and Technology
+								246 Albany College of Pharmacy & Health Sciences
+								247 Albany State University
+								248 Albion College
+								249 Albright College
+								250 Alcorn State University
+								251 Alderson Broaddus University
+								252 Aleppo University
+								253 Alexandria University
+								254 Alexandru Ioan Cuza University
+								255 Alfaisal University
+								256 Algoma University
+								257 Algonquin College
+								258 Allama Iqbal Open University
+								259 Allegheny College
+								260 Allen University
+								261 Alliance College of Engineering and Design
+								262 Alliant International University
+								263 Alma College
+								264 Alvernia University
+								265 AMA International University
+								266 AMA University
+								267 Amasya University
+								268 Amberton University
+								269 American College of Education
+								270 American InterContinental University
+								271 American International University Bangladesh - AIUB
+								272 American Military University
+								273 American Public University
+								274 American River College
+								275 American University
+								276 American University in Bulgaria
+								277 American University of Armenia
+								278 American University of Beirut
+								279 American University of Central Asia
+								280 American University of Nigeria
+								281 American University of Paris
+								282 American University of Sharjah
+								283 Amherst College
+								284 Amirkabir University of Technology
+								285 Amity University
+								286 Amrita Vishwa Vidyapeetham
+								287 Amsterdam University of Applied Sciences
+								288 An-Najah National University
+								289 Anadolu University
+								290 Anderson University
+								291 Andhra University
+								292 Andres Bello Catholic University
+								293 Andrews University
+								294 Anglia Ruskin University
+								295 Ankara Haci Bayram Veli University
+								296 Ankara University
+								297 Ankara Yildirim Beyazit University
+								298 Anna Maria College
+								299 Anna University
+								300 Antalya Akev University
+								301 Antalya International University
+								302 Antonio Jose Camacho University Institution
+								303 Appalachian State University
+								304 Aquinas College
+								305 Arab Academy for Science, Technology & Maritime Transport
+								306 Arcadia University
+								307 Argosy University
+								308 Ariel University
+								309 Aristotle University of Thessaloniki
+								310 Arizona Christian University
+								311 Arizona State University - Downtown Phoenix Campus
+								312 Arizona State University - Polytechnic Campus
+								313 Arizona State University - Tempe
+								314 Arkansas State University
+								315 Arkansas Tech University
+								316 Armstrong State University
+								317 Army Institute of Technology
+								318 Art Institute of Atlanta
+								319 Art Institute of Colorado
+								320 Art Institute of Fort Lauderdale
+								321 Art Institute of Pittsburgh
+								322 Art Institute of Salt Lake City
+								323 ArtCenter College of Design
+								324 Arts et Metiers ParisTech
+								325 Arts, Sciences and Technology University in Lebanon
+								326 Arya College of Engineering & IT
+								327 Ashesi University College
+								328 Ashford University
+								329 Ashworth College
+								330 Asia Pacific University
+								331 Asian University of Bangladesh
+								332 Assiut University
+								333 Assumption College
+								334 Aston University
+								335 Astrakhan State Technical University - ASTU
+								336 Ataturk University
+								337 Ateneo de Davao University
+								338 Ateneo de Manila University
+								339 Athabasca University
+								340 Athens State University
+								341 Athens University of Economics and Business
+								342 Athlone Institute of Technology
+								343 Atilim University
+								344 Atlantic University College
+								345 Auburn University
+								346 Auburn University - Montgomery
+								347 Auckland University of Technology
+								348 Augsburg College
+								349 Augustana College
+								350 Augustana University
+								351 Augusta State University
+								352 Aurora College
+								353 Aurora University
+								354 Aurora's Engineering College
+								355 Austin College
+								356 Austin Peay State University
+								357 Australian Catholic University
+								358 Australian National University
+								359 Autonomous University of Baja California
+								360 Autonomous University of Nuevo Leon
+								361 Autonomous University of San Luis Potosi
+								362 Ave Maria University
+								363 Averett University
+								364 Avrasya University
+								365 Azerbaijan State Oil Academy
+								366 Azerbaijan University of Languages
+								367 Azrieli College of Engineering Jerusalem
+								368 Azusa Pacific University
+								369 Babcock University
+								370 Babes-Bolyai University
+								371 Babson College
+								372 Babu Banarasi Das Northern India Institute of Technology - BBDNIIT
+								373 Baden-Wurttemberg Cooperative State University
+								374 Bahauddin Zakariya University
+								375 Bahcesehir University
+								376 Bahria University Islamabad
+								377 Baker College
+								378 Baku Engineering University
+								379 Baldwin Wallace University
+								380 Balikesir University
+								381 Ball State University
+								382 Banaras Hindu University
+								383 Bandirma Onyedi Eylul University
+								384 Bandung Institute of Technology
+								385 Bangalore University
+								386 Bangladesh University of Engineering Technology
+								387 Bangor University
+								388 Bank Street College of Education
+								389 Bansal Institute of Engineering and Technology - Lucknow
+								390 Bar Ilan University
+								391 Barcelona Graduate School of Economics - Barcelona GSE
+								392 Bard College
+								393 Barnard College
+								394 Barry University
+								395 Basaveshvara Engineering College
+								396 Bashkir State Pedagogical University
+								397 Baskent University
+								398 Bates College
+								399 Bauman Moscow State Technical University
+								400 Baylor College of Medicine
+								401 Baylor University
+								402 Beacon College
+								403 Becker College
+								404 Beihang University
+								405 Beijing Institute of Technology
+								406 Beijing Jiaotong University
+								407 Beijing University of Posts and Telecommunications
+								408 Belarusian State University
+								409 Belarusian State University of Informatics and Radioelectronics
+								410 Belfast Metropolitan College
+								411 Belgium Campus - Pretoria
+								412 Bellarmine University
+								413 Bellevue College
+								414 Bellevue University
+								415 Bells University of Technology
+								416 Belmont Abbey College
+								417 Belmont University
+								418 Beloit College
+								419 Bemidji State University
+								420 Ben-Gurion University of the Negev
+								421 Benedict College
+								422 Benedictine College
+								423 Benedictine University
+								424 Benha University
+								425 Beni Suef University
+								426 Benjamin Franklin Institute of Technology
+								427 Bennett College
+								428 Bennett University
+								429 Bennington College
+								430 Bentley University
+								431 Berea College
+								432 Berkeley College
+								433 Berklee College of Music
+								434 Bern University of Applied Sciences
+								435 Berry College
+								436 Bethany College
+								437 Bethel College
+								438 Bethel University
+								439 Bethesda University of California
+								440 Bethune-Cookman University
+								441 Beuth University of Applied Sciences Berlin
+								442 Beykent University
+								443 Bezalel Academy of Art and Design
+								444 Bhabha Institute Of Science And Technology
+								445 Bhagwant University
+								446 Bharathiar University
+								447 Bharathidasan University
+								448 Bharati Vidyapeeth’s Institute of Management Studies & Research
+								449 Bialystok University of Technology
+								450 Bielefeld University
+								451 Bilecik Seyh Edebali University
+								452 Bilkent University
+								453 Bina Nusantara University
+								454 Binghamton University
+								455 Bingol University
+								456 Binus University
+								457 Biola University
+								458 Birkbeck, University of London
+								459 Birla Institute of Technology and Science, Pilani
+								460 Birla Institute of Technology, Mesra
+								461 Birmingham City University
+								462 Birmingham-Southern College
+								463 Bitlis Eren University
+								464 Blekinge Institute of Technology
+								465 Bloomfield College
+								466 Bloomsburg University of Pennsylvania
+								467 Bluefield State University
+								468 Bluffton University
+								469 BMS Institute of Technology and Management
+								470 Bogazici University
+								471 Bogdan Petriceicu Hasdeu State University
+								472 Boise State University
+								473 Bond University
+								474 Boston College
+								475 Boston Conservatory
+								476 Boston University
+								477 Bournemouth University
+								478 Bowdoin College
+								479 Bowie State University
+								480 Bowling Green State University
+								481 BRAC University
+								482 Bradfield School of Computer Science
+								483 Bradley University
+								484 Brandeis University
+								485 Brescia University
+								486 Briar Cliff University
+								487 Briarcliffe College
+								488 Bridgewater State University
+								489 Brigham Young University - Hawaii
+								490 Brigham Young University - Idaho
+								491 Brigham Young University - Utah
+								492 British Columbia Institute of Technology
+								493 British University in Egypt
+								494 Brno University of Technology
+								495 Brock University
+								496 Brooklyn Law School
+								497 Broward College
+								498 Brown College
+								499 Brown University
+								500 Brunel University London
+								501 Bryan College
+								502 Bryant University
+								503 Bryn Mawr College
+								504 BTK University of Art and Design
+								505 Bucharest Academy of Economic Studies
+								506 Buckinghamshire New University
+								507 Bucknell University
+								508 Budapest University of Technology and Economics
+								509 Buena Vista University
+								510 Burdur Mehmet Akif Ersoy University
+								511 Burgas Free University
+								512 Bursa Technical University
+								513 Bursa Uludag University
+								514 Business Academy Aarhus
+								515 Butler University
+								516 Cabrillo College
+								517 Cairn University
+								518 Cairo Higher Institute for Engineering, Computer Science and Management
+								519 Cairo University
+								520 Caldwell University
+								521 California Baptist University
+								522 California College of the Arts
+								523 California Institute of Technology
+								524 California Institute of the Arts
+								525 California Lutheran University
+								526 California Maritime Academy
+								527 California Polytechnic State University - San Luis Obispo
+								528 California State Polytechnic University - Pomona
+								529 California State University - Bakersfield
+								530 California State University - Channel Islands
+								531 California State University - Chico
+								532 California State University - Dominguez Hills
+								533 California State University - East Bay
+								534 California State University - Fresno
+								535 California State University - Fullerton
+								536 California State University - Hayward
+								537 California State University - Long Beach
+								538 California State University - Los Angeles
+								539 California State University - Monterey Bay
+								540 California State University - Northridge
+								541 California State University - Sacramento
+								542 California State University - San Bernardino
+								543 California State University - San Marcos
+								544 California State University - Stanislaus
+								545 California Takshila University
+								546 California University of Pennsylvania
+								547 Calvin College
+								548 Cameron University
+								549 Campbellsville University
+								550 Canada College
+								551 Canakkale Onzekiz Mart University - COMU
+								552 Canisius College
+								553 Cankaya University
+								554 Canterbury Christ Church University
+								555 Cape Peninsula University of Technology
+								556 Capella University
+								557 Capitol Technology University
+								558 Cardiff Metropolitan University
+								559 Cardiff University
+								560 Carinthia University of Applied Sciences - CUAS
+								561 Carleton College
+								562 Carleton University
+								563 Carlow University
+								564 Carnegie Mellon University - Pittsburgh
+								565 Carnegie Mellon University - Silicon Valley
+								566 Carroll University
+								567 Carthage College
+								568 Case Western Reserve University
+								569 Cass Business School
+								570 Catholic University of Eastern Africa
+								571 Catholic University of Paris
+								572 Catholic University of Santa Maria
+								573 Catholic University of Uruguay - UCU
+								574 Ca' Foscari University of Venice
+								575 Ceara State University - UECE
+								576 Cecil College
+								577 Cedarville University
+								578 Centenary College of Louisiana
+								579 Centenary University
+								580 Center for Digital Technology and Management
+								581 Central American Technological University
+								582 Central Connecticut State University
+								583 Central European University
+								584 Central Institute of Technology
+								585 Central Michigan University
+								586 Central Queensland University
+								587 Central Saint Martins - London
+								588 Central State University
+								589 Central Washington University
+								590 CentraleSupelec
+								591 Centre College
+								592 Centre des Etudes Superieures Industrielles
+								593 Centre for Development of Advanced Computing
+								594 Centria University of Applied Sciences
+								595 Centro de Ensenanza Tecnica y Superior
+								596 Centro Universitario Euripedes de Marilia
+								597 CEPT University
+								598 CESI Engineering School
+								599 Chabot College
+								600 Chaitanya Bharathi Institute of Technology
+								601 Chalmers University of Technology
+								602 Champlain College
+								603 Chandigarh Engineering College
+								604 Chandigarh University
+								605 Chapman University
+								606 Charles Darwin University
+								607 Charles Sturt University
+								608 Charles University in Prague
+								609 Charleston Southern University
+								610 Charotar University of Science and Technology
+								611 Charter Oak State College
+								612 Chaudhary Charan Singh University
+								613 Chennai Institute of Technology
+								614 Chennai Mathematical Institute
+								615 Cherepovets State University
+								616 Cheyney University of Pennsylvania
+								617 Chiba University
+								618 Chicago State University
+								619 Chinese Academy of Sciences
+								620 Chitkara University
+								621 Chonnam National University
+								622 Christ University
+								623 Christian Brothers University
+								624 Christopher Newport University
+								625 Chulalongkorn University
+								626 Cincinnati Christian University
+								627 City University of Hong Kong
+								628 City University of London
+								629 City University of New York - Baruch College
+								630 City University of New York - Brooklyn College
+								631 City University of New York - City College
+								632 City University of New York - College of Staten Island
+								633 City University of New York - Graduate Center
+								634 City University of New York - Graduate School of Journalism
+								635 City University of New York - Hunter College
+								636 City University of New York - John Jay College of Criminal Justice
+								637 City University of New York - Lehman College
+								638 City University of New York - Macaulay Honors College
+								639 City University of New York - Medgar Evers College
+								640 City University of New York - New York City College of Technology
+								641 City University of New York - Queens College
+								642 City University of New York - School of Professional Studies
+								643 City University of New York - School of Public Health
+								644 City University of New York - York College
+								645 City University of Seattle
+								646 Claflin University
+								647 Claremont McKenna College
+								648 Clarion University
+								649 Clark Atlanta University
+								650 Clark College
+								651 Clark University
+								652 Clarkson University
+								653 Claude Bernard University Lyon 1
+								654 Clayton State University
+								655 Clemson University
+								656 Cleveland Institute of Art
+								657 Cleveland State University
+								658 Cluster Innovation Centre
+								659 Coastal Carolina University
+								660 Coburg University of Applied Sciences
+								661 Cochin University of Science and Technology - CUSAT
+								662 Cochise College
+								663 Coe College
+								664 Cogswell Polytechnical College
+								665 Coimbatore Institute of Technology
+								666 Colby College
+								667 Colby-Sawyer College
+								668 Colchester Institute
+								669 Colgate University
+								670 College for Creative Studies
+								671 College Lionel-Groulx
+								672 College of Charleston
+								673 College of Engineering, Guindy
+								674 College of Engineering, Pune
+								675 College of Engineering, Trivandrum
+								676 College of Management Academic Studies
+								677 College of Marin
+								678 College of Mount Saint Vincent
+								679 College of New Rochelle
+								680 College of Saint Benedict
+								681 College of Saint Elizabeth
+								682 College of Saint Rose
+								683 College of Saint Scholastica
+								684 College of San Mateo
+								685 College of Southern Nevada
+								686 College of Technology, Pantnagar
+								687 College of the Holy Cross
+								688 College of the North Atlantic
+								689 College of William and Mary
+								690 College of Wooster
+								691 Colorado Christian University
+								692 Colorado College
+								693 Colorado Mesa University
+								694 Colorado School of Mines
+			695 container
+				696 heading HOW DID YOU HEAR ABOUT THIS OPPORTUNITY?, Value: 4
+					697 text HOW DID YOU HEAR ABOUT THIS OPPORTUNITY?
+				698 content list
+					699 container
+						700 container
+							701 text Please tell us how you heard about this opportunity. ✱
+						702 pop up button (collapsed, settable) Value: Select..., Secondary Actions: Expand
+							703 menu
+								704 (selected) Select...
+								705 Agency or Non-Palantir Recruiter
+								706 America's Job Exchange
+								707 BuiltIn
+								708 Campus Ambassador
+								709 Friend or Family
+								710 Glassdoor
+								711 Hackajob
+								712 Hallo
+								713 Handshake
+								714 Job Board (Indeed, Monster, etc.)
+								715 LinkedIn
+								716 Palantir Event
+								717 Palantir Medium Blog
+								718 Palantir Recruiter
+								719 Palantir Website
+								720 Rewriting the Code
+								721 Tapia
+								722 University Job Board
+								723 University or University Organization
+								724 Other
+			725 container
+				726 heading ADDITIONAL QUESTIONS, Value: 4
+					727 text ADDITIONAL QUESTIONS
+				728 content list
+					729 container
+						730 text What has been your favorite project or proudest accomplishment? Why?
+						731 text entry area (settable)
+					732 container
+						733 text Why do you want to work at Palantir?
+						734 text entry area (settable)
+			735 container
+				736 heading AI NOTETAKER, Value: 4
+					737 text AI NOTETAKER
+				738 content list
+					739 container
+						740 container
+							741 text As part of our interview process, we may use AI notetakers to transcribe conversations for accuracy and efficiency. Please see our candidate privacy policy for more information on how we process your data. Your decision to opt in or out of this tooling will not impact your candidacy. ✱
+						742 content list
+							743 container
+								744 radio button (settable, integer) Description: Yes, I consent, Value: 0
+								745 text Yes, I consent
+							746 container
+								747 radio button (settable, integer) Description: No, I do not consent, Value: 0
+								748 text No, I do not consent
+			749 container
+				750 heading SINGAPORE CUSTOM QUESTIONS, Value: 4
+					751 text SINGAPORE CUSTOM QUESTIONS
+				752 content list
+					753 container
+						754 container
+							755 text Are you a Singapore citizen? ✱
+						756 content list
+							757 container
+								758 radio button (settable, integer) Description: Yes, Value: 0
+								759 text Yes
+							760 container
+								761 radio button (settable, integer) Description: No, Value: 0
+								762 text No
+					763 container
+						764 container
+							765 text Are you a Singapore permanent resident? ✱
+						766 content list
+							767 container
+								768 radio button (settable, integer) Description: Yes, Value: 0
+								769 text Yes
+							770 container
+								771 radio button (settable, integer) Description: No, Value: 0
+								772 text No
+			773 container
+				774 heading ADDITIONAL INFORMATION, Value: 4
+					775 text ADDITIONAL INFORMATION
+				776 text entry area (settable) ADDITIONAL INFORMATION, ID: additional-information
+			786 container Widget containing checkbox for hCaptcha security challenge
+				787 AXWebArea hCaptcha, URL: newassets.hcaptcha.com/captcha/v1/e97a50d7ecb685043e82c9d7a6034c5c544521c1/static/hcaptcha-enclave.html#frame=enclave&_channel=1irbhpfsqklh&_origin=https%3A%2F%2Fjobs.lever.co&host=jobs.lever.co&se=e97a50d7ecb685043e82c9d7a6034c5c544521c1
+					788 container
+						789 container hCaptcha challenge
+							790 AXWebArea hCaptcha, URL: newassets.hcaptcha.com/captcha/v1/e97a50d7ecb685043e82c9d7a6034c5c544521c1/static/hcaptcha.html#frame=challenge&id=0qshx427f81&host=jobs.lever.co&sentry=true&reportapi=https%3A%2F%2Faccounts.hcaptcha.com&recaptchacompat=true&custom=false&hl=en&tplinks=on&andint=off&se=e97a50d7ecb685043e82c9d7a6034c5c544521c1&pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&sitekey=e33f87f8-88ec-4e1a-9a13-df9bbb1d8120&size=invisible&theme=light&origin=https%3A%2F%2Fnewassets.hcaptcha.com&clientOptions=%7B%22sentry%22%3Atrue%2C%22reportapi%22%3A%22https%3A%2F%2Faccounts.hcaptcha.com%22%2C%22recaptchacompat%22%3A%22true%22%2C%22custom%22%3Afalse%2C%22hl%22%3A%22en-US%22%2C%22tplinks%22%3A%22on%22%2C%22andint%22%3A%22off%22%2C%22se%22%3A%22e97a50d7ecb685043e82c9d7a6034c5c544521c1%22%2C%22pat%22%3A%22on%22%2C%22pstissuer%22%3A%22https%3A%2F%2Fpst-issuer.hcaptcha.com%22%2C%22endpoint%22%3A%22https%3A%2F%2Fapi.hcaptcha.com%22%2C%22theme%22%3A%22light%22%2C%22size%22%3A%22normal%22%2C%22confirm-nav%22%3Afalse%7D
+								791 container
+									792 container
+										793 heading Please click on all icons that show multiple times, Value: 2, ID: prompt-question
+											802 text Please click on all icons that show multiple times
+									795 image Image-based CAPTCHA challenge. Please use the 'Accessibility: Retrieve Cookie' or 'Accessibility: Text Challenge' options if available in the challenge menu.
+									796 button Skip Challenge, page 1 of 2
+										803 text Skip
+									798 pop up button Description: EN - English, Select a language, ID: display-language
+									799 button (collapsed) Description: About hCaptcha & Accessibility Options, ID: menu-info, Secondary Actions: Expand
+									800 button Refresh Challenge.
+									801 button hCaptcha logo, opens new window with more information
+			777 button SUBMIT APPLICATION, ID: btn-submit
+	778 container
+		779 link Description: Palantir Technologies Home Page, Value: palantir.com/
+		780 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 799 button (collapsed) Description: About hCaptcha & Accessibility Options, ID: menu-info, Secondary Actions: Expand

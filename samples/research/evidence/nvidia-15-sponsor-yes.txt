@@ -1,0 +1,56 @@
+Browser tab: 1, Title: "Sign In", URL: "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually".
+1 AXWebArea Sign In, URL: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US%2C-CA%2C-Santa-Clara/Senior-Performance-Engineer_JR1996987/apply/applyManually
+		4 container
+			21 link Description:  careers home, Value: nvidia.com/en-us/about-nvidia/careers/
+			5 heading CAREERS AT NVIDIA, Value: 1
+				6 text CAREERS AT NVIDIA
+			39 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			40 pop up button (collapsed) [USER-OPERATED-TEST-ACCOUNT], ID: accountSettingsButton, Secondary Actions: Expand
+			8 container
+				9 button Home
+				10 button Search for Jobs
+				41 button Candidate Home
+		22 container
+			23 link Back to Job Posting
+				24 text Back to Job Posting
+			25 heading Senior Systems Software Engineer - GPU Performance at Scale, Value: 2
+				26 text Senior Systems Software Engineer - GPU Performance at Scale
+			27 container Application Progress
+				28 content list
+					29 container
+						30 text completed step 1 of 5 My Information
+					31 container
+						32 text completed step 2 of 5 My Experience
+					33 container
+						34 text current step 3 of 5 Application Questions
+					35 container
+						36 text step 4 of 5 Voluntary Disclosures
+					37 container
+						38 text step 5 of 5 Review
+			42 heading Application Questions, Value: 3
+				43 text Application Questions
+			44 container
+				45 text * Indicates a required field
+			133 container
+				134 container Are you legally authorized to work in the United States?
+					135 text Are you legally authorized to work in the United States?
+					136 pop up button Description:  Select One, ID: primaryQuestionnaire--3403860341171001f57d5c603f290001
+				137 container Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?
+					138 text Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?
+					139 pop up button Description:  Yes, ID: primaryQuestionnaire--3403860341171001f57d5cf9af3d0001
+			132 button Back
+			99 button Save and Continue
+		11 heading Follow Us, Value: 4
+			12 text Follow Us
+		13 content list
+			14 link Description: X, Value: twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+			15 link Description: Facebook, Value: facebook.com/NVIDIA
+			16 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+			17 link Description: LinkedIn, Value: linkedin.com/company/nvidia
+			18 link Description: YouTube, Value: youtube.com/nvidia
+		19 link Description: Applicant Privacy Policy, Value: nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+		20 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 139 pop up button Description:  Yes, ID: primaryQuestionnaire--3403860341171001f57d5cf9af3d0001

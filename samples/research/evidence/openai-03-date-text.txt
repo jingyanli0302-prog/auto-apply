@@ -1,0 +1,208 @@
+Browser tab: 7, Title: "Technical Program Manager, Compute Infrastructure @ OpenAI", URL: "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3/application".
+0 AXWebArea Technical Program Manager, Compute Infrastructure @ OpenAI, URL: jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3/application
+	1 container root
+		2 content list
+			3 link Description: OpenAI, Value: openai.com/
+			4 link Description: Back to OpenAI’s Job Listings, Value: openai.com/careers/search/
+		5 heading Technical Program Manager, Compute Infrastructure, Value: 1
+			6 text Technical Program Manager, Compute Infrastructure
+		7 heading Location, Value: 2
+			8 text Location
+		9 text San Francisco
+		10 heading Employment Type, Value: 2
+			11 text Employment Type
+		12 text Full time
+		13 heading Department, Value: 2
+			14 text Department
+		15 text Technical Program Management
+		16 heading Compensation, Value: 2
+			17 text Compensation
+		18 content list
+			19 text $257K – $335K • Offers Equity
+		20 text The base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. If the role is non-exempt, overtime pay will be provided consistent with applicable laws. In addition to the salary range listed above, total compensation also includes generous equity, performance-related bonus(es) for eligible employees, and the following benefits.
+		21 content list
+			22 container
+				23 AXListMarker • 
+				24 text Medical, dental, and vision insurance for you and your family, with employer contributions to Health Savings Accounts
+			25 container
+				26 AXListMarker • 
+				27 text Pre-tax accounts for Health FSA, Dependent Care FSA, and commuter expenses (parking and transit)
+			28 container
+				29 AXListMarker • 
+				30 text 401(k) retirement plan with employer match
+			31 container
+				32 AXListMarker • 
+				33 text Paid parental leave (up to 24 weeks for birth parents and 20 weeks for non-birthing parents), plus paid medical and caregiver leave (up to 8 weeks)
+			34 container
+				35 AXListMarker • 
+				36 text Paid time off: flexible PTO for exempt employees and up to 15 days annually for non-exempt employees
+			37 container
+				38 AXListMarker • 
+				39 text 13+ paid company holidays, and multiple paid coordinated company office closures throughout the year for focus and recharge, plus paid sick or safe time (1 hour per 30 hours worked, or more, as required by applicable state or local law)
+			40 container
+				41 AXListMarker • 
+				42 text Mental health and wellness support
+			43 container
+				44 AXListMarker • 
+				45 text Employer-paid basic life and disability coverage
+			46 container
+				47 AXListMarker • 
+				48 text Annual learning and development stipend to fuel your professional growth
+			49 container
+				50 AXListMarker • 
+				51 text Daily meals in our offices, and meal delivery credits as eligible
+			52 container
+				53 AXListMarker • 
+				54 text Relocation support for eligible employees
+			55 container
+				56 AXListMarker • 
+				57 text Additional taxable fringe benefits, such as charitable donation matching and wellness stipends, may also be provided.
+		58 text More details about our benefits are available to candidates during the hiring process. This role is at-will and OpenAI reserves the right to modify base pay and other compensation components at any time based on individual performance, team or company results, or market conditions.
+		59 tab group
+			60 tab (selectable, settable, boolean) Overview, Value: 0, ID: job-overview
+			61 tab (selected, settable, boolean) Application, Value: 1, ID: job-application-form
+		62 container Description: Application, ID: form
+			63 button Choose File
+			64 image
+			65 heading Autofill from resume, Value: 3
+				66 text Autofill from resume
+			67 container
+				68 text Upload your resume here to autofill key application fields.
+			69 button Upload file
+			70 container
+				71 image
+				72 text This job has application limits
+				73 image
+			74 text Please Note: we have set up limits for applications across roles. Candidates may not apply more than 5 times in any 180 day span.
+			75 container
+				76 text Legal Name *
+			77 text Please enter your legal name exactly as shown on your government-issued ID. This helps keep records accurate for later hiring steps.
+			78 text field (settable) Legal Name*
+			79 text Preferred Name (if applicable)
+			80 text field (settable) Preferred Name (if applicable), ID: 09a328e0-8d57-4f88-86ab-688de1657b17
+			81 container
+				82 text Email *
+			83 text field (settable) Email*
+			84 container
+				85 text Resume *
+			86 button Resume*
+			87 button Upload File
+				88 image
+				89 text Upload File
+			90 text or drag and drop here
+			91 container
+				92 text Phone Number *
+			93 text field (settable) Phone Number*
+			94 container
+				95 text Where are you currently located? *
+			96 container
+				97 combo box (collapsed, settable) Secondary Actions: Expand
+				98 button
+					99 image
+			100 container
+				101 text When can you start a new role? *
+			102 text field (settable) 11/15/2026
+			103 container
+				104 text Are you authorized to work in the country where the job is located? *
+			105 container
+				106 checkbox Yes, Value: 0
+				107 checkbox No, Value: 0
+			108 container
+				109 text Will you now or in the future require sponsorship for employment visa status in this country? *
+			110 text We may provide immigration and sponsorship support to new employees based on their unique circumstances.
+			111 container
+				112 checkbox Yes, Value: 1
+				113 checkbox No, Value: 0
+			114 container
+				115 text Are you able to work from our US office three days per week? *
+			116 container
+				117 checkbox Yes, Value: 0
+				118 checkbox No, Value: 0
+			119 text Additional Information
+			120 text Please share anything else you want us to know, such as your motivation to apply or additional context for your application.
+			121 text entry area (settable) Additional Information, ID: f189fed2-624b-41a1-a76f-0c67a2611d1a
+			122 container
+				123 text Applicant Arbitration Agreement Acknowledgement *
+				124 link Description: Applicant Arbitration Agreement, Value: cdn.openai.com/pdf/applicant-arbitration-agreement.pdf
+				125 image
+				126 checkbox (settable, integer) Value: 0, ID: 69cad881-9cdc-4d5b-af5f-c4e1d5fa5dc6_a90e16d2-baaf-4c31-b3e5-70b53f261040-labeled-checkbox-0, Description: I acknowledge that I have opened, read, and understood the Arbitration Agreement. I understand that by submitting my application, I am agreeing to be bound by the terms of the Arbitration Agreement.
+			127 container
+				128 text I hereby certify that I have not knowingly withheld any information that might adversely affect my chances for employment and that the answers given by me are true and correct to the best of my knowledge. I further certify that I, the undersigned applicant, have personally completed this application. I understand that, to the extent permitted by applicable law, any omission or misstatement of material fact on this application or on any document used to secure employment shall be grounds for rejection of this application or for immediate discharge if I am employed, regardless of the time elapsed before discovery.  * OpenAI is not seeking, nor should you disclose, any information that may be subject to confidentiality obligations to third parties, including but not limited to, your current employer.
+				129 image
+				130 checkbox (settable, integer) Description: I confirm I have read the above., Value: 0, ID: 69cad881-9cdc-4d5b-af5f-c4e1d5fa5dc6_7fe82de7-a1d7-4d8a-95a5-e5cc9adc84ea-labeled-checkbox-0
+			131 text U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION
+			132 text    (Completion is voluntary and will not subject you to adverse treatment)
+			133 text OpenAI provides equal employment opportunities to applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other classification protected by applicable law.
+			134 text OpenAI is a federal contractor or subcontractor subject to certain governmental recordkeeping and reporting requirements for the administration of civil rights laws and regulations. Employment decisions are made on the basis of job-related criteria without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, marital status, age, genetic information, national origin, disability, protected veteran status, or any other classification protected by applicable law.
+			135 text We invite all applicants to voluntarily self-identify their race, ethnicity, and gender. Submission of the information on this form is strictly voluntary and refusal to provide it will not subject you to any adverse treatment. Information obtained will be retained in a confidential file and separate from personnel records. This information may only be used in accordance with the provision of applicable federal laws, executive orders, and regulations. If you want more information about any of the sections, please check with a company representative.
+			136 container
+				137 text Gender Input gender
+				138 radio button (settable, integer) Description: Male, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_gender-labeled-radio-0
+				139 radio button (settable, integer) Description: Female, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_gender-labeled-radio-1
+				140 radio button (settable, integer) Description: Decline to self-identify, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_gender-labeled-radio-2
+			141 container
+				142 text Race
+				143 content list
+					144 container
+						145 AXListMarker • 
+						146 text Hispanic or Latino  - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.
+				147 content list
+					148 container
+						149 AXListMarker • 
+						150 text White  (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+					151 container
+						152 AXListMarker • 
+						153 text Black or African American  (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.
+					154 container
+						155 AXListMarker • 
+						156 text Native Hawaiian or Other Pacific Islander  (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+					157 container
+						158 AXListMarker • 
+						159 text Asian  (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+					160 container
+						161 AXListMarker • 
+						162 text American Indian or Alaska Native  (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.
+					163 container
+						164 AXListMarker • 
+						165 text Two or More Races  (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.
+				166 radio button (settable, integer) Description: Hispanic or Latino, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-0
+				167 radio button (settable, integer) Description: White (Not Hispanic or Latino), Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-1
+				168 radio button (settable, integer) Description: Black or African American (Not Hispanic or Latino), Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-2
+				169 radio button (settable, integer) Description: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino), Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-3
+				170 radio button (settable, integer) Description: Asian (Not Hispanic or Latino), Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-4
+				171 radio button (settable, integer) Description: American Indian or Alaska Native (Not Hispanic or Latino), Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-5
+				172 radio button (settable, integer) Description: Two or More Races (Not Hispanic or Latino), Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-6
+				173 radio button (settable, integer) Description: Decline to self-identify, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_race-labeled-radio-7
+			174 text SELF-IDENTIFICATION OF VETERAN STATUS
+			175 text   (Completion is voluntary and will not subject you to adverse treatment)
+			176 text OpenAI is a Government contractor subject to Section 4212 of the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, as amended by the Jobs for Veterans Act of 2002, which requires Government contractors to take affirmative action to employ and advance in employment protected veterans. If you believe that you belong to any of the following categories of protected veterans, please indicate by making the appropriate selection.
+			177 content list
+				178 container
+					179 AXListMarker • 
+					180 text Disabled veteran  – A veteran who served on active duty in the U.S. military and is entitled to disability compensation (or who but for the receipt of military retired pay would be entitled to disability compensation) under laws administered by the Secretary of Veterans Affairs, or was discharged or released from active duty because of a service-connected disability
+				181 container
+					182 AXListMarker • 
+					183 text Recently separated veteran  – A veteran separated during the three-year period beginning on the date of the veteran's discharge or release from active duty in the U.S military, ground, naval, or air service
+				184 container
+					185 AXListMarker • 
+					186 text Active duty wartime or campaign badge veteran  – A veteran who served on active duty in the U.S. military during a war, or in a campaign or expedition for which a campaign badge was authorized under the laws administered by the Department of Defense
+				187 container
+					188 AXListMarker • 
+					189 text Armed forces service medal veteran  – A veteran who, while serving on active duty in the U.S. military, ground, naval, or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985 (61 Fed. Reg. 1209).
+			190 container
+				191 text Veteran Status
+				192 radio button (settable, integer) Description: I identify as one or more of the classifications of protected veteran listed above, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_veteran_status-labeled-radio-0
+				193 radio button (settable, integer) Description: I am not a protected veteran, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_veteran_status-labeled-radio-1
+				194 radio button (settable, integer) Description: I decline to self-identify for protected veteran status, Value: 0, ID: 514d6d04-9c59-4aea-905e-9a94519a02dd__systemfield_eeoc_veteran_status-labeled-radio-2
+			195 button Submit Application
+				196 text Submit Application
+				197 image
+			198 text OpenAI may use Artificial Intelligence with this application. 
+			199 link Description: Learn more., Value: jobs.ashbyhq.com/openai/automation-notice
+		200 container
+			201 link Description: Learn more about Ashby, Value: ashbyhq.com/
+			202 link Description: Privacy Policy, Value: ashbyhq.com/privacy
+			203 link Description: Security, Value: ashbyhq.com/security
+			204 link Description: Vulnerability Disclosure, Value: ashbyhq.com/disclosure
+
+The focused UI element is 106 checkbox Yes, Value: 0

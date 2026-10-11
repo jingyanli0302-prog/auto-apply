@@ -1,0 +1,97 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "careers home":
+    - /url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    - img "careers home"
+  - heading "CAREERS AT NVIDIA" [level=1]
+  - button "Settings":
+    - generic: Settings
+  - button "[USER-OPERATED-TEST-ACCOUNT]":
+    - generic: [USER-OPERATED-TEST-ACCOUNT]
+  - navigation:
+    - button "Home"
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Senior Systems Software Engineer - GPU Performance at Scale" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: completed step 2 of 5
+      - generic: My Experience
+      - generic: completed step 3 of 5
+      - generic: Application Questions
+      - generic: current step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "Voluntary Disclosures" [level=3]
+  - generic: "* Indicates a required field"
+  - paragraph:
+    - generic: NVIDIA
+    - generic: tackles
+    - generic: challenges
+    - text: no one else can solve, so we look to hire the world’s best people -- who reflect different cultures, perspectives, and experiences -- to help us drive innovation and creativity. The voluntary self-disclosure (as described in
+    - text: the
+    - link "Privacy Policy for NVIDIA Career Applicants":
+      - /url: https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+      - text: Privacy Policy for
+      - generic: NVIDIA
+      - text: Career Applicants
+    - generic: )
+    - text: below will be used to help plan and improve
+    - generic: NVIDIA
+    - text: ’s inclusion and diversity efforts and programs, and to comply with record keeping and reporting requirements. Responding is entirely voluntary. Your candidacy will not be impacted by your answer or your decision not to respond.
+  - paragraph
+  - paragraph: "For definitions of protected veteran status please view the following information:"
+  - paragraph
+  - paragraph: NVIDIA is a Government contractor subject to the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended by the Jobs for Veterans Act of 2002, 38 U.S.C. 4212 (VEVRAA), which requires Government contractors to take affirmative action to employ and advance the employment of protected veterans pursuant to the Act. Submission of this information is voluntary and refusal to provide it will not subject you to any adverse treatment. The information provided will be used only in ways that are not inconsistent with the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended. Listed below are the definition of the categories of protected veterans
+  - list:
+    - listitem: Disabled Veteran means (1) a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs, or (2) a person who was discharged or released from active duty because of a service-connected disability.
+    - listitem: Recently Separated Veteran means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    - listitem: Active Duty Wartime or Campaign Badge Veteran means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    - listitem: Armed Forces Service Medal Veteran means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+  - paragraph: Protected veterans may have additional rights under USERRA--the Uniformed Services Employment and Reemployment Rights Act. In particular, if you were absent from employment in order to perform service in the uniformed service, you may be entitled to be reemployed by your employer in the position you would have obtained with reasonable certainty if not for the absence due to service. For more information, call the U.S. Department of Labor's Veterans Employment and Training Service (VETS), toll-free, at 1-866-4-USA-DOL.
+  - paragraph: The information you submit will be kept confidential, except that (i) supervisors and managers may be informed regarding restrictions on the work or duties of disabled veterans, and regarding necessary accommodations; (ii) first aid and safety personnel may be informed, when and to the extent appropriate, if you have a condition that might require emergency treatment; and (iii)Government officials engaged in enforcing laws administered by the Office of Federal Contract Compliance Programs, or enforcing the Americans with Disabilities Act, may be informed.
+  - paragraph: "For employees and those receiving offers of employment: If you are a disabled veteran, it would assist us if you tell us whether there are accommodations we could make that would enable you to perform the essential functions of the job, including special equipment, changes in the physical layout of the job, changes in the way the job is customarily performed, provision of personal assistance services or other accommodations. This information will assist us in making reasonable accommodations for your disability."
+  - generic: What is your ethnicity?*
+  - button "What is your ethnicity? Decline to State (United States of America) Required": Decline to State (United States of America)
+  - generic: What is your gender?*
+  - button "What is your gender? Decline to State Required": Decline to State
+  - generic: Do you identify as one of the following protected veterans (Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Service Medal Veteran)?*
+  - button "Do you identify as one of the following protected veterans (Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Service Medal Veteran)? I DO NOT WISH TO SELF-IDENTIFY Required" [active]: I DO NOT WISH TO SELF-IDENTIFY
+  - group "Terms and Conditions":
+    - heading "Terms and Conditions" [level=4]
+    - paragraph:
+      - generic: To maintain the integrity of our hiring process, each candidate is permitted to maintain only one authentic profile. The creation of duplicate accounts may result in disqualification and removal from consideration.
+    - paragraph:
+      - text: I accept that any information I provide will be used in accordance with
+      - link "NVIDIA's Applicant Privacy Policy":
+        - /url: https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+      - text: and I agree to
+      - link "NVIDIA's Terms of Service":
+        - /url: https://www.nvidia.com/en-us/about-nvidia/terms-of-service/
+      - text: .
+    - generic: By selecting the checkbox, you agree to our Terms and Conditions and Applicant Privacy Policy.*
+    - checkbox "By selecting the checkbox, you agree to our Terms and Conditions and Applicant Privacy Policy."
+  - button "Back"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "X":
+    - /url: https://twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - link "Facebook":
+    - /url: https://www.facebook.com/NVIDIA
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/nvidia
+  - link "YouTube":
+    - /url: https://www.youtube.com/nvidia
+- link "Applicant Privacy Policy":
+  - /url: https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+- generic: © 2026 Workday, Inc. All rights reserved.

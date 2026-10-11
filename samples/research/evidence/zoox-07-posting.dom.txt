@@ -1,0 +1,45 @@
+- heading "Administrative Business Partner, Floater" [level=2]
+- generic: Foster City, CA
+- generic: Executive Office – Executive Office /
+- generic: Full-time /
+- generic: Hybrid
+- link "apply for this job":
+  - /url: https://jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply
+- generic: Zoox is building the future of transportation. To do that, we’re also building an incredible crew—united by our mission, energized by our values, and driven by our purpose. We are looking to hire an executive assistant to support our executive office, reporting to the CEO's EA, and providing rotating support to key executives throughout the organization. This role will work closely with other Executive Assistants and Administrative Business Partners across all the departments at Zoox. This is an ideal position for someone who works well in a fast-paced environment, is a self-starter, and wants to work on dynamic and mission-driven teams.
+- generic: This role will require strong calendaring and prioritization skills, uncompromising attention to detail, the ability to meet tight deadlines, excellent organizational skills, and the ability to juggle multiple critical requests simultaneously. A high level of integrity, discretion in handling confidential information, and professionalism in dealing with senior leaders within the company are also vital aspects of this role. Most importantly, you must have a genuine passion for the Zoox mission.
+- heading "Responsibilities" [level=3]
+- list:
+  - listitem: Scheduling team and cross-functional meetings
+  - listitem: Assisting with team off-sites and events
+  - listitem: Helping with new hire onboarding
+  - listitem: Hands-on meeting scheduling, coordination, and note-taking
+  - listitem: Complete administrative tasks, including booking domestic and international travel, expense reporting, calendar management, and meeting arrangements
+  - listitem: Act as a back-up to other Administrative Business Partners and Executive Assistants as needed. Serve as a point of contact and liaison for multiple executives and Amazon.
+- heading "Qualifications" [level=3]
+- list:
+  - listitem: 4+ years of executive assistant experience
+  - listitem: Strong organizational skills and appreciation for the challenges of supporting a growing team of diverse personalities and programs
+  - listitem: Excellent written and verbal communication skills
+  - listitem: Technical computer skills, including proficiency with Google for Business Suite, MS Office Suite, Keynote, and other Apple products
+- heading "Bonus Qualifications" [level=3]
+- list:
+  - listitem: Comfortable working in a dynamic environment
+  - listitem: Sensitivity to handling critical and confidential information
+  - listitem: Ability to learn quickly, ask questions, and be solution-oriented
+  - listitem: Previous exposure to company boards, public officials, and other senior-level stakeholders
+  - listitem: Bachelor's degree
+- generic: $123,000 - $168,000 a year
+- strong: Base Salary Range
+- generic: "There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights. A sign-on bonus may be offered as part of the compensation package. The listed range applies only to the base salary. Compensation will vary based on geographic location and level. Leveling, as well as positioning within a level, is determined by a range of factors, including, but not limited to, a candidate's relevant years of experience, domain knowledge, and interview performance. The salary range listed in this posting is representative of the range of levels Zoox is considering for this position."
+- generic: Zoox also offers a comprehensive package of benefits, including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
+- generic: Please note, this role does require an onsite presence in our Foster City, CA office between 3-5 days per week.
+- generic: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+- link "apply for this job":
+  - /url: https://jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply
+- paragraph:
+  - link "Zoox Home Page":
+    - /url: http://zoox.com
+- link "Jobs powered by Lever logo":
+  - /url: https://www.lever.co/job-seeker-support/
+  - generic: Jobs powered by
+  - img "Lever logo"

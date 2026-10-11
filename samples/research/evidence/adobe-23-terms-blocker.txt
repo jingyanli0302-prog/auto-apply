@@ -1,0 +1,73 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually".
+1 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+		4 container
+			17 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Sr. Technical Account Manager, Value: 2
+				22 text Sr. Technical Account Manager
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text completed step 2 of 5 My Experience
+					29 container
+						30 text completed step 3 of 5 Application Questions
+					31 container
+						32 text current step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			35 heading Voluntary Disclosures, Value: 3
+				36 text Voluntary Disclosures
+			37 container
+				38 text * Indicates a required field
+			229 heading Errors Found, Value: 3
+				230 button (expanded) Errors Found, Secondary Actions: Collapse
+			231 content list
+				232 container
+					233 AXListMarker 1. 
+					234 button ErrorCheck this box to confirm the statement above.
+						235 text Error
+						236 text Check this box to confirm the statement above.
+					237 text Field and Value required
+			210 container Terms and Conditions
+				211 heading Terms and Conditions, Value: 4, ID: Terms-and-Conditions-section
+					212 text Terms and Conditions
+				213 container
+					214 text Adobe will use your information to fulfill its legitimate business interests in recruiting new talent and, at your request, to consider you for a contract of  employment.    In order to do this, Adobe will share your information with other Adobe companies and providers of IT systems and other vendors; some of whom will be in other countries. More information about this and your rights regarding Adobe's processing of your information, and your ability to withdraw your consent, is available in Adobe's 
+					215 link Description: Recruitment and Applicant Privacy Notice, Value: adobe.com/privacy/applicant-privacy.html
+					216 text .
+				217 container
+					218 text I understand that the information I provide will be used in accordance with Adobe’s Recruitment and Applicant Privacy Policy (Please add the following link under Adobe’s Recruitment and Applicant 
+					219 link Description: Privacy Policy, Value: adobe.com/privacy/applicant-privacy.html
+					220 text . I consent to the processing of my information, as described in that policy including that, in limited circumstances, Adobe may share information collected from me with trusted third parties who may be located outside my home country, to assist in certain phases of the hiring process (such as conducting background checks and for fraud prevention and detection purposes). Adobe may also use artificial intelligence tools to assist with aspects of administering the hiring process, but a human will always be making determinations as to any hiring decisions.
+				221 text I hereby certify that, to the best of my knowledge, the provided information (including attachments) is true and accurate. I acknowledge that providing false or misleading information may result in disqualification from the application process.
+				222 container
+					223 text By checking the box below, I agree to my information being used as described above and in the 
+					224 link Description: Recruitment and Applicant Privacy Notice, Value: adobe.com/privacy/applicant-privacy.html
+					225 text .
+				226 text Check this box to confirm the statement above.
+				227 container
+					228 checkbox (settable, integer) Description: Check this box to confirm the statement above., Value: 0, ID: termsAndConditions--acceptTermsAndAgreements
+				238 container error1-termsAndConditions--acceptTermsAndAgreements
+					239 text Error :  Field and Value required
+			209 button Back
+			129 button Next
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: YouTube, Value: youtube.com/adobecareers
+			13 link Description: X, Value: twitter.com/AdobeCareers
+			14 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			15 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 230 button (expanded) Errors Found, Secondary Actions: Collapse

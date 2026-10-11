@@ -1,0 +1,76 @@
+Browser tab: 14, Title: "Zoox - Administrative Business Partner, Floater", URL: "https://jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749".
+1 AXWebArea Zoox - Administrative Business Partner, Floater, URL: jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749
+	2 container
+		3 heading Administrative Business Partner, Floater, Value: 2
+			4 text Administrative Business Partner, Floater
+		5 container
+			6 text Foster City, CA Executive Office – Executive Office / Full-Time / Hybrid
+		7 link Description: APPLY FOR THIS JOB, Value: jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply
+		8 text Zoox is building the future of transportation. To do that, we’re also building an incredible crew—united by our mission, energized by our values, and driven by our purpose. We are looking to hire an executive assistant to support our executive office, reporting to the CEO's EA, and providing rotating support to key executives throughout the organization. This role will work closely with other Executive Assistants and Administrative Business Partners across all the departments at Zoox. This is an ideal position for someone who works well in a fast-paced environment, is a self-starter, and wants to work on dynamic and mission-driven teams.
+		9 text This role will require strong calendaring and prioritization skills, uncompromising attention to detail, the ability to meet tight deadlines, excellent organizational skills, and the ability to juggle multiple critical requests simultaneously. A high level of integrity, discretion in handling confidential information, and professionalism in dealing with senior leaders within the company are also vital aspects of this role. Most importantly, you must have a genuine passion for the Zoox mission.
+		10 heading Responsibilities, Value: 3
+			11 text Responsibilities
+		12 content list
+			13 container
+				14 AXListMarker • 
+				15 text Scheduling team and cross-functional meetings
+			16 container
+				17 AXListMarker • 
+				18 text Assisting with team off-sites and events
+			19 container
+				20 AXListMarker • 
+				21 text Helping with new hire onboarding
+			22 container
+				23 AXListMarker • 
+				24 text Hands-on meeting scheduling, coordination, and note-taking
+			25 container
+				26 AXListMarker • 
+				27 text Complete administrative tasks, including booking domestic and international travel, expense reporting, calendar management, and meeting arrangements
+			28 container
+				29 AXListMarker • 
+				30 text Act as a back-up to other Administrative Business Partners and Executive Assistants as needed. Serve as a point of contact and liaison for multiple executives and Amazon.
+		31 heading Qualifications, Value: 3
+			32 text Qualifications
+		33 content list
+			34 container
+				35 AXListMarker • 
+				36 text 4+ years of executive assistant experience
+			37 container
+				38 AXListMarker • 
+				39 text Strong organizational skills and appreciation for the challenges of supporting a growing team of diverse personalities and programs
+			40 container
+				41 AXListMarker • 
+				42 text Excellent written and verbal communication skills
+			43 container
+				44 AXListMarker • 
+				45 text Technical computer skills, including proficiency with Google for Business Suite, MS Office Suite, Keynote, and other Apple products
+		46 heading Bonus Qualifications, Value: 3
+			47 text Bonus Qualifications
+		48 content list
+			49 container
+				50 AXListMarker • 
+				51 text Comfortable working in a dynamic environment
+			52 container
+				53 AXListMarker • 
+				54 text Sensitivity to handling critical and confidential information
+			55 container
+				56 AXListMarker • 
+				57 text Ability to learn quickly, ask questions, and be solution-oriented
+			58 container
+				59 AXListMarker • 
+				60 text Previous exposure to company boards, public officials, and other senior-level stakeholders
+			61 container
+				62 AXListMarker • 
+				63 text Bachelor's degree
+		64 text $123,000 - $168,000 a year
+		65 text Base Salary Range
+		66 text There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights. A sign-on bonus may be offered as part of the compensation package. The listed range applies only to the base salary. Compensation will vary based on geographic location and level. Leveling, as well as positioning within a level, is determined by a range of factors, including, but not limited to, a candidate's relevant years of experience, domain knowledge, and interview performance. The salary range listed in this posting is representative of the range of levels Zoox is considering for this position.
+		67 text Zoox also offers a comprehensive package of benefits, including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
+		68 text Please note, this role does require an onsite presence in our Foster City, CA office between 3-5 days per week.
+		69 text We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+		70 link Description: APPLY FOR THIS JOB, Value: jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749/apply
+	71 container
+		72 link Description: Zoox Home Page, Value: zoox.com/
+		73 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 1 AXWebArea Zoox - Administrative Business Partner, Floater, URL: jobs.lever.co/zoox/e8a190f0-7a89-4c11-a6a0-452ff6234749

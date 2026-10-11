@@ -1,0 +1,119 @@
+Browser tab: 4, Title: "Sign In", URL: "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually".
+1 AXWebArea Sign In, URL: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+		4 container
+			17 link Description:  search for jobs, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			35 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			36 pop up button (collapsed) synthetic-ats-test@example.org, ID: accountSettingsButton, Secondary Actions: Expand
+			37 container
+				38 button Search for Jobs
+				39 button Candidate Home
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Software Engineering MTS, Value: 2
+				22 text Software Engineering MTS
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text completed step 2 of 5 My Experience
+					29 container
+						30 text completed step 3 of 5 Application Questions
+					31 container
+						32 text current step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			40 heading Voluntary Disclosures, Value: 3
+				41 text Voluntary Disclosures
+			42 container
+				43 text * Indicates a required field
+			133 container Equal Opportunity Employment
+				134 heading Equal Opportunity Employment, Value: 4, ID: Equal-Opportunity-Employment-section
+					135 text Equal Opportunity Employment
+				136 text As an Equal Opportunity Employer, salesforce.com must periodically produce statistical analyses and reports of our applicant records. You are invited to provide information to assist us in meeting these government reporting requirements.
+				137 text Completion of this form is completely voluntary. If you choose not to answer, you will not be subject to adverse effects. However, we encourage you to answer each question and assure you that this information is confidential. 
+				138 text Gender
+				139 pop up button Description: Gender Intersex Required, ID: personalInfoUS--gender
+				140 text Veterans
+				141 pop up button Description: Veterans Select One Required, ID: personalInfoUS--veteranStatus
+				142 text Ethnicity
+				143 pop up button (expanded) Description: Ethnicity Select One Required, ID: personalInfoUS--ethnicity, Secondary Actions: Collapse
+			144 container Terms and Conditions
+				145 heading Terms and Conditions, Value: 4, ID: Terms-and-Conditions-section
+					146 text Terms and Conditions
+				147 text At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+				148 container
+					149 link Description: Salesforce.com, Value: salesforce.com/
+					150 text  and 
+					151 link Description: Salesforce.org, Value: salesforce.org/
+					152 text  are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. 
+					153 link Description: Salesforce.com, Value: salesforce.com/
+					154 text  and 
+					155 link Description: Salesforce.org, Value: salesforce.org/
+					156 text  do not accept unsolicited headhunter and agency resumes. 
+					157 link Description: Salesforce.com, Value: salesforce.com/
+					158 text  and 
+					159 link Description: Salesforce.org, Value: salesforce.org/
+					160 text  will not pay any third-party agency or company that does not have a signed agreement with 
+					161 link Description: Salesfore.com, Value: salesfore.com/
+					162 text  or 
+					163 link Description: Salesforce.org, Value: salesforce.org/
+					164 text .
+				165 text Salesforce welcomes all.
+				166 container
+					167 text Accommodations  -  If you require assistance due to a disability applying for open positions please submit a request via this 
+					168 link Description: Accommodations Request Form, Value: careers.mail.salesforce.com/accommodations-request-form
+					169 text .
+				170 container
+					171 text Pay Transparency Policy Statement –  The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
+				172 container
+					173 text For applicants in Japan, please review the 
+					174 link Description: Agreement on the Handling of Personal Information, Value: org62.my.salesforce.com/sfc/p/#000000000062/a/3y000001MnzQ/MNVjjt0xKAoGU7moR0aAfwj69BIA6IJTlRrgDIabpyE
+					175 text .​
+				176 container
+					177 text By submitting my information I confirm that I have read and agree to the 
+					178 link Description: Privacy Statement, Value: c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Privacy/salesforce-candidate-privacy-statement.pdf
+					179 text  and the 
+					180 link Description: AI in the Interview Process policy, Value: dreamjobcentral.my.salesforce.com/sfc/p/#70000000Jxye/a/7y00000Ab2pz/c7mAaMPOwmi2xd6xidzueUn9vZu_OGKiZOl4W6qtK14
+					181 text .
+				182 text Yes, I have read and consent to the terms and conditions
+				183 container
+					184 checkbox (settable, integer) Description: Yes, I have read and consent to the terms and conditions, Value: 0, ID: termsAndConditions--acceptTermsAndAgreements
+			132 button Back
+			97 button Save and Continue
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+			13 link Description: Facebook, Value: facebook.com/salesforce
+			14 link Description: X, Value: twitter.com/salesforcejobs
+			15 link Description: LinkedIn, Value: linkedin.com/company/salesforce
+		16 text © 2026 Workday, Inc. All rights reserved.
+	185 list o4dq1r
+		186 (selected, disabled) Value: Select One, ID: select-one
+			187 text Select One
+		188 ID: ac67137f12be1003980f51cf4b2d0000, Value: American Indigenous/Native or Alaskan Indigenous/Native/Inuit (Not Hispanic or Latinx) (United States of America)
+			189 text American Indigenous/Native or Alaskan Indigenous/Native/Inuit (Not Hispanic or Latinx) (United States of America)
+		190 Value: Asian or Indian Subcontinent (Not Hispanic or Latinx) (United States of America), ID: ac67137f12be1003980f3ae487f40000
+			191 text Asian or Indian Subcontinent (Not Hispanic or Latinx) (United States of America)
+		192 Value: Black or African American (Not Hispanic or Latinx) (United States of America), ID: ac67137f12be1003980f374b48580000
+			193 text Black or African American (Not Hispanic or Latinx) (United States of America)
+		194 Value: Hispanic or Latinx (United States of America), ID: ac67137f12be1003980f5a363fc60000
+			195 text Hispanic or Latinx (United States of America)
+		196 Value: I prefer not to disclose (United States of America), ID: ac67137f12be1003980f569c81bc0000
+			197 text I prefer not to disclose (United States of America)
+		198 Value: Middle Eastern/North African (Not Hispanic or Latinx) (United States of America), ID: ac67137f12be1003980f3de480930000
+			199 text Middle Eastern/North African (Not Hispanic or Latinx) (United States of America)
+		200 Value: Native Hawaiian or Other Pacific Islander (Not Hispanic or Latinx) (United States of America), ID: ac67137f12be1003980f3d4aeedd0000
+			201 text Native Hawaiian or Other Pacific Islander (Not Hispanic or Latinx) (United States of America)
+		202 Value: Two or More Races (Not Hispanic or Latinx) (United States of America), ID: ac67137f12be1003980f3cb15dd00000
+			203 text Two or More Races (Not Hispanic or Latinx) (United States of America)
+		204 Value: White (Not Hispanic or Latinx) (United States of America), ID: ac67137f12be1003980f3c17d9b60000
+			205 text White (Not Hispanic or Latinx) (United States of America)
+
+The focused UI element is 185 list o4dq1r

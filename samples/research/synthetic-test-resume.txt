@@ -1,0 +1,7 @@
+SYNTHETIC TEST DATA — NOT A REAL CANDIDATE
+Name: Synthetic TestApplicant
+Email: synthetic-ats-test@example.org
+Phone: 202-555-0100
+Experience: Synthetic Test Engineer at Synthetic Test Company, January 2026 to present.
+Education: Synthetic Test University, Bachelor of Science, 2020 to 2024.
+This file is solely for application form research.

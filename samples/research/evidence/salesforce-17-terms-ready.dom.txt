@@ -1,0 +1,118 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "search for jobs":
+    - /url: /en-US/External_Career_Site
+    - img "search for jobs"
+  - heading [level=1]
+  - button "English":
+    - generic: English
+  - button "Settings":
+    - generic: Settings
+  - button "synthetic-ats-test@example.org":
+    - generic: synthetic-ats-test@example.org
+  - navigation:
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Software Engineering MTS" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: completed step 2 of 5
+      - generic: My Experience
+      - generic: completed step 3 of 5
+      - generic: Application Questions
+      - generic: current step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "Voluntary Disclosures" [level=3]
+  - generic: "* Indicates a required field"
+  - group "Equal Opportunity Employment":
+    - heading "Equal Opportunity Employment" [level=4]
+    - paragraph: As an Equal Opportunity Employer, salesforce.com must periodically produce statistical analyses and reports of our applicant records. You are invited to provide information to assist us in meeting these government reporting requirements.
+    - paragraph: Completion of this form is completely voluntary. If you choose not to answer, you will not be subject to adverse effects. However, we encourage you to answer each question and assure you that this information is confidential.
+    - generic: Gender*
+    - button "Gender I prefer not to disclose Required": I prefer not to disclose
+    - generic: Veterans*
+    - button "Veterans I do not wish to self-identify. Required": I do not wish to self-identify.
+    - generic: Ethnicity*
+    - button "Ethnicity I prefer not to disclose (United States of America) Required" [active]: I prefer not to disclose (United States of America)
+  - group "Terms and Conditions":
+    - heading "Terms and Conditions" [level=4]
+    - generic: At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+    - paragraph
+    - paragraph:
+      - link "Salesforce.com":
+        - /url: http://salesforce.com/
+      - text: and
+      - link "Salesforce.org":
+        - /url: http://salesforce.org/
+      - text: are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status.
+      - link "Salesforce.com":
+        - /url: http://salesforce.com/
+      - text: and
+      - link "Salesforce.org":
+        - /url: http://salesforce.org/
+      - text: do not accept unsolicited headhunter and agency resumes.
+      - link "Salesforce.com":
+        - /url: http://salesforce.com/
+      - text: and
+      - link "Salesforce.org":
+        - /url: http://salesforce.org/
+      - text: will not pay any third-party agency or company that does not have a signed agreement with
+      - link "Salesfore.com":
+        - /url: http://salesfore.com/
+      - text: or
+      - link "Salesforce.org":
+        - /url: http://salesforce.org/
+      - text: .
+    - paragraph
+    - paragraph: Salesforce welcomes all.
+    - paragraph
+    - paragraph:
+      - generic: Accommodations -
+      - text: If you require assistance due to a disability applying for open positions please submit a request via this
+      - link "Accommodations Request Form":
+        - /url: https://careers.mail.salesforce.com/accommodations-request-form
+      - text: .
+    - paragraph
+    - paragraph:
+      - text: Pay Transparency Policy Statement
+      - generic: –
+      - text: The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
+    - paragraph
+    - paragraph:
+      - text: For applicants in Japan, please review the
+      - link "Agreement on the Handling of Personal Information":
+        - /url: https://org62.my.salesforce.com/sfc/p/#000000000062/a/3y000001MnzQ/MNVjjt0xKAoGU7moR0aAfwj69BIA6IJTlRrgDIabpyE
+      - text: .
+    - paragraph
+    - paragraph:
+      - text: By submitting my information I confirm that I have read and agree to the
+      - link "Privacy Statement":
+        - /url: http://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Privacy/salesforce-candidate-privacy-statement.pdf
+      - text: and the
+      - link "AI in the Interview Process policy":
+        - /url: http://dreamjobcentral.my.salesforce.com/sfc/p/#70000000Jxye/a/7y00000Ab2pz/c7mAaMPOwmi2xd6xidzueUn9vZu_OGKiZOl4W6qtK14
+      - text: .
+    - paragraph
+    - generic: Yes, I have read and consent to the terms and conditions*
+    - checkbox "Yes, I have read and consent to the terms and conditions"
+  - button "Back"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+  - link "Facebook":
+    - /url: https://www.facebook.com/salesforce
+  - link "X":
+    - /url: https://twitter.com/salesforcejobs
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/salesforce
+- generic: © 2026 Workday, Inc. All rights reserved.

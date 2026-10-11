@@ -1,0 +1,134 @@
+Browser tab: 9, Title: "Account Manager - Careers at Airbnb", URL: "https://careers.airbnb.com/positions/8184174/?gh_jid=8184174".
+0 AXWebArea Account Manager - Careers at Airbnb, URL: careers.airbnb.com/positions/8184174/?gh_jid=8184174
+	1 container Description: Cookie Consent Banner, ID: 4e1bb27f-b976-4050-ba02-6ae367a84a9b
+		2 button Close this consent banner
+		3 container
+			4 container 4e1bb27f-b976-4050-ba02-6ae367a84a9b__label
+				5 text We use cookies and other technologies to personalize content, measure ads and provide an optimized experience. Some cookies are required for the site to function and cannot be turned off. By accepting, you agree to the Airbnb Cookie Policy. You can update your preferences any time.
+			6 link Description: Cookie Policy, Value: airbnb.com/help/article/2866
+		7 container
+			8 button Manage preferences
+			9 button Accept all
+			10 button Only necessary
+	11 container
+		12 container
+			13 link Description: Skip to main content, Value: careers.airbnb.com/positions/8184174/?gh_jid=8184174#main-content
+			14 link Description: Careers at Airbnb Careers, Value: careers.airbnb.com/
+			15 content list menu-header-menu
+				16 link Description: Life at Airbnb, Value: careers.airbnb.com/life-at-airbnb/
+				17 link (collapsed) Description: Job Search, Value: careers.airbnb.com/positions, Secondary Actions: Expand
+		18 heading Account Manager, Value: 1
+			19 text Account Manager
+		20 text London, United Kingdom
+		21 tab group Description: Job information, ID: main-content
+			22 tab (selected, settable, boolean) Role overview, Value: 1, ID: tab-overview
+			23 tab (selectable, settable, boolean) Application, Value: 0, ID: tab-application
+		24 container Description: Role overview, ID: job-detail-panel
+			25 text Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+			26 text The Community you will join:
+			27 container
+				28 text Our Supply Team is growing, and we want you to be part of it! As a  Market Associate / Account Manager,  you will play a crucial role in the retention, growth, and optimisation of host entrepreneurs and rising hosts in your assigned territory. These hosts are individuals who manage their own property or support owners by hosting on their behalf. You will focus on building strong relationships with these hosts, helping them optimise their listings, improve pricing strategies, and enhance their overall success on Airbnb.
+			29 text The difference you will make:
+			30 text As a Market Associate, you will be responsible for the retention and growth of long-tail Hosts in an assigned territory. You will establish and nurture business relationships with emerging professional host accounts by suggesting and supporting strategic initiatives that drive their success on Airbnb. These initiatives will include supply optimisation, pricing optimisation, host recruitment, and platform education. In addition, as these Hosts successfully grow on the platform, it will be imperative that you help them maintain best-in-class hospitality standards for an excellent guest experience. Beyond one-to-one account management responsibilities, you’ll also support Market Managers on your team to deliver one-to-many education programs, such as webinars and scaled e-mail communication. Ultimately, this team will be responsible for helping long-tail Hosts thrive on Airbnb.
+			31 text A typical day: 
+			32 content list
+				33 container
+					34 AXListMarker • 
+					35 text Manage a book of business consisting of host entrepreneurs and rising hosts, ensuring their retention, growth, and optimisation on Airbnb.
+				36 container
+					37 AXListMarker • 
+					38 text Conduct one-on-one optimisation and onboarding conversations, providing strategic recommendations on pricing, availability, and listing quality.
+				39 container
+					40 AXListMarker • 
+					41 text Secure availability over high compression dates, ensuring hosts maximise their revenue potential.
+				42 container
+					43 AXListMarker • 
+					44 text Educate hosts on product updates and policy changes, while channeling their feedback to internal teams.
+				45 container
+					46 AXListMarker • 
+					47 text Respond to host inquiries and provide timely, high-quality support to improve their experience on the platform.
+				48 container
+					49 AXListMarker • 
+					50 text Analyse performance data to identify trends and take action on opportunities that drive increased bookings and host success.
+				51 container
+					52 AXListMarker • 
+					53 text Develop long-lasting relationships with hosts, ensuring they receive ongoing support tailored to their needs.
+			54 text Your expertise: 
+			55 content list
+				56 container
+					57 AXListMarker • 
+					58 text 3+ years of experience in new sales, account management, or partner support.
+				59 container
+					60 AXListMarker • 
+					61 text 2+ years of hospitality/travel industry experience (nice to have).
+				62 container
+					63 AXListMarker • 
+					64 text Strong time management and prioritisation skills, with the ability to manage multiple accounts effectively.
+				65 container
+					66 AXListMarker • 
+					67 text Proven experience working a book of business, driving engagement and growth through proactive account management.
+				68 container
+					69 AXListMarker • 
+					70 text Highly goal-driven, with a strong bias for action and persistence in the face of challenges.
+				71 container
+					72 AXListMarker • 
+					73 text Excellent communication and presentation skills, with the ability to engage effectively via phone, email, and in-person.
+				74 container
+					75 AXListMarker • 
+					76 text Proficiency in CRM tools, particularly working with leads and opportunities (Salesforce experience is a plus).
+			77 text Our Commitment To Inclusion & Belonging:
+			78 text Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+			79 text How We'll Take Care of You:
+			80 text Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+			81 text United Kingdom Annual Pay Range
+			82 container
+				83 text £46,000 — £54,000 GBP
+			84 container
+				85 text Reasonable Accommodations:  We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+			86 container
+				87 text A Note on Recruiting Scams:  Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @
+				88 link Description: airbnb.com, Value: airbnb.com/
+				89 text  or @
+				90 link Description: ext.airbnb.com, Value: ext.airbnb.com/
+				91 text  email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.  We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.
+		92 button Switch to application form
+		93 text Airbnb, Inc. can hire employees in states where we have registered entities. Currently, employees cannot be located/live in: Alaska, Mississippi, and North Dakota. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list.
+		94 text Reasonable Accommodation — Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+		95 content list menu-footer-menu
+			96 container menu-item-5831678
+				97 link Description: Airbnb, Value: airbnb.com/
+				98 content list
+					99 link Description: Life at Airbnb, Value: careers.airbnb.com/life-at-airbnb/
+					100 link Description: FAQ, Value: careers.airbnb.com/faq/
+					101 link Description: Candidate Privacy, Value: careers.airbnb.com/candidate-privacy/
+			102 container menu-item-5831681
+				103 text Careers
+				104 content list
+					105 link Description: Job Search, Value: careers.airbnb.com/positions
+					106 link Description: Connect Engineering Apprenticeship, Value: careers.airbnb.com/connect-engineering-apprenticeship/
+					107 link Description: Internship Programs, Value: careers.airbnb.com/internship-programs/
+			108 container menu-item-5831686
+				109 text Machine Readable Files
+				110 content list
+					111 link Description: HMSA, Value: hmsa.com/help-center/transparency-in-coverage-machine-readable-files/
+					112 link Description: Kaiser Permanente, Value: healthy.kaiserpermanente.org/northern-california/pages/technical-information#machine-readable-files
+					113 link Description: Anthem, Value: anthem.com/ca/machine-readable-file/search/
+		114 text © Airbnb, Inc
+		115 content list menu-legal-menu
+			116 container menu-item-5831709
+				117 text •
+				118 link Description: Terms, Value: airbnb.com/terms
+			119 container menu-item-5831710
+				120 text •
+				121 link Description: Privacy, Value: airbnb.com/terms/privacy_policy
+			122 container menu-item-5831712
+				123 text •
+				124 link Description: Sitemap, Value: airbnb.com/sitemaps/v2
+		125 link Description: • Cookie Preferences, Value: careers.airbnb.com/positions/8184174/?gh_jid=8184174#
+		126 link Description: • Your Privacy Choices California Consumer Privacy Act (CCPA) Opt-Out Icon, Value: careers.airbnb.com/positions/8184174/?gh_jid=8184174#
+		127 button English
+		128 link Description: linkedin, Value: linkedin.com/company/airbnb
+		129 link Description: twitter, Value: twitter.com/airbnb
+		130 link Description: instagram, Value: instagram.com/airbnb
+
+The focused UI element is 2 button Close this consent banner

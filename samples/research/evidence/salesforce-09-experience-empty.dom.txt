@@ -1,0 +1,76 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "search for jobs":
+    - /url: /en-US/External_Career_Site
+    - img "search for jobs"
+  - heading [level=1]
+  - button "English":
+    - generic: English
+  - button "Settings":
+    - generic: Settings
+  - button "synthetic-ats-test@example.org":
+    - generic: synthetic-ats-test@example.org
+  - navigation:
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Software Engineering MTS" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: current step 2 of 5
+      - generic: My Experience
+      - generic: step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "My Experience" [active] [level=3]
+  - generic: "* Indicates a required field"
+  - group "Work History (Optional)":
+    - heading "Work History (Optional)" [level=4]
+    - paragraph: Tell us about your work history and/or other relevant experiences such as volunteerism, military service, or athletics.
+    - button "Add"
+  - group "Education (Optional)":
+    - heading "Education (Optional)" [level=4]
+    - paragraph: If you’d like, this is where you can include information regarding your education, such as school name, level of degree, and/or field of study.
+    - button "Add"
+  - group "Skills and Strengths (Optional)":
+    - heading "Skills and Strengths (Optional)" [level=4]
+    - paragraph: Add up to 10 hard and/or soft skills that highlight your professional abilities. This information will make it easier for our Talent Acquisition team to match you with current and future openings.
+    - generic: Type to Add Skills
+    - textbox "Type to Add Skills":
+      - /placeholder: Search
+    - generic: 0 items selected
+  - group "Resume/CV":
+    - heading "Resume/CV" [level=4]
+    - paragraph: If you haven’t already, please upload your resume/CV. If you’d like to include a cover letter, you can do so here as well. PDF or .docx file formats are preferred.
+    - paragraph:
+      - generic: Upload a file (5MB max)*
+      - generic "Upload a file (5MB max)":
+        - generic: Drop files here
+        - generic: or
+        - button "Select files":
+          - generic: Select files
+  - group "Social Network URLs":
+    - heading "Social Network URLs" [level=4]
+    - generic: Please provide the URL to your LinkedIn profile.
+    - textbox "Please provide the URL to your LinkedIn profile."
+  - button "Back"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+  - link "Facebook":
+    - /url: https://www.facebook.com/salesforce
+  - link "X":
+    - /url: https://twitter.com/salesforcejobs
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/salesforce
+- generic: © 2026 Workday, Inc. All rights reserved.

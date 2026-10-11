@@ -1,0 +1,243 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924".
+0 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924
+	1 container root
+		2 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924
+		3 container
+			4 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		9 container mainContent
+			10 text Sr. Technical Account Manager page is loaded
+			11 container
+				12 heading Sr. Technical Account Manager, Value: 2
+					13 text Sr. Technical Account Manager
+				14 button Apply
+				15 definition list
+					16 container locations
+						17 text locations
+					18 text Mexico City
+				19 definition list
+					20 container time type
+						21 text time type
+					22 text Full time
+				23 definition list
+					24 container posted on
+						25 text posted on
+					26 text Posted 5 Days Ago
+				27 definition list
+					28 container job requisition id
+						29 text job requisition id
+					30 text R171924
+				31 heading The Opportunity, Value: 2
+					32 text The Opportunity
+				33 text As a Technical Account Manager, you will serve as the primary technical advisor for a portfolio of strategic enterprise customers in Mexico. You will build trusted relationships, help customers improve how they gain value from their Adobe investments, and maintain an outstanding customer experience throughout the engagement. This role offers the opportunity to collaborate with world-class technical teams and senior leaders. It involves translating customers’ business priorities into clear technical strategies, operational plans, and measurable outcomes. You will proactively identify risks, uncover optimization opportunities, and orchestrate the appropriate Adobe resources to help customers achieve their long-term goals.
+				34 heading 2
+				35 heading Responsibilities, Value: 2
+					36 text Responsibilities
+				37 content list
+					38 container
+						39 AXListMarker • 
+						40 text Serve as the primary technical advisor and point of coordination for a portfolio of strategic enterprise customers
+					41 container
+						42 AXListMarker • 
+						43 text Build and maintain trusted relationships with practitioners, technical leaders, managers, directors, and C-level executives
+					44 container
+						45 AXListMarker • 
+						46 text Translate complex business objectives into actionable technical strategies, success plans, and operational priorities
+					47 container
+						48 AXListMarker • 
+						49 text Proactively identify customer needs, technical risks, and opportunities for optimization, adoption, and long-term improvement
+					50 container
+						51 AXListMarker • 
+						52 text Orchestrate the resolution of complex technical issues by coordinating across Adobe Engineering, TechOps, Managed Services, Support, Product, and other internal teams
+					53 container
+						54 AXListMarker • 
+						55 text Establish clear expectations and maintain consistent communication through regular checkpoints, status reviews, governance meetings, and planning sessions.
+					56 container
+						57 AXListMarker • 
+						58 text Conduct in-depth assessments of customers’ technical environments to identify architectural risks, performance concerns, integration challenges, and opportunities for improvement
+					59 container
+						60 AXListMarker • 
+						61 text Provide strategic advice on implementation approaches, technical guidelines, scalability, performance, integrations, and operational readiness
+					62 container
+						63 AXListMarker • 
+						64 text Co-lead Quarterly Business Reviews, executive briefings, and technical presentations, connecting the realities of the customer’s technical environment with business priorities and measurable outcomes
+					65 container
+						66 AXListMarker • 
+						67 text Maintain structured oversight of open actions, technical dependencies, risks, and critical issues, ensuring clear ownership and timely follow-through
+					68 container
+						69 AXListMarker • 
+						70 text Advocate for customers within Adobe while balancing their priorities with technical feasibility, product capabilities, and internal commitments
+					71 container
+						72 AXListMarker • 
+						73 text Collaborate across Adobe teams to deliver a coordinated and consistent customer experience
+				74 heading 2
+				75 heading Required Qualifications, Capabilities, and Skills, Value: 2
+					76 text Required Qualifications, Capabilities, and Skills
+				77 content list
+					78 container
+						79 AXListMarker • 
+						80 text Bachelor’s degree in a technical, business, or related field, or equivalent professional experience
+					81 container
+						82 AXListMarker • 
+						83 text Seven or more years of experience in Technical Account Management, technical consulting, solution architecture, or another senior customer-facing technical role
+					84 container
+						85 AXListMarker • 
+						86 text Demonstrated success managing complex enterprise customer relationships in a consultative capacity
+					87 container
+						88 AXListMarker • 
+						89 text Good understanding of marketing technology, advertising technology, and AI-powered solutions, including their application within complex enterprise environments
+					90 container
+						91 AXListMarker • 
+						92 text Strong knowledge of web technologies, including JavaScript, jQuery, Java, HTML/HTML5, CSS, REST APIs, and database technologies
+					93 container
+						94 AXListMarker • 
+						95 text Solid understanding of tag management, digital data collection, and enterprise implementation methodologies
+					96 container
+						97 AXListMarker • 
+						98 text Experience solving issues, performance-tuning, and optimizing web/app environments
+					99 container
+						100 AXListMarker • 
+						101 text Ability to read and interpret code, fix technical implementations, and understand third-party integrations at the API level
+					102 container
+						103 AXListMarker • 
+						104 text Familiarity with Agile and Scrum development methodologies
+					105 container
+						106 AXListMarker • 
+						107 text Strong executive presence, with the ability to communicate effectively with and influence senior technical and business leaders
+					108 container
+						109 AXListMarker • 
+						110 text Ability to develop and deliver clear, compelling executive presentations
+					111 container
+						112 AXListMarker • 
+						113 text Excellent written and verbal communication skills in both Spanish and English
+					114 container
+						115 AXListMarker • 
+						116 text Strong emotional intelligence, active listening skills, and the ability to navigate complex or sensitive customer conversations
+					117 container
+						118 AXListMarker • 
+						119 text Demonstrated ability to manage conflict, balance competing priorities, and drive alignment across multiple interested parties
+					120 container
+						121 AXListMarker • 
+						122 text Strong ownership and follow-through, supported by a structured approach to tracking, prioritizing, and closing complex technical and business actions
+					123 container
+						124 AXListMarker • 
+						125 text Excellent organization, prioritization, and time-management skills
+					126 container
+						127 AXListMarker • 
+						128 text Willingness to travel approximately 15–20% of the time and availability for recurring onsite work at both Adobe offices and customer locations
+				129 heading 2
+				130 heading Preferred Qualifications, Value: 2
+					131 text Preferred Qualifications
+				132 content list
+					133 container
+						134 AXListMarker • 
+						135 text Experience with Adobe Experience Cloud solutions
+					136 container
+						137 AXListMarker • 
+						138 text Experience supporting large-scale digital experience, marketing technology, analytics, content management, advertising technology, customer data, or AI platforms
+					139 container
+						140 AXListMarker • 
+						141 text Experience working with distributed, multi-functional teams in a global enterprise environment
+				142 text Join us in delivering exceptional customer experiences and shaping the future of digital transformation. About Adobe Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity.
+				143 text Our 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours. 
+				144 text Let’s Adobe together At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our 
+				145 link Description: values and culture, Value: adobe.com/adobe-for-all.html#:~:text=and%20culture.-,Our%20company%20values.,-As%20we%20look
+				146 text , 
+				147 link Description: focus on people, purpose and community, Value: adobe.com/corporate-responsibility.html
+				148 text , 
+				149 link Description: Adobe for All, Value: adobe.com/diversity.html
+				150 text , comprehensive 
+				151 link Description: benefits programs, Value: benefits.adobe.com/
+				152 text , the 
+				153 link Description: stories we tell, Value: blog.adobe.com/
+				154 text , the 
+				155 link Description: customers, Value: blog.adobe.com/en/topics/customer-stories
+				156 text  we serve, and how you can help us advance our mission of empowering everyone to create.
+				157 text Adobe is proud to be an 
+				158 link Description: Equal Employment Opportunity, Value: eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+				159 text  employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. 
+				160 link Description: Learn more., Value: adobe.com/content/dam/cc/en/careers/pdfs/executed-eeo.pdf
+				161 text Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email 
+				162 link Description: accommodations@adobe.com, Value: mailto:accommodations@adobe.com
+				163 text .
+				164 text AI Use Guidelines for Interviews:
+				165 text Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process.
+				166 text At Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about 
+				167 link Description: AI in the hiring experience, Value: careers.adobe.com/us/en/ai-and-your-hiring-experience
+				168 text .
+			169 heading Similar Jobs (5), Value: 3
+				170 text Similar Jobs (5)
+			171 link Description: Sr. Technical Account Manager, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Sr-Technical-Account-Manager_R171531
+			172 definition list
+				173 container locations
+					174 text locations
+				175 text 6 Locations
+			176 definition list
+				177 container time type
+					178 text time type
+				179 text Full time
+			180 definition list
+				181 container posted on
+					182 text posted on
+				183 text Posted 6 Days Ago
+			184 link Description: Technical Account Manager (Stockholm or Copenhagen), Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Stockholm/Technical-Account-Manager_R171861
+			185 definition list
+				186 container locations
+					187 text locations
+				188 text 2 Locations
+			189 definition list
+				190 container time type
+					191 text time type
+				192 text Full time
+			193 definition list
+				194 container posted on
+					195 text posted on
+				196 text Posted 20 Days Ago
+			197 link Description: Technical Account Manager (Stockholm or Copenhagen), Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Stockholm/Technical-Account-Manager_R171862
+			198 definition list
+				199 container locations
+					200 text locations
+				201 text 2 Locations
+			202 definition list
+				203 container time type
+					204 text time type
+				205 text Full time
+			206 definition list
+				207 container posted on
+					208 text posted on
+				209 text Posted 20 Days Ago
+			210 button View All 5 Jobs
+			211 heading About Us, Value: 3, ID: 7
+				212 text About Us
+			213 image Logo
+			214 container
+				215 button Read More, ID: 10
+		216 heading Follow Us, Value: 4
+			217 text Follow Us
+		218 content list
+			219 link Description: YouTube, Value: youtube.com/adobecareers
+			220 link Description: X, Value: twitter.com/AdobeCareers
+			221 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			222 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		223 text © 2026 Workday, Inc. All rights reserved.
+	224 container Start Your Application
+		225 button Close
+		226 container
+			227 heading Start Your Application, Value: 2
+				228 text Start Your Application
+			229 heading Sr. Technical Account Manager, Value: 3
+				230 text Sr. Technical Account Manager
+			231 text We are excited to review your application! Please start your application using the options below.
+			232 button Autofill with Resume
+			233 button Apply Manually
+			234 button Use My Last Application
+			235 container applyWithLinkedIn
+				236 AXWebArea applywithlinkedin.myworkdaygadgets.com/awli/
+					237 container Description: LinkedIn Embedded Content, ID: {"xdOrigin":"https://applywithlinkedin.myworkdaygadgets.com","xdChannel":"9cb42cd9-a260-4240-a31f-f7005be47679","framework":"@linkedin/xdoor-sdk","version":"0.2.23","debug":false}
+						238 AXWebArea Apply With LinkedIn, URL: linkedin.com/talentwidgets/apply-with-linkedin#xdOrigin=https%3A%2F%2Fapplywithlinkedin.myworkdaygadgets.com&xdChannel=9cb42cd9-a260-4240-a31f-f7005be47679
+							239 button Apply With LinkedIn, ID: apply-with-linkedin
+
+The focused UI element is 225 button Close

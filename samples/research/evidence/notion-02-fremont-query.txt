@@ -1,0 +1,14 @@
+Browser tab: 5, Title: "Software Engineer, Developer Platform @ Notion", URL: "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application".
+0 AXWebArea Software Engineer, Developer Platform @ Notion, URL: jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application
+	1 container Description: Application, ID: form
+		2 combo box (expanded, settable) Value: Fremont, Secondary Actions: Collapse
+	3 container :r2:
+		4 list :r0:
+			8 (selected) Value: Fremont, California, United States, ID: :r3:
+			9 Value: Fremont, Ohio, United States, ID: :r4:
+			10 Value: Fremont, Nebraska, United States, ID: :r5:
+			11 Value: Fremont, Michigan, United States, ID: :r6:
+			12 Value: Fremont, New Hampshire, United States, ID: :r7:
+		7 button Dismiss
+
+The focused UI element is 2 combo box (expanded, settable) Value: Fremont, Secondary Actions: Collapse

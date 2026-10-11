@@ -1,0 +1,130 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "search for jobs":
+    - /url: /en-US/External_Career_Site
+    - img "search for jobs"
+  - heading [level=1]
+  - button "English":
+    - generic: English
+  - button "Settings":
+    - generic: Settings
+  - button "synthetic-ats-test@example.org":
+    - generic: synthetic-ats-test@example.org
+  - navigation:
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Software Engineering MTS" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: current step 1 of 5
+      - generic: My Information
+      - generic: step 2 of 5
+      - generic: My Experience
+      - generic: step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "My Information" [level=3]
+  - generic: "* Indicates a required field"
+  - generic: How Did You Hear About Us?*
+  - textbox "How Did You Hear About Us?":
+    - /placeholder: Search
+  - generic: Expanded
+  - 'group "Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If \"Yes\" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally."':
+    - generic: "Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If \"Yes\" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally.*"
+    - 'generic "Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If \"Yes\" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally."':
+      - radio "Yes"
+      - generic: "Yes"
+      - radio "No" [checked]
+      - generic: "No"
+  - generic: Country*
+  - button "Country Canada Required": Canada
+  - group "Legal Name":
+    - heading "Legal Name" [level=4]
+    - generic: First Name*
+    - textbox "First Name": Synthetic
+    - generic: Last Name*
+    - textbox "Last Name": TestApplicant
+    - generic: I have a preferred name
+    - checkbox "I have a preferred name"
+  - group "Address":
+    - heading "Address" [level=4]
+    - generic: Address Line 1*
+    - textbox "Address Line 1"
+    - generic: City*
+    - textbox "City"
+    - generic: Province or Territory
+    - button "Province or Territory Select One": Select One
+    - generic: Postal Code*
+    - textbox "Postal Code"
+  - group "Email Address":
+    - heading "Email Address" [level=4]
+    - generic: synthetic-ats-test@example.org
+  - group "Phone":
+    - heading "Phone" [level=4]
+    - generic: Phone Device Type*
+    - button "Phone Device Type Mobile Required": Mobile
+    - generic: Country Phone Code*
+    - textbox "Country Phone Code":
+      - /placeholder: Search
+    - generic: 1 item selected, Canada (+1)
+    - listbox "items selected":
+      - option "Canada (+1), press delete to clear value.":
+        - paragraph: Canada (+1)
+    - generic: Phone Number*
+    - textbox "Phone Number": <redacted>
+    - generic: Phone Extension
+    - textbox "Phone Extension"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+  - link "Facebook":
+    - /url: https://www.facebook.com/salesforce
+  - link "X":
+    - /url: https://twitter.com/salesforcejobs
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/salesforce
+- generic: © 2026 Workday, Inc. All rights reserved.
+- generic: External Career Site Sources
+- listbox "Options Expanded" [active]:
+  - option "Alumni Network not checked" [selected]:
+    - radio
+    - generic: Alumni Network
+  - option "Anthropic not checked":
+    - radio
+    - generic: Anthropic
+  - option "Award Announcement - Employer Recognition not checked":
+    - radio
+    - generic: Award Announcement - Employer Recognition
+  - option "ClearanceJobs not checked":
+    - radio
+    - generic: ClearanceJobs
+  - option "Equality Event not checked":
+    - radio
+    - generic: Equality Event
+  - option "Facebook not checked":
+    - radio
+    - generic: Facebook
+  - option "First Source not checked":
+    - radio
+    - generic: First Source
+  - option "Gemini not checked":
+    - radio
+    - generic: Gemini
+  - option "Glassdoor not checked":
+    - radio
+    - generic: Glassdoor
+  - option "Handshake not checked":
+    - radio
+    - generic: Handshake
+  - option "Indeed not checked":
+    - radio
+    - generic: Indeed

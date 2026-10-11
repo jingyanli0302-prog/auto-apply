@@ -1,0 +1,93 @@
+Browser tab: 14, Title: "Palantir Technologies - Administrative Business Partner", URL: "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd".
+0 AXWebArea Palantir Technologies - Administrative Business Partner, URL: jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd
+	1 container cookieconsent
+		2 container
+			3 text 🍪
+			4 button deny
+			5 button accept
+			6 heading Privacy Notice, Value: 4
+				7 text Privacy Notice
+			8 text This website uses cookies to improve your web experience. By clicking  Accept , you agree to the use of cookies. 
+			9 link Description: Cookie Policy, Value: employinc.com/cookie-policy/
+	10 link Description: Palantir Technologies logo, Value: jobs.lever.co/palantir
+	11 container
+		12 heading Administrative Business Partner, Value: 2
+			13 text Administrative Business Partner
+		14 container
+			15 text Singapore, Singapore Administrative / Full-Time / Hybrid
+		16 link Description: APPLY, Value: jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply
+		17 text A World-Changing Company
+		18 text Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
+		19 text The Role
+		20 container
+			21 text Our team of Administrative Business Partners does more than just support our leaders: we're the backbone of the busiest people at Palantir. We build positive relationships with the people we support and anticipate their needs without being asked. Our passion for helping others makes us an invaluable resource at Palantir!
+			22 text As an Administrative Business Partner, you will be handling a variety of professional responsibilities, including calendaring, travel, and expenses. You are very organized and thrive off of enabling the people we support to be as productive and impactful as possible. You'll demonstrate your excellent communication skills, and exercise tact and diplomacy in helping to manage relationships with internal and external senior team members at Palantir. In this role you'll also demonstrate good judgment and critical thinking by understanding competing priorities and actioning accordingly.
+		23 heading Administrative Business Partner (Foundry), Value: 3
+			24 text Administrative Business Partner (Foundry)
+		25 content list
+			26 container
+				27 AXListMarker • 
+				28 text Provide administrative support to a portfolio of individuals/teams across the business.
+			29 container
+				30 AXListMarker • 
+				31 text Handle sophisticated calendars in a fast-paced environment, and prioritize commitments to enhance time and productivity.
+			32 container
+				33 AXListMarker • 
+				34 text Book travel arrangements (domestic and international).
+			35 container
+				36 AXListMarker • 
+				37 text Track and process expense reports.
+			38 container
+				39 AXListMarker • 
+				40 text Help plan, support, and complete office events and external gatherings.
+			41 container
+				42 AXListMarker • 
+				43 text Work both autonomously and in collaboration with teammates, colleagues, and external contacts.
+		44 heading What We Value, Value: 3
+			45 text What We Value
+		46 content list
+			47 container
+				48 AXListMarker • 
+				49 text Ability to adjust quickly, anticipate needs, and implement autonomously, with strong attention to detail.
+			50 container
+				51 AXListMarker • 
+				52 text Ability to interact with a wide range of teams internally and externally with thoughtfulness and tact.
+			53 container
+				54 AXListMarker • 
+				55 text High level of integrity, confidentiality, and discretion in both internal and external interactions.
+		56 heading What We Require, Value: 3
+			57 text What We Require
+		58 content list
+			59 container
+				60 AXListMarker • 
+				61 text At least three years of previous administrative or personal support experience, preferably in a fast-paced environment.
+			62 container
+				63 AXListMarker • 
+				64 text Excellent digital literacy, including proficiency with Microsoft products (Outlook, Excel, Word, PowerPoint, etc.).
+			65 container
+				66 AXListMarker • 
+				67 text Experience with scheduling sophisticated international and domestic travel itineraries.
+			68 container
+				69 AXListMarker • 
+				70 text Familiarity with travel booking and expense reporting software.
+		71 text Palantir is particularly interested in applicants who have a current right to work in Singapore, and we encourage Singapore citizens to apply.
+		72 text Life at Palantir
+		73 container
+			74 text We want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at 
+			75 link Description: Life at Palantir, Value: palantir.com/careers/life-at-palantir/
+			76 text  and note that our offerings may vary by region.
+		77 text In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the city and or country in which you are employed. If the posting is specified as Onsite, you are required to work from an office.
+		78 container
+			79 text If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process ,  please 
+			80 link Description: reach out, Value: mailto:accommodations@palantir.com
+			81 text  and let us know how we can help.
+		82 container
+			83 text Please note that you will never be asked to submit a payment or share financial information to participate in our interview process. If you suspect that you've been contacted by a scammer, we recommend you cease all communication with the individual and consider reporting them to the relevant authorities, such as the US 
+			84 link Description: FBI Internet Crime Complaint Center (IC3), Value: ic3.gov/
+			85 text .
+		86 link Description: APPLY, Value: jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply
+	87 container
+		88 link Description: Palantir Technologies Home Page, Value: palantir.com/
+		89 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 0 AXWebArea Palantir Technologies - Administrative Business Partner, URL: jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd

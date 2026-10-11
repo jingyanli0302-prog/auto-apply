@@ -1,0 +1,192 @@
+Browser tab: 9, Title: "Account Manager - Careers at Airbnb", URL: "https://careers.airbnb.com/positions/8184174/?gh_jid=8184174".
+0 AXWebArea Account Manager - Careers at Airbnb, URL: careers.airbnb.com/positions/8184174/?gh_jid=8184174
+	11 container
+		12 container
+			13 link Description: Skip to main content, Value: careers.airbnb.com/positions/8184174/?gh_jid=8184174#main-content
+			14 link Description: Careers at Airbnb Careers, Value: careers.airbnb.com/
+			15 content list menu-header-menu
+				16 link Description: Life at Airbnb, Value: careers.airbnb.com/life-at-airbnb/
+				17 link (collapsed) Description: Job Search, Value: careers.airbnb.com/positions, Secondary Actions: Expand
+		18 heading Account Manager, Value: 1
+			19 text Account Manager
+		20 text London, United Kingdom
+		21 tab group Description: Job information, ID: main-content
+			22 tab (selectable, settable, boolean) Role overview, Value: 0, ID: tab-overview
+			23 tab (selected, settable, boolean) Application, Value: 1, ID: tab-application
+		131 container Description: Application, ID: job-application-panel
+			132 container Description: Greenhouse Job Board, ID: grnhse_iframe
+				133 AXWebArea Job Application for Account Manager at Airbnb, URL: job-boards.greenhouse.io/embed/job_app?for=airbnb&validityToken=mHkjRKce_OaRZb-jQ4qGETl4HZrytFijFEoYh7vvH2GQv44ISVZJ9T39fuLdrUvrhQX4bA4nvqam7-HmpMsq9kM2_bBXQAFIgK7t6AY9dme_0CfsC91diSZlzmH5HGmxnnQMfuJzIisMXc5-tMFI6FkRqdVNCZj389OUvQ72yWmfk7UAdN2FEDuDwbWap0vyaU3d6t8iI4_g-WkhOCdaBnMsvuacciLUegatQyblEPfozr1-9IRqTU3k-gn3nD8WboGdgRD-vNfPSlKpdjQecd844sSlhvlMnCIaPIOwthuvIn4XWmKplj6PL2Y_27v0qVSdR7uq-bQrGQwELUNwWA%3D%3D&token=8184174
+					134 container
+						135 image Airbnb Logo
+						136 image
+						137 text Create a Job Alert Interested in building your career at Airbnb? Get future opportunities sent straight to your email.
+						138 link Description: Create alert, Value: my.greenhouse.io/users/sign_in?job_board=airbnb&source=job_alert_post
+						139 heading Apply for this job, Value: 2
+							140 text Apply for this job
+						141 text * indicates a required field
+						142 button Autofill my application
+						143 container application-form
+							144 container
+								145 text First Name
+								146 text field (settable) Description: First Name, ID: first_name
+							147 container
+								148 text Last Name
+								149 text field (settable) Description: Last Name, ID: last_name
+							150 container
+								151 text Email
+								152 text field (settable) Email
+							153 container Phone
+								154 text Phone
+								155 text Country
+								156 container
+									157 container
+										158 combo box (collapsed, settable) Country, ID: country, Secondary Actions: Expand
+									159 button Toggle flyout
+										160 image
+								161 container
+									162 text Phone
+									163 text field (settable) Phone
+							164 text Location (City)
+							165 container
+								166 container
+									167 combo box (collapsed, settable) Location (City), ID: candidate-location, Secondary Actions: Expand
+							168 button Locate me
+							169 container Resume/CV*
+								170 container upload-label-resume
+									171 text Resume/CV *
+								172 container
+									173 button Attach
+									174 text Attach
+									175 button Attach, ID: resume
+								176 container
+									177 button Enter manually
+									178 text Enter manually
+								179 text Accepted file types: pdf, doc, docx, txt, rtf
+							180 container Cover Letter*
+								181 container upload-label-cover_letter
+									182 text Cover Letter *
+								183 container
+									184 button Attach
+									185 text Attach
+									186 button Attach, ID: cover_letter
+								187 container
+									188 button Enter manually
+									189 text Enter manually
+								190 text Accepted file types: pdf, doc, docx, txt, rtf
+							191 container
+								192 text LinkedIn Profile
+								193 text field (settable) Description: LinkedIn Profile, ID: question_69024584
+							194 container
+								195 text How did you hear about this job?
+								196 text field (settable) Description: How did you hear about this job?, ID: question_69024585
+							197 container Description: Before submitting your application please review the points below:*, ID: question_69024586[]
+								198 container
+									199 text Before submitting your application please review the points below: *
+								200 checkbox (settable, integer) Description: I acknowledge receipt of the Airbnb Candidate Data Privacy Notice, Value: 0, ID: question_69024586[]_750562692
+							201 content list
+								202 container
+									203 AXListMarker • 
+									204 text Please click 
+									205 link Description: here, Value: careers.airbnb.com/candidate-privacy/emea-candidate-privacy/
+									206 text  to read the Airbnb Candidate Data Privacy Notice.
+								207 container
+									208 AXListMarker • 
+									209 text This Privacy Notice is not a contract, express or implied and it does not set terms or conditions of employment.
+							210 text Gender
+							211 container
+								212 container
+									213 text Select...
+									214 combo box (collapsed, settable) Gender, ID: question_69024587, Secondary Actions: Expand
+								215 button Toggle flyout
+									216 image
+							217 container question_69024587-description
+								218 text Airbnb is committed to creating a diverse workplace. In order to measure our efforts in this regard, we invite applicants to self-identify as to their gender. Answering to this question is entirely voluntary and declining to provide this information will not subject you to adverse treatment or retaliation. The response that you do provide will be maintained confidential and will not be shared with hiring managers. In turn, Airbnb will anonymize the information related to your gender, so that once it is collected it will not be possible to relate it, directly or indirectly, to you.
+								219 text All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. You are being given the opportunity to provide such information in order to help us measure our own diversity and inclusion efforts and to comply with our internal equal employment opportunity standards.
+								220 text All of your personal information, including your gender should you choose to provide it, will be collected, stored and processed in accordance with the Airbnb Privacy Notice.
+							221 text Are you legally authorized to work in the country where the job is located? 
+							222 container
+								223 container
+									224 text Select...
+									225 combo box (collapsed, settable) Are you legally authorized to work in the country where the job is located? , ID: question_69024588, Secondary Actions: Expand
+								226 button Toggle flyout
+									227 image
+							228 text Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?
+							229 container
+								230 container
+									231 text Select...
+									232 combo box (collapsed, settable) ID: question_69024589, Secondary Actions: Expand, Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?
+								233 button Toggle flyout
+									234 image
+							235 text Are you currently subject to any non-compete or non-solicitation agreement that would impact your ability to work at Airbnb or prevent you from accepting a job offer from Airbnb? 
+							236 container
+								237 container
+									238 text Select...
+									239 combo box (collapsed, settable) ID: question_69024590, Secondary Actions: Expand, Are you currently subject to any non-compete or non-solicitation agreement that would impact your ability to work at Airbnb or prevent you from accepting a job offer from Airbnb? 
+								240 button Toggle flyout
+									241 image
+							242 text Are you currently or have you ever worked for Airbnb in any capacity? This could include, but is not limited to, a full-time employee, intern, apprentice, or contingent worker.
+							243 container
+								244 container
+									245 text Select...
+									246 combo box (collapsed, settable) ID: question_69024591, Secondary Actions: Expand, Are you currently or have you ever worked for Airbnb in any capacity? This could include, but is not limited to, a full-time employee, intern, apprentice, or contingent worker.
+								247 button Toggle flyout
+									248 image
+							249 text Candidate AI Usage Attestation:
+							250 container
+								264 text 1 result available.
+								265 text Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+								251 container
+									252 text Select...
+									253 combo box (expanded, settable) Candidate AI Usage Attestation:, ID: question_69024592, Secondary Actions: Collapse
+								254 button Toggle flyout
+									255 image
+								266 list react-select-question_69024592-listbox
+									267 Value: I agree, ID: react-select-question_69024592-option-0
+							256 container question_69024592-description
+								257 text By submitting this application, I agree and understand that the use of generative artificial intelligence (“AI”) tools, for example, ChatGPT, Gemini, and GitHub Copilot (“AI Tools”) is strictly prohibited during the interview process, unless Airbnb explicitly permits their use. I further attest that all materials I submit during the interview process including, but not limited to, responses to written or verbal interview questions, written prompts, take-home assignments, and assessments, represent my own original work and were completed without the use of AI Tools, external individuals, or other unauthorized assistance, unless expressly permitted by Airbnb. 
+								258 text I also understand that I am prohibited from entering into AI Tools (including transcription tools) any confidential or non-public information of Airbnb that is obtained during the interview process. I understand that failure to comply with this Candidate AI Usage Attestation may result in disqualification from the hiring process or withdrawal of an offer.
+							259 button Submit application
+					260 container reCAPTCHA
+						261 AXWebArea reCAPTCHA, URL: recaptcha.net/recaptcha/enterprise/anchor?ar=1&k=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0&co=aHR0cHM6Ly9qb2ItYm9hcmRzLmdyZWVuaG91c2UuaW86NDQz&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=hv62fs3g4yg3
+							262 text protected by 
+							263 text reCAPTCHA
+		93 text Airbnb, Inc. can hire employees in states where we have registered entities. Currently, employees cannot be located/live in: Alaska, Mississippi, and North Dakota. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list.
+		94 text Reasonable Accommodation — Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+		95 content list menu-footer-menu
+			96 container menu-item-5831678
+				97 link Description: Airbnb, Value: airbnb.com/
+				98 content list
+					99 link Description: Life at Airbnb, Value: careers.airbnb.com/life-at-airbnb/
+					100 link Description: FAQ, Value: careers.airbnb.com/faq/
+					101 link Description: Candidate Privacy, Value: careers.airbnb.com/candidate-privacy/
+			102 container menu-item-5831681
+				103 text Careers
+				104 content list
+					105 link Description: Job Search, Value: careers.airbnb.com/positions
+					106 link Description: Connect Engineering Apprenticeship, Value: careers.airbnb.com/connect-engineering-apprenticeship/
+					107 link Description: Internship Programs, Value: careers.airbnb.com/internship-programs/
+			108 container menu-item-5831686
+				109 text Machine Readable Files
+				110 content list
+					111 link Description: HMSA, Value: hmsa.com/help-center/transparency-in-coverage-machine-readable-files/
+					112 link Description: Kaiser Permanente, Value: healthy.kaiserpermanente.org/northern-california/pages/technical-information#machine-readable-files
+					113 link Description: Anthem, Value: anthem.com/ca/machine-readable-file/search/
+		114 text © Airbnb, Inc
+		115 content list menu-legal-menu
+			116 container menu-item-5831709
+				117 text •
+				118 link Description: Terms, Value: airbnb.com/terms
+			119 container menu-item-5831710
+				120 text •
+				121 link Description: Privacy, Value: airbnb.com/terms/privacy_policy
+			122 container menu-item-5831712
+				123 text •
+				124 link Description: Sitemap, Value: airbnb.com/sitemaps/v2
+		125 link Description: • Cookie Preferences, Value: careers.airbnb.com/positions/8184174/?gh_jid=8184174#
+		126 link Description: • Your Privacy Choices California Consumer Privacy Act (CCPA) Opt-Out Icon, Value: careers.airbnb.com/positions/8184174/?gh_jid=8184174#
+		127 button English
+		128 link Description: linkedin, Value: linkedin.com/company/airbnb
+		129 link Description: twitter, Value: twitter.com/airbnb
+		130 link Description: instagram, Value: instagram.com/airbnb
+
+The focused UI element is 253 combo box (expanded, settable) Candidate AI Usage Attestation:, ID: question_69024592, Secondary Actions: Collapse

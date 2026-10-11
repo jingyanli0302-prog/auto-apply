@@ -1,0 +1,164 @@
+Browser tab: 4, Title: "Sign In", URL: "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually".
+1 AXWebArea Sign In, URL: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+		4 container
+			17 link Description:  search for jobs, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			35 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			36 pop up button (collapsed) synthetic-ats-test@example.org, ID: accountSettingsButton, Secondary Actions: Expand
+			37 container
+				38 button Search for Jobs
+				39 button Candidate Home
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Software Engineering MTS, Value: 2
+				22 text Software Engineering MTS
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text completed step 2 of 5 My Experience
+					29 container
+						30 text completed step 3 of 5 Application Questions
+					31 container
+						32 text completed step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text current step 5 of 5 Review
+			40 heading Review, Value: 3
+				41 text Review
+			133 heading My Information, Value: 3
+				134 text My Information
+			135 container
+				136 text How Did You Hear About Us?
+				137 text Salesforce Careers Website
+			138 container
+				139 text Have you previously worked for Salesforce as an employee or contractor, or are you a current Salesforce contractor? If "Yes" please provide at least one piece of information below, as accurately as possible. CURRENT EMPLOYEES: Please apply internally.
+				140 text No
+			141 container
+				142 heading Legal Name, Value: 4
+					143 text Legal Name
+				144 text Synthetic TestApplicant
+				145 text I have a preferred name
+				146 text No
+			147 container
+				148 heading Address, Value: 4
+					149 text Address
+				150 text 100 Synthetic Test Road
+Synthetic Test City, A1A 1A1
+Canada
+			151 container
+				152 heading Email Address, Value: 4
+					153 text Email Address
+				154 text synthetic-ats-test@example.org
+			155 container
+				156 heading Phone, Value: 4
+					157 text Phone
+				158 text +12025550100 (Mobile)
+			159 heading My Experience, Value: 3
+				160 text My Experience
+			161 container Work History (Optional)
+				162 heading Work History (Optional), Value: 4, ID: Work-History-(Optional)-section
+					163 text Work History (Optional)
+				164 text No Response
+			165 container Education (Optional)
+				166 heading Education (Optional), Value: 4, ID: Education-(Optional)-section
+					167 text Education (Optional)
+				168 text No Response
+			169 heading Skills and Strengths (Optional), Value: 4
+				170 text Skills and Strengths (Optional)
+			171 container Resume/CV
+				172 heading Resume/CV, Value: 4, ID: Resume/CV-section
+					173 text Resume/CV
+				174 container attachments
+					175 container
+						176 text synthetic-test-resume.txt successfully uploaded
+						177 text synthetic-test-resume.txt 344 B
+			178 container Social Network URLs
+				179 heading Social Network URLs, Value: 4, ID: Social-Network-URLs-section
+					180 text Social Network URLs
+				181 text Please provide the URL to your LinkedIn profile.
+				182 text No Response
+			183 heading Application Questions, Value: 3
+				184 text Application Questions
+			185 container
+				186 text What is your preferred geographic location?
+				187 text No Response
+				188 container
+					189 text I understand that upon employment, proof of legal right to work in the US and completion of an I-9 form will be required.
+					190 container required
+						191 text *
+				192 text No
+				193 container
+					194 text Do you have the unrestricted right to work in the country to which you're applying? (You must answer “No” if you are on any visa or possess any government issued work authorization document that has an expiration date; you should answer “Yes” if you have DACA or TPS authorization in the US)
+					195 container required
+						196 text *
+				197 text No
+				198 container
+					199 text Will you now or could you in the future require sponsorship to obtain work authorization or to transfer or extend your current visa? (You must answer “Yes” if your current visa is tied to your spouse or partner’s visa.)
+					200 container required
+						201 text *
+				202 text No
+				203 container
+					204 text Government Employment: In the last 5 years, have you been an employee of a U.S. federal, state, or local government, including a "special Government employee" (defined under 18 U.S.C. §202), or a member of the U.S. Armed Services (including Reserve and Guard components)?
+					205 container required
+						206 text *
+				207 text No
+				208 container
+					209 text I attest/confirm that I have no post-government employment restrictions currently applicable to me that have not already been addressed or disclosed in the previous questions, OR that if I am aware of any applicable restrictions, I will disclose them to the recruiter if contacted for further processing of my application. If I received written advice from my current or former government employer about work restrictions that are still active, I will provide it to the recruiter if contacted for further processing of my application.
+					210 container required
+						211 text *
+				212 text No
+				213 container
+					214 text Are you currently or have you in the past been debarred, suspended, proposed for debarment or declared ineligible for award of a contract by any federal agency?
+					215 container required
+						216 text *
+				217 text No
+				218 container rich-label332
+					219 text As a U.S. company that exports software and technology internationally, we must comply with U.S. export control laws in every country where we operate. The information provided will be used to determine whether we need to obtain an Export Control License for your employment if you are hired.
+					220 container
+						221 text Are you a citizen, national or permanent resident of Iran, Cuba, North Korea or Syria?
+						222 container required
+							223 text *
+				224 text No
+				225 container
+					226 text Regarding future positions at Salesforce, please select one of the following options
+					227 container required
+						228 text *
+				229 text No, please do not contact me about Salesforce and future openings
+				230 container
+					231 text I acknowledge that I have read, reviewed and answered the above questions truthfully and accurately. I further understand, and agree, that any offer of employment I may receive from Salesforce is conditional on the truth of the above statements and that, in the event it is subsequently determined that any of the above is inaccurate, any such offer of employment can be rescinded and, in the event I have commenced employment, such employment will be terminated, to the extent permitted by applicable law. Please select "yes" if you acknowledge.
+					232 container required
+						233 text *
+				234 text No
+			235 heading Voluntary Disclosures, Value: 3
+				236 text Voluntary Disclosures
+			237 container Equal Opportunity Employment
+				238 heading Equal Opportunity Employment, Value: 4, ID: Equal-Opportunity-Employment-section
+					239 text Equal Opportunity Employment
+				240 text Gender
+				241 text I prefer not to disclose
+				242 text Veterans
+				243 text I do not wish to self-identify.
+				244 text Ethnicity
+				245 text I prefer not to disclose (United States of America)
+			246 container Terms and Conditions
+				247 heading Terms and Conditions, Value: 4, ID: Terms-and-Conditions-section
+					248 text Terms and Conditions
+				249 text Yes, I have read and consent to the terms and conditions
+				250 text Yes
+			132 button Back
+			97 button Submit
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+			13 link Description: Facebook, Value: facebook.com/salesforce
+			14 link Description: X, Value: twitter.com/salesforcejobs
+			15 link Description: LinkedIn, Value: linkedin.com/company/salesforce
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 40 heading Review, Value: 3

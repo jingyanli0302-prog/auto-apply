@@ -1,0 +1,82 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "search for jobs":
+    - /url: /en-US/External_Career_Site
+    - img "search for jobs"
+  - heading [level=1]
+  - button "English":
+    - generic: English
+  - button "Settings":
+    - generic: Settings
+  - button "synthetic-ats-test@example.org":
+    - generic: synthetic-ats-test@example.org
+  - navigation:
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Software Engineering MTS" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: completed step 2 of 5
+      - generic: My Experience
+      - generic: current step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "Application Questions" [level=3]
+  - generic: "* Indicates a required field"
+  - group "What is your preferred geographic location?":
+    - paragraph: What is your preferred geographic location?
+    - textbox
+  - group "I understand that upon employment, proof of legal right to work in the US and completion of an I-9 form will be required.*":
+    - paragraph: I understand that upon employment, proof of legal right to work in the US and completion of an I-9 form will be required.*
+    - button "No Required": "No"
+  - group "Do you have the unrestricted right to work in the country to which you're applying? (You must answer “No” if you are on any visa or possess any government issued work authorization document that has an expiration date; you should answer “Yes” if you have DACA or TPS authorization in the US)*":
+    - paragraph:
+      - generic: Do you have the unrestricted right to work in the country to which you're applying? (You must answer “No” if you are on any visa or possess any government issued work authorization document that has an expiration date; you should answer “Yes” if you have DACA or TPS authorization in the US)*
+    - button "No Required": "No"
+  - group "Will you now or could you in the future require sponsorship to obtain work authorization or to transfer or extend your current visa? (You must answer “Yes” if your current visa is tied to your spouse or partner’s visa.)*":
+    - paragraph: Will you now or could you in the future require sponsorship to obtain work authorization or to transfer or extend your current visa? (You must answer “Yes” if your current visa is tied to your spouse or partner’s visa.)*
+    - button "No Required": "No"
+  - 'group "Government Employment: In the last 5 years, have you been an employee of a U.S. federal, state, or local government, including a \"special Government employee\" (defined under 18 U.S.C. §202), or a member of the U.S. Armed Services (including Reserve and Guard components)?*"':
+    - paragraph:
+      - generic: "Government Employment: In the last 5 years, have you been an employee of a U.S. federal, state, or local government, including a \"special Government employee\" (defined under 18 U.S.C. §202), or a member of the U.S. Armed Services (including Reserve and Guard components)?*"
+    - button "No Required": "No"
+  - group "I attest/confirm that I have no post-government employment restrictions currently applicable to me that have not already been addressed or disclosed in the previous questions, OR that if I am aware of any applicable restrictions, I will disclose them to the recruiter if contacted for further processing of my application. If I received written advice from my current or former government employer about work restrictions that are still active, I will provide it to the recruiter if contacted for further processing of my application.*":
+    - paragraph:
+      - generic: I attest/confirm that I have no post-government employment restrictions currently applicable to me that have not already been addressed or disclosed in the previous questions, OR that if I am aware of any applicable restrictions, I will disclose them to the recruiter if contacted for further processing of my application. If I received written advice from my current or former government employer about work restrictions that are still active, I will provide it to the recruiter if contacted for further processing of my application.*
+    - button "No Required": "No"
+  - group "Are you currently or have you in the past been debarred, suspended, proposed for debarment or declared ineligible for award of a contract by any federal agency?*":
+    - paragraph: Are you currently or have you in the past been debarred, suspended, proposed for debarment or declared ineligible for award of a contract by any federal agency?*
+    - button "No Required": "No"
+  - group "As a U.S. company that exports software and technology internationally, we must comply with U.S. export control laws in every country where we operate. The information provided will be used to determine whether we need to obtain an Export Control License for your employment if you are hired. Are you a citizen, national or permanent resident of Iran, Cuba, North Korea or Syria?*":
+    - paragraph: As a U.S. company that exports software and technology internationally, we must comply with U.S. export control laws in every country where we operate. The information provided will be used to determine whether we need to obtain an Export Control License for your employment if you are hired.
+    - paragraph: Are you a citizen, national or permanent resident of Iran, Cuba, North Korea or Syria?*
+    - button "No Required": "No"
+  - group "Regarding future positions at Salesforce, please select one of the following options*":
+    - paragraph: Regarding future positions at Salesforce, please select one of the following options*
+    - button "No, please do not contact me about Salesforce and future openings Required": No, please do not contact me about Salesforce and future openings
+  - group "I acknowledge that I have read, reviewed and answered the above questions truthfully and accurately. I further understand, and agree, that any offer of employment I may receive from Salesforce is conditional on the truth of the above statements and that, in the event it is subsequently determined that any of the above is inaccurate, any such offer of employment can be rescinded and, in the event I have commenced employment, such employment will be terminated, to the extent permitted by applicable law. Please select \"yes\" if you acknowledge.*":
+    - paragraph:
+      - generic: I acknowledge that I have read, reviewed and answered the above questions truthfully and accurately. I further understand, and agree, that any offer of employment I may receive from Salesforce is conditional on the truth of the above statements and that, in the event it is subsequently determined that any of the above is inaccurate, any such offer of employment can be rescinded and, in the event I have commenced employment, such employment will be terminated, to the extent permitted by applicable law. Please select "yes" if you acknowledge.*
+    - button "No Required" [active]: "No"
+  - button "Back"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+  - link "Facebook":
+    - /url: https://www.facebook.com/salesforce
+  - link "X":
+    - /url: https://twitter.com/salesforcejobs
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/salesforce
+- generic: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,176 @@
+Browser tab: 4, Title: "Sign In", URL: "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually".
+1 AXWebArea Sign In, URL: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+		4 container
+			17 link Description:  search for jobs, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			35 pop up button (collapsed) Settings, ID: settingsSelectorButton, Secondary Actions: Expand
+			36 pop up button (collapsed) synthetic-ats-test@example.org, ID: accountSettingsButton, Secondary Actions: Expand
+			37 container
+				38 button Search for Jobs
+				39 button Candidate Home
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Software Engineering MTS, Value: 2
+				22 text Software Engineering MTS
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text current step 2 of 5 My Experience
+					29 container
+						30 text step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			40 heading My Experience, Value: 3
+				41 text My Experience
+			42 container
+				43 text * Indicates a required field
+			98 container Work History (Optional)
+				99 heading Work History (Optional), Value: 4, ID: Work-History-(Optional)-section
+					100 text Work History (Optional)
+				101 container
+					102 text Tell us about your work history and/or other relevant experiences such as volunteerism, military service, or athletics.
+				133 container Work History (Optional) 1
+					134 heading Work History (Optional) 1, Value: 5, ID: Work-History-(Optional)-1-panel
+						135 text Work History (Optional) 1
+					136 button Delete
+					137 text Job Title
+					138 text field (settable) Job Title, ID: workExperience-95--jobTitle
+					139 text Company
+					140 text field (settable) Company, ID: workExperience-95--companyName
+					141 text Location
+					142 text field (settable) Location, ID: workExperience-95--location
+					143 container
+						144 checkbox (settable, integer) Description: I currently work here, Value: 0, ID: workExperience-95--currentlyWorkHere
+					145 container From
+						146 text From
+						147 container workExperience-95--startDate
+							148 container
+								149 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-95--startDate-dateSectionMonth-input
+								150 text /
+								151 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-95--startDate-dateSectionYear-input
+							152 button Calendar
+					153 container To
+						154 text To
+						155 container workExperience-95--endDate
+							156 container
+								157 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-95--endDate-dateSectionMonth-input
+								158 text /
+								159 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-95--endDate-dateSectionYear-input
+							160 button Calendar
+					161 text Role Description
+					162 text entry area (settable) Role Description, ID: workExperience-95--roleDescription
+				181 container Work History (Optional) 2
+					182 heading Work History (Optional) 2, Value: 5, ID: Work-History-(Optional)-2-panel
+						183 text Work History (Optional) 2
+					184 button Delete
+					185 text Job Title
+					186 text field (settable) Job Title, ID: workExperience-113--jobTitle
+					187 text Company
+					188 text field (settable) Company, ID: workExperience-113--companyName
+					189 text Location
+					190 text field (settable) Location, ID: workExperience-113--location
+					191 container
+						192 checkbox (settable, integer) Description: I currently work here, Value: 0, ID: workExperience-113--currentlyWorkHere
+					193 container From
+						194 text From
+						195 container workExperience-113--startDate
+							196 container
+								197 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-113--startDate-dateSectionMonth-input
+								198 text /
+								199 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-113--startDate-dateSectionYear-input
+							200 button Calendar
+					201 container To
+						202 text To
+						203 container workExperience-113--endDate
+							204 container
+								205 stepper (settable, integer) Description: Month, Value: 0, ID: workExperience-113--endDate-dateSectionMonth-input
+								206 text /
+								207 stepper (settable, integer) Description: Year, Value: 0, ID: workExperience-113--endDate-dateSectionYear-input
+							208 button Calendar
+					209 text Role Description
+					210 text entry area (settable) Role Description, ID: workExperience-113--roleDescription
+				103 button Add Another
+			104 container Education (Optional)
+				105 heading Education (Optional), Value: 4, ID: Education-(Optional)-section
+					106 text Education (Optional)
+				107 container
+					108 text If you’d like, this is where you can include information regarding your education, such as school name, level of degree, and/or field of study .
+				163 container Education (Optional) 1
+					164 heading Education (Optional) 1, Value: 5, ID: Education-(Optional)-1-panel
+						165 text Education (Optional) 1
+					166 button Delete
+					167 text School or University
+					168 text field (settable) School or University, ID: education-104--schoolName
+					169 text Degree
+					170 pop up button Description: Degree Select One Required, ID: education-104--degree
+					171 text Field of Study
+					172 container
+						173 text field (settable) Field of Study, ID: education-104--fieldOfStudy
+					174 button The field will alphabetically return the first 100 results and can also return specified matches.
+					175 container From
+						176 text From
+						177 stepper (settable, integer) Description: Year, Value: 0, ID: education-104--firstYearAttended-dateSectionYear-input
+					178 container To (Actual or Expected)
+						179 text To (Actual or Expected)
+						180 stepper (settable, integer) Description: Year, Value: 0, ID: education-104--lastYearAttended-dateSectionYear-input
+				211 container Education (Optional) 2
+					212 heading Education (Optional) 2, Value: 5, ID: Education-(Optional)-2-panel
+						213 text Education (Optional) 2
+					214 button Delete
+					215 text School or University
+					216 text field (settable) School or University, ID: education-126--schoolName
+					217 text Degree
+					218 pop up button Description: Degree Select One Required, ID: education-126--degree
+					219 text Field of Study
+					220 container
+						221 text field (settable) Field of Study, ID: education-126--fieldOfStudy
+					222 button The field will alphabetically return the first 100 results and can also return specified matches.
+					223 container From
+						224 text From
+						225 stepper (settable, integer) Description: Year, Value: 0, ID: education-126--firstYearAttended-dateSectionYear-input
+					226 container To (Actual or Expected)
+						227 text To (Actual or Expected)
+						228 stepper (settable, integer) Description: Year, Value: 0, ID: education-126--lastYearAttended-dateSectionYear-input
+				109 button Add Another
+			110 container Skills and Strengths (Optional)
+				111 heading Skills and Strengths (Optional), Value: 4, ID: Skills-and-Strengths-(Optional)-section
+					112 text Skills and Strengths (Optional)
+				113 container
+					114 text Add up to 10 hard and/or soft skills that highlight your professional abilities. This information will make it easier for our Talent Acquisition team to match you with current and future openings.
+				115 text Type to Add Skills
+				116 container
+					117 text field (settable) Type to Add Skills, ID: skills--skills
+			118 container Resume/CV
+				119 heading Resume/CV, Value: 4, ID: Resume/CV-section
+					120 text Resume/CV
+				121 text If you haven’t already, please upload your resume/CV. If you’d like to include a cover letter, you can do so here as well. PDF or .docx file formats are preferred.
+				122 text Upload a file (5MB max)
+				123 container Upload a file (5MB max)
+					124 container
+						125 text Drop files here or
+						126 button Select files, ID: resumeAttachments--attachments
+			127 container Social Network URLs
+				128 heading Social Network URLs, Value: 4, ID: Social-Network-URLs-section
+					129 text Social Network URLs
+				130 text Please provide the URL to your LinkedIn profile.
+				131 text field (settable) Please provide the URL to your LinkedIn profile., ID: socialNetworkAccounts--linkedInAccount
+			132 button Back
+			97 button Save and Continue
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+			13 link Description: Facebook, Value: facebook.com/salesforce
+			14 link Description: X, Value: twitter.com/salesforcejobs
+			15 link Description: LinkedIn, Value: linkedin.com/company/salesforce
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 216 text field (settable) School or University, ID: education-126--schoolName

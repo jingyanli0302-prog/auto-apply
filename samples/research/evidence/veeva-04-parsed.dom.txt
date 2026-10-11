@@ -1,0 +1,104 @@
+- dialog "cookieconsent":
+  - generic: 🍪
+  - heading "Privacy Notice" [level=4]
+  - paragraph: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+  - button "Dismiss"
+- link "Veeva Systems logo":
+  - /url: https://careers.veeva.com
+  - img "Veeva Systems logo"
+- heading "Account Director" [level=2]
+- generic: New Jersey - Lyndhurst
+- generic: Professional Services – Digital Events /
+- generic: Full-Time /
+- generic: On-site
+- heading "Submit your application" [level=4]
+- list:
+  - generic: Resume/CV
+  - link "synthetic-test-resume.txt Resume/CV Success!":
+    - /url: "#"
+    - generic: synthetic-test-resume.txt
+    - button "Resume/CV synthetic-test-resume.txt Success!" [active]
+  - generic: Success!
+  - text: Full name
+  - generic: ✱
+  - textbox "Full name ✱": Synthetic TestApplicant
+  - text: Email
+  - generic: ✱
+  - textbox "Email ✱": <redacted>
+  - generic: Phone
+  - textbox "Phone": <redacted>
+  - generic: Current location
+  - textbox "Current location"
+  - generic: Current company
+  - textbox "Current company": Synthetic Test Company
+- heading "Links" [level=4]
+- list:
+  - generic: LinkedIn URL
+  - textbox "LinkedIn URL"
+- heading "United States" [level=4]
+- list:
+  - text: Do you now, or in the future require sponsorship?
+  - generic: ✱
+  - list:
+    - radio "Yes"
+    - generic: "Yes"
+    - radio "No" [checked]
+    - generic: "No"
+  - text: Do you have the unrestricted right to work in the United States?
+  - generic: ✱
+  - list:
+    - radio "Yes"
+    - generic: "Yes"
+    - radio "No"
+    - generic: "No"
+- heading "Next Step Confirmation" [level=4]
+- list:
+  - text: Stay Connected | To ensure you receive status updates and interview invitations, please add no-reply@hire.lever.co to your safe sender list and check your spam/junk folders regularly.
+  - generic: ✱
+  - list:
+    - checkbox "I understand that next steps will be sent via email and I have marked the sender address above as safe."
+    - generic: I understand that next steps will be sent via email and I have marked the sender address above as safe.
+- separator
+- heading "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)" [level=4]
+- paragraph: Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+- generic: Gender
+- combobox "Gender":
+  - option "Select ..." [selected]
+  - option "Male"
+  - option "Female"
+  - option "Decline to self-identify"
+- text: Race
+- link "Click to see details about each option.":
+  - /url: javascript:void(0)
+- combobox "Race Click to see details about each option.":
+  - option "Select ..." [selected]
+  - option "Hispanic or Latino"
+  - option "White (Not Hispanic or Latino)"
+  - option "Black or African American (Not Hispanic or Latino)"
+  - option "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+  - option "Asian (Not Hispanic or Latino)"
+  - option "American Indian or Alaska Native (Not Hispanic or Latino)"
+  - option "Two or More Races (Not Hispanic or Latino)"
+  - option "Decline to self-identify"
+- generic: Veteran status
+- combobox "Veteran status":
+  - option "Select ..." [selected]
+  - option "I am a veteran"
+  - option "I am not a veteran"
+  - option "Decline to self-identify"
+- separator
+- list:
+  - list:
+    - checkbox "Yes, Veeva Systems can contact me about future job opportunities for up to 2 years Privacy policy"
+    - paragraph:
+      - text: Yes, Veeva Systems can contact me about future job opportunities for up to 2 years
+      - link "Privacy policy":
+        - /url: https://www.veeva.com/job-applicant-data-privacy-notice/
+- button "Submit application"
+- paragraph:
+  - link "Veeva Systems Home Page":
+    - /url: https://www.veeva.com/meet-veeva/careers/
+- link "Jobs powered by Lever logo":
+  - /url: https://www.lever.co/job-seeker-support/
+  - generic: Jobs powered by
+  - img "Lever logo"

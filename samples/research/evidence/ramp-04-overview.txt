@@ -1,0 +1,193 @@
+Browser tab: 6, Title: "Security Engineer, Cloud @ Ramp", URL: "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245".
+0 AXWebArea Security Engineer, Cloud @ Ramp, URL: jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245
+	1 container root
+		2 content list
+			3 link Description: Ramp, Value: ramp.com/
+			4 link Description: Back to Ramp’s Job Listings, Value: jobs.ashbyhq.com/ramp
+		5 heading Security Engineer, Cloud, Value: 1
+			6 text Security Engineer, Cloud
+		7 heading Location, Value: 2
+			8 text Location
+		9 text New York, NY (HQ); Miami, FL; Remote (Canada); Remote (US)
+		10 heading Employment Type, Value: 2
+			11 text Employment Type
+		12 text Full time
+		13 heading Location Type, Value: 2
+			14 text Location Type
+		15 text Hybrid
+		16 heading Department, Value: 2
+			17 text Department
+		18 text Engineering
+		19 heading Compensation, Value: 2
+			20 text Compensation
+		21 content list
+			22 text $211.4K – $290.6K • Offers Equity
+		23 text The final compensation will depend on the location and level at which the candidate is hired.
+		24 tab group
+			25 tab (selected, settable, boolean) Overview, Value: 1, ID: job-overview
+			26 tab (selectable, settable, boolean) Application, Value: 0, ID: job-application-form
+		109 container Description: Overview, ID: overview
+			110 heading About Ramp, Value: 1
+				111 text About Ramp
+			112 text Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.
+			113 text The problems are high-stakes, data-dense, and unforgiving.
+			114 text We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.
+			115 text The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.
+			116 text If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.
+			117 heading About the Role, Value: 1
+				118 text About the Role
+			119 text The Security Engineering team helps make Ramp the most secure place for our customers to collect, manage, and put to work their business’ financial information 
+			120 text Our work centers in three areas:
+			121 content list
+				122 container
+					123 AXListMarker • 
+					124 text Ramp builds products with an eye for security
+				125 container
+					126 AXListMarker • 
+					127 text Ramp detects and responds to threats before they cause harm
+				128 container
+					129 AXListMarker • 
+					130 text Security powers Ramp’s growth
+			131 text Check out our 
+			132 link Description: Engineering Blog, Value: engineering.ramp.com/
+			133 text  for more on our tech stack, mission and values!
+			134 text What You’ll Do
+			135 content list
+				136 container
+					137 AXListMarker • 
+					138 text Drive our cloud security roadmap: review our cloud deployments to identify opportunities for improvement
+				139 container
+					140 AXListMarker • 
+					141 text Design and build security-focused infrastructure primitives and integrate them into our existing products and development processes
+				142 container
+					143 AXListMarker • 
+					144 text Lead remediation of prioritized issues across our technology stack
+				145 container
+					146 AXListMarker • 
+					147 text Partner with infrastructure, data, and devops teams to design and deploy solutions that are inherently secure
+			148 heading What You Need, Value: 2
+				149 text What You Need
+			150 content list
+				151 container
+					152 AXListMarker • 
+					153 text Minimum 5 years of experience building software
+				154 container
+					155 AXListMarker • 
+					156 text Minimum 3 years of experience building in AWS (with Terraform)
+				157 container
+					158 AXListMarker • 
+					159 text A strong sense of ownership: you need to drive projects from inception to scaling it in production
+				160 container
+					161 AXListMarker • 
+					162 text Desire to work in a fast-paced environment, continuously grow, and master your craft
+			163 heading Nice-to-Haves, Value: 2
+				164 text Nice-to-Haves
+			165 content list
+				166 container
+					167 AXListMarker • 
+					168 text Experience with Python (Flask) and Terraform
+				169 container
+					170 AXListMarker • 
+					171 text Experience with Azure, GCP, and other cloud providers
+				172 container
+					173 AXListMarker • 
+					174 text Experience improving the developer experience and security properties of a multi-service deployment
+			175 heading Benefits available to all full-time Ramp employees (Global), Value: 2
+				176 text Benefits available to all full-time Ramp employees (Global)
+			177 content list
+				178 container
+					179 AXListMarker • 
+					180 text Flexible PTO
+				181 container
+					182 AXListMarker • 
+					183 text Centralized home-office equipment ordering
+				184 container
+					185 AXListMarker • 
+					186 text Health and wellness stipend
+				187 container
+					188 AXListMarker • 
+					189 text Budget for intra-office travel
+				190 container
+					191 AXListMarker • 
+					192 text Weekly coffee stipend
+			193 heading United States, Value: 2
+				194 text United States
+			195 content list
+				196 container
+					197 AXListMarker • 
+					198 text 100% medical, dental & vision insurance coverage for you, with partial coverage for dependents
+				199 container
+					200 AXListMarker • 
+					201 text One Medical annual membership
+				202 container
+					203 AXListMarker • 
+					204 text 401(k), including employer match on contributions made while employed by Ramp
+				205 container
+					206 AXListMarker • 
+					207 text Fertility HRA (up to $10,000 per year)
+				208 container
+					209 AXListMarker • 
+					210 text Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay
+				211 container
+					212 AXListMarker • 
+					213 text Pet insurance
+				214 container
+					215 AXListMarker • 
+					216 text In-office perks: lunch, snacks, drinks, and more
+				217 container
+					218 AXListMarker • 
+					219 text Relocation expense coverage to NYC or SF (if needed)
+			220 heading Canada, Value: 2
+				221 text Canada
+			222 content list
+				223 container
+					224 AXListMarker • 
+					225 text Group medical, dental, and vision coverage through Sun Life
+				226 container
+					227 AXListMarker • 
+					228 text Life, AD&D, and disability coverage
+				229 container
+					230 AXListMarker • 
+					231 text Fertility drug coverage (up to $4,000 lifetime)
+				232 container
+					233 AXListMarker • 
+					234 text Group Retirement Plan with employer match (RRSP + DPSP)
+				235 container
+					236 AXListMarker • 
+					237 text Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay
+				238 container
+					239 AXListMarker • 
+					240 text Employee Assistance Program and virtual care through Lumino Health
+			241 heading United Kingdom, Value: 2
+				242 text United Kingdom
+			243 content list
+				244 container
+					245 AXListMarker • 
+					246 text Private medical insurance through Freedom Elite
+				247 container
+					248 AXListMarker • 
+					249 text Virtual GP and at-home care via eMed x Livi
+				250 container
+					251 AXListMarker • 
+					252 text Workplace pension through Penfold, with salary sacrifice option
+				253 container
+					254 AXListMarker • 
+					255 text Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay
+			256 heading Referral Instructions, Value: 2
+				257 text Referral Instructions
+			258 text If you are being referred for the role, please contact that person to apply on your behalf.
+			259 heading Other notices, Value: 2
+				260 text Other notices
+			261 text Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+			262 text Beware of recruiting scams: Ramp will only contact you through official @
+			263 link Description: Ramp.com, Value: ramp.com/
+			264 text  email addresses and will never ask for payment or sensitive personal information during the hiring process.
+			265 link Description: Ramp Applicant Privacy Notice, Value: ramp.com/legal/applicant-privacy-notice
+			266 link Description: Apply for this Job, Value: jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245/application
+		104 container
+			105 link Description: Learn more about Ashby, Value: ashbyhq.com/
+			106 link Description: Privacy Policy, Value: ashbyhq.com/privacy
+			107 link Description: Security, Value: ashbyhq.com/security
+			108 link Description: Vulnerability Disclosure, Value: ashbyhq.com/disclosure
+
+The focused UI element is 25 tab (selected, settable, boolean) Overview, Value: 1, ID: job-overview

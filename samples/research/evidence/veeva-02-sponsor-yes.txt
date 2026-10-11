@@ -1,0 +1,127 @@
+Browser tab: 12, Title: "Veeva Systems - Account Director", URL: "https://jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply".
+0 AXWebArea Veeva Systems - Account Director, URL: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply
+	1 container cookieconsent
+		2 container
+			121 text 🍪
+			3 button dismiss
+			4 heading Privacy Notice, Value: 4
+				122 text Privacy Notice
+			123 text This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+	5 link Description: Veeva Systems logo, Value: careers.veeva.com/
+	6 container
+		7 heading Account Director, Value: 2
+			8 text Account Director
+		9 container
+			10 text New Jersey - Lyndhurst Professional Services – Digital Events / Full-Time / On-Site
+		11 container application-form
+			12 container
+				13 heading SUBMIT YOUR APPLICATION, Value: 4
+					14 text SUBMIT YOUR APPLICATION
+				15 content list
+					16 container
+						17 text Resume/CV
+						18 link Description: ATTACH RESUME/CV Resume/CV: No file chosen, Value: jobs.lever.co/veeva/9ac55b31-df46-4acb-b305-2c0b7ed56027/apply#
+					19 container
+						20 text Full name ✱
+						21 text field (settable) Full name ✱
+					22 container
+						23 text Email ✱
+						24 text field (settable) Email ✱
+					25 container
+						26 text Phone
+						27 text field (settable) Phone
+					28 container
+						29 text Current location
+						30 text field (settable) Current location, ID: location-input
+					31 container
+						32 text Current company
+						33 text field (settable) Current company
+			34 container
+				35 heading LINKS, Value: 4
+					36 text LINKS
+				37 content list
+					38 container
+						39 text LinkedIn URL
+						40 text field (settable) LinkedIn URL
+			41 container
+				42 heading UNITED STATES, Value: 4
+					43 text UNITED STATES
+				44 content list
+					45 container
+						46 container
+							47 text Do you now, or in the future require sponsorship? ✱
+						48 content list
+							49 container
+								50 radio button (settable, integer) Description: Yes, Value: 1
+								51 text Yes
+							52 container
+								53 radio button (settable, integer) Description: No, Value: 0
+								54 text No
+					55 container
+						56 container
+							57 text Do you have the unrestricted right to work in the United States? ✱
+						58 content list
+							59 container
+								60 radio button (settable, integer) Description: Yes, Value: 0
+								61 text Yes
+							62 container
+								63 radio button (settable, integer) Description: No, Value: 0
+								64 text No
+			65 container
+				66 heading NEXT STEP CONFIRMATION, Value: 4
+					67 text NEXT STEP CONFIRMATION
+				68 content list
+					69 container
+						70 container
+							71 text Stay Connected | To ensure you receive status updates and interview invitations, please add  no-reply@hire.lever.co  to your safe sender list and check your spam/junk folders regularly. ✱
+						72 content list
+							73 container
+								74 checkbox (settable, integer) Value: 0, Description: I understand that next steps will be sent via email and I have marked the sender address above as safe.
+								75 text I understand that next steps will be sent via email and I have marked the sender address above as safe.
+			76 container eeoSurvey_23d0936a-3e59-43a1-9cd7-d0232533a322
+				77 heading Value: 4, U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION   (Completion is voluntary and will not subject you to adverse treatment)
+					78 text U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION    (Completion is voluntary and will not subject you to adverse treatment)
+				79 text Our company values diversity. To ensure that we comply with reporting requirements and to learn more about how we can increase diversity in our candidate pool, we invite you to voluntarily provide demographic information in a confidential survey at the end of this application. Providing this information is optional. It will not be accessible or used in the hiring process, and has no effect on your opportunity for employment.
+				80 container
+					81 text Gender
+					82 pop up button (collapsed, settable) Gender, Value: Select ..., Secondary Actions: Expand
+						83 menu
+							84 (selected) Select ...
+							85 Male
+							86 Female
+							87 Decline to self-identify
+				88 container
+					89 text Race
+					90 link (collapsed) Description: Click to see details about each option., Value: javascript:void(0), Secondary Actions: Expand
+					91 pop up button (collapsed, settable) Race Click to see details about each option., Value: Select ..., Secondary Actions: Expand
+						92 menu
+							93 (selected) Select ...
+							94 Hispanic or Latino
+							95 White (Not Hispanic or Latino)
+							96 Black or African American (Not Hispanic or Latino)
+							97 Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)
+							98 Asian (Not Hispanic or Latino)
+							99 American Indian or Alaska Native (Not Hispanic or Latino)
+							100 Two or More Races (Not Hispanic or Latino)
+							101 Decline to self-identify
+				102 container
+					103 text Veteran status
+					104 pop up button (collapsed, settable) Veteran status, Value: Select ..., Secondary Actions: Expand
+						105 menu
+							106 (selected) Select ...
+							107 I am a veteran
+							108 I am not a veteran
+							109 Decline to self-identify
+			110 container
+				111 content list
+					112 content list
+						113 container
+							114 checkbox (settable, integer) Description: Yes, Veeva Systems can contact me about future job opportunities for up to 2 years Privacy policy, Value: 0
+							115 text Yes, Veeva Systems can contact me about future job opportunities for up to 2 years
+							116 link Description: Privacy policy, Value: veeva.com/job-applicant-data-privacy-notice/
+			117 button SUBMIT APPLICATION, ID: btn-submit
+	118 container
+		119 link Description: Veeva Systems Home Page, Value: veeva.com/meet-veeva/careers/
+		120 link Description: Jobs powered by Lever logo, Value: lever.co/job-seeker-support/
+
+The focused UI element is 50 radio button (settable, integer) Description: Yes, Value: 1

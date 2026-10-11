@@ -1,0 +1,14 @@
+Browser tab: 6, Title: "Security Engineer, Cloud @ Ramp", URL: "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245/application".
+0 AXWebArea Security Engineer, Cloud @ Ramp, URL: jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245/application
+	1 container Description: Application, ID: form
+		2 combo box (expanded, settable) Value: California, Secondary Actions: Collapse
+	3 container :r2:
+		4 list :r0:
+			8 (selected) Value: California, United States, ID: :r3:
+			9 Value: California City, California, United States, ID: :r4:
+			10 Value: California, Pennsylvania, United States, ID: :r5:
+			11 Value: California, Maryland, United States, ID: :r6:
+			12 Value: California, Missouri, United States, ID: :r7:
+		7 button Dismiss
+
+The focused UI element is 2 combo box (expanded, settable) Value: California, Secondary Actions: Collapse

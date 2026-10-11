@@ -1,0 +1,133 @@
+- list:
+  - link "Ramp":
+    - /url: https://ramp.com
+    - img "Ramp"
+  - link "Back to Ramp’s Job Listings":
+    - /url: /ramp
+- heading "Security Engineer, Cloud" [level=1]
+- heading "Location" [level=2]
+- paragraph: New York, NY (HQ); Miami, FL; Remote (Canada); Remote (US)
+- heading "Employment Type" [level=2]
+- paragraph: Full time
+- heading "Location Type" [level=2]
+- paragraph: Hybrid
+- heading "Department" [level=2]
+- paragraph: Engineering
+- heading "Compensation" [level=2]
+- list:
+  - generic: $211.4K – $290.6K • Offers Equity
+- paragraph: The final compensation will depend on the location and level at which the candidate is hired.
+- tablist:
+  - tab "Overview" [active] [selected]
+  - tab "Application"
+- tabpanel "Overview":
+  - heading "About Ramp" [level=1]:
+    - strong: About Ramp
+  - paragraph: "Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books."
+  - paragraph: The problems are high-stakes, data-dense, and unforgiving.
+  - paragraph: We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.
+  - paragraph: The median Ramp customer saves 5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.
+  - paragraph: If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.
+  - paragraph
+  - heading "About the Role" [level=1]
+  - paragraph: The Security Engineering team helps make Ramp the most secure place for our customers to collect, manage, and put to work their business’ financial information
+  - paragraph: "Our work centers in three areas:"
+  - list:
+    - paragraph: Ramp builds products with an eye for security
+    - paragraph: Ramp detects and responds to threats before they cause harm
+    - paragraph: Security powers Ramp’s growth
+  - paragraph:
+    - text: Check out our
+    - link "Engineering Blog":
+      - /url: https://engineering.ramp.com/
+    - text: for more on our tech stack, mission and values!
+  - paragraph
+  - paragraph: What You’ll Do
+  - list:
+    - paragraph: "Drive our cloud security roadmap: review our cloud deployments to identify opportunities for improvement"
+    - paragraph: Design and build security-focused infrastructure primitives and integrate them into our existing products and development processes
+    - paragraph: Lead remediation of prioritized issues across our technology stack
+    - paragraph: Partner with infrastructure, data, and devops teams to design and deploy solutions that are inherently secure
+  - paragraph
+  - heading "What You Need" [level=2]
+  - list:
+    - paragraph: Minimum 5 years of experience building software
+    - paragraph: Minimum 3 years of experience building in AWS (with Terraform)
+    - paragraph: "A strong sense of ownership: you need to drive projects from inception to scaling it in production"
+    - paragraph: Desire to work in a fast-paced environment, continuously grow, and master your craft
+  - paragraph
+  - heading "Nice-to-Haves" [level=2]
+  - list:
+    - paragraph: Experience with Python (Flask) and Terraform
+    - paragraph: Experience with Azure, GCP, and other cloud providers
+    - paragraph: Experience improving the developer experience and security properties of a multi-service deployment
+  - paragraph
+  - heading "Benefits available to all full-time Ramp employees (Global)" [level=2]:
+    - strong: Benefits available to all full-time Ramp employees (Global)
+  - list:
+    - paragraph: Flexible PTO
+    - paragraph: Centralized home-office equipment ordering
+    - paragraph: Health and wellness stipend
+    - paragraph: Budget for intra-office travel
+    - paragraph: Weekly coffee stipend
+  - paragraph
+  - heading "United States" [level=2]:
+    - strong: United States
+  - list:
+    - paragraph: 100% medical, dental & vision insurance coverage for you, with partial coverage for dependents
+    - paragraph: One Medical annual membership
+    - paragraph: 401(k), including employer match on contributions made while employed by Ramp
+    - paragraph: Fertility HRA (up to $10,000 per year)
+    - paragraph: "Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay"
+    - paragraph: Pet insurance
+    - paragraph: "In-office perks: lunch, snacks, drinks, and more"
+    - paragraph: Relocation expense coverage to NYC or SF (if needed)
+    - paragraph
+  - heading "Canada" [level=2]:
+    - strong: Canada
+  - list:
+    - paragraph: Group medical, dental, and vision coverage through Sun Life
+    - paragraph: Life, AD&D, and disability coverage
+    - paragraph: Fertility drug coverage (up to $4,000 lifetime)
+    - paragraph: Group Retirement Plan with employer match (RRSP + DPSP)
+    - paragraph: "Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay, with additional time available at reduced pay"
+    - paragraph: Employee Assistance Program and virtual care through Lumino Health
+  - paragraph
+  - heading "United Kingdom" [level=2]:
+    - strong: United Kingdom
+  - list:
+    - paragraph: Private medical insurance through Freedom Elite
+    - paragraph: Virtual GP and at-home care via eMed x Livi
+    - paragraph: Workplace pension through Penfold, with salary sacrifice option
+    - paragraph: "Parental leave: up to 16 weeks (birthing + bonding) or 8 weeks (bonding only) at 100% pay with additional time available at reduced pay"
+  - paragraph
+  - heading "Referral Instructions" [level=2]:
+    - strong: Referral Instructions
+  - paragraph: If you are being referred for the role, please contact that person to apply on your behalf.
+  - heading "Other notices" [level=2]:
+    - strong: Other notices
+  - paragraph: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+  - paragraph:
+    - emphasis: "Beware of recruiting scams: Ramp will only contact you through official @"
+    - link "Ramp.com":
+      - /url: http://Ramp.com
+      - emphasis: Ramp.com
+    - emphasis: email addresses and will never ask for payment or sensitive personal information during the hiring process.
+  - paragraph:
+    - link "Ramp Applicant Privacy Notice":
+      - /url: https://ramp.com/legal/applicant-privacy-notice
+  - link "Apply for this Job":
+    - /url: /ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245/application
+    - button "Apply for this Job"
+- contentinfo:
+  - link "Learn more about Ashby":
+    - /url: https://www.ashbyhq.com
+    - generic: Powered by
+    - img "Ashby"
+  - paragraph:
+    - link "Privacy Policy":
+      - /url: https://www.ashbyhq.com/privacy
+    - link "Security":
+      - /url: https://www.ashbyhq.com/security
+    - link "Vulnerability Disclosure":
+      - /url: https://www.ashbyhq.com/disclosure

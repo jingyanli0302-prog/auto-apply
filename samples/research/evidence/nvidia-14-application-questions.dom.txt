@@ -1,0 +1,56 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "careers home":
+    - /url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    - img "careers home"
+  - heading "CAREERS AT NVIDIA" [level=1]
+  - button "Settings":
+    - generic: Settings
+  - button "[USER-OPERATED-TEST-ACCOUNT]":
+    - generic: [USER-OPERATED-TEST-ACCOUNT]
+  - navigation:
+    - button "Home"
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Senior Systems Software Engineer - GPU Performance at Scale" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: completed step 2 of 5
+      - generic: My Experience
+      - generic: current step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "Application Questions" [active] [level=3]
+  - generic: "* Indicates a required field"
+  - group "Are you legally authorized to work in the United States?":
+    - paragraph: Are you legally authorized to work in the United States?
+    - button "Select One"
+  - group "Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?":
+    - paragraph: Will you now or in the future require sponsorship for employment visa status (e.g. H-1B visa status)?
+    - button "Select One"
+  - button "Back"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "X":
+    - /url: https://twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - link "Facebook":
+    - /url: https://www.facebook.com/NVIDIA
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/nvidia
+  - link "YouTube":
+    - /url: https://www.youtube.com/nvidia
+- link "Applicant Privacy Policy":
+  - /url: https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+- generic: © 2026 Workday, Inc. All rights reserved.

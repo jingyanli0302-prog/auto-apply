@@ -1,0 +1,121 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "careers home":
+    - /url: http://careers.adobe.com
+    - img "careers home"
+  - heading [level=1]
+  - button "English":
+    - generic: English
+  - button "Sign In":
+    - generic: Sign In
+  - navigation:
+    - button "Search for Jobs"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Sr. Technical Account Manager" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: completed step 2 of 5
+      - generic: My Experience
+      - generic: completed step 3 of 5
+      - generic: Application Questions
+      - generic: completed step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: current step 5 of 5
+      - generic: Review
+  - heading "Review" [active] [level=3]
+  - heading "My Information" [level=3]
+  - generic: How Did You Hear About Us?
+  - generic: Adobe.com
+  - generic: Have you been employed by Adobe in the past?
+  - generic: "No"
+  - heading "Name" [level=4]
+  - generic: Synthetic TestApplicant
+  - heading "Address" [level=4]
+  - generic: ON Canada
+  - heading "Email Address" [level=4]
+  - generic: synthetic-ats-test@example.org
+  - heading "Phone" [level=4]
+  - generic: +1 (202) 5550100 (Mobile)
+  - heading "My Experience" [level=3]
+  - group "Work Experience":
+    - heading "Work Experience" [level=4]
+    - group "Work Experience 1":
+      - heading "Work Experience 1" [level=5]
+      - generic: Job Title
+      - generic: Synthetic Test Engineer
+      - generic: Company
+      - generic: Synthetic Test Company
+      - generic: Location
+      - generic: No Response
+      - generic: I currently work here
+      - generic: "Yes"
+      - generic: From
+      - generic: 01/2026
+      - generic: Role Description
+      - generic: No Response
+  - group "Education":
+    - heading "Education" [level=4]
+    - group "Education 1":
+      - heading "Education 1" [level=5]
+      - generic: School or University
+      - generic: Synthetic Test University
+      - generic: Degree
+      - generic: Bachelors
+      - generic: Field of Study
+      - generic: Computer Engineering
+      - generic: Overall Result (GPA)
+      - generic: No Response
+      - generic: From
+      - generic: No Response
+      - generic: To (Actual or Expected)
+      - generic: No Response
+  - group "Certifications":
+    - heading "Certifications" [level=4]
+    - text: No Response
+  - heading "Skills" [level=4]
+  - group "Resume/CV":
+    - heading "Resume/CV" [level=4]
+    - paragraph:
+      - generic: synthetic-test-resume.txt
+      - generic: 344 B
+  - group "Social Network URLs":
+    - heading "Social Network URLs" [level=4]
+    - generic: Share your LinkedIn Profile site
+    - generic: No Response
+  - heading "Application Questions" [level=3]
+  - paragraph: Are you of legal age to work in the country in which this position will be based?*
+  - generic: "No"
+  - paragraph: Have you ever worked at Adobe in the following capacity:*
+  - list:
+    - listitem: I have not worked for Adobe in the past.
+  - paragraph: Are you willing to submit a background check during the hiring process?*
+  - generic: "No"
+  - paragraph: If you are offered employment by Adobe, can you provide documentation establishing your identity and right to work in the country where this position will be based?*
+  - generic: "No"
+  - paragraph: Are you able to work on a daily basis in the work location listed for this position? If not, are you willing to relocate at your own expense to accept a position with Adobe?*
+  - generic: "No"
+  - paragraph: Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status, spouse visa, etc)?*
+  - generic: "No"
+  - heading "Voluntary Disclosures" [level=3]
+  - group "Terms and Conditions":
+    - heading "Terms and Conditions" [level=4]
+    - generic: Check this box to confirm the statement above.
+    - generic: "Yes"
+  - button "Back"
+  - button "Submit"
+- heading "Follow Us" [level=4]
+- list:
+  - link "YouTube":
+    - /url: http://www.youtube.com/adobecareers
+  - link "X":
+    - /url: https://twitter.com/AdobeCareers
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/adobe
+- generic: © 2026 Workday, Inc. All rights reserved.

@@ -1,0 +1,96 @@
+Browser tab: 3, Title: "Sr. Technical Account Manager", URL: "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually".
+1 AXWebArea Sr. Technical Account Manager, URL: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Mexico-City/Sr-Technical-Account-Manager_R171924/apply/applyManually
+		4 container
+			17 link Description:  careers home, Value: careers.adobe.com/
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Sr. Technical Account Manager, Value: 2
+				22 text Sr. Technical Account Manager
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text completed step 1 of 5 My Information
+					27 container
+						28 text completed step 2 of 5 My Experience
+					29 container
+						30 text current step 3 of 5 Application Questions
+					31 container
+						32 text step 4 of 5 Voluntary Disclosures
+					33 container
+						34 text step 5 of 5 Review
+			35 heading Application Questions, Value: 3
+				36 text Application Questions
+			37 container
+				38 text * Indicates a required field
+			210 container
+				211 container Are you of legal age to work in the country in which this position will be based?*
+					212 container
+						213 text Are you of legal age to work in the country in which this position will be based?
+						214 container required
+							215 text *
+					216 pop up button Description:  Select One Required, ID: primaryQuestionnaire--305a1163be7301083ded7092b201bf8a
+				217 container Have you ever worked at Adobe in the following capacity:*
+					218 container
+						219 text Have you ever worked at Adobe in the following capacity:
+						220 container required
+							221 text *
+					222 table grid
+						223 row
+							224 cell
+								225 container
+									226 checkbox (settable, integer) Description: Employee, Value: 0, ID: 9821e4ba31f01013ec650c198d050c32-305a1163be7301dceb027192b201c28a
+							227 cell
+								228 container
+									229 checkbox (settable, integer) Description: Intern, Value: 0, ID: 9821e4ba31f01013ec650c2176e20c33-305a1163be7301dceb027192b201c28a
+							230 cell
+								231 container
+									232 checkbox (settable, integer) Description: Temporary Agency or Vendor, Value: 0, ID: 9821e4ba31f01013ec650c294a450c34-305a1163be7301dceb027192b201c28a
+							233 cell
+								234 container
+									235 checkbox (settable, integer) Description: Other, Value: 0, ID: 9821e4ba31f01013ec650c2f74340c35-305a1163be7301dceb027192b201c28a
+							236 cell
+								237 container
+									238 checkbox (settable, integer) Description: I have not worked for Adobe in the past., Value: 0, ID: 9821e4ba31f01013ec650c35a7ed0c36-305a1163be7301dceb027192b201c28a
+				239 container Are you willing to submit a background check during the hiring process?*
+					240 container
+						241 text Are you willing to submit a background check during the hiring process?
+						242 container required
+							243 text *
+					244 pop up button Description:  Select One Required, ID: primaryQuestionnaire--305a1163be7301b985577192b201c88a
+				245 container If you are offered employment by Adobe, can you provide documentation establishing your identity and right to work in the country where this position will be based?*
+					246 container
+						247 text If you are offered employment by Adobe, can you provide documentation establishing your identity and right to work in the country where this position will be based?
+						248 container required
+							249 text *
+					250 pop up button Description:  Select One Required, ID: primaryQuestionnaire--305a1163be7301c9e1697192b201cb8a
+				251 container Are you able to work on a daily basis in the work location listed for this position? If not, are you willing to relocate at your own expense to accept a position with Adobe?*
+					252 container
+						253 text Are you able to work on a daily basis in the work location listed for this position?  If not, are you willing to relocate at your own expense to accept a position with Adobe?
+						254 container required
+							255 text *
+					256 pop up button Description:  Select One Required, ID: primaryQuestionnaire--305a1163be73017aae7b7192b201ce8a
+				257 container Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status, spouse visa, etc)?*
+					258 container
+						259 text Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status, spouse visa, etc)?
+						260 container required
+							261 text *
+					262 pop up button Description:  Select One Required, ID: primaryQuestionnaire--305a1163be7301787b8d7192b201d18a
+			209 button Back
+			129 button Next
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: YouTube, Value: youtube.com/adobecareers
+			13 link Description: X, Value: twitter.com/AdobeCareers
+			14 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Adobe-EI_IE1090.11,16.htm
+			15 link Description: LinkedIn, Value: linkedin.com/company/adobe
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 35 heading Application Questions, Value: 3

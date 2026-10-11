@@ -1,0 +1,29 @@
+- img "Greenhouse logo"
+- emphasis: Apply
+- text: for
+- text: what’s next.
+- generic: Search smarter, apply faster and take control of your job search with MyGreenhouse.
+- textbox "Email" [active]
+- button "Send security code"
+- group "Sign in with a social account":
+  - generic: Or continue with
+  - button "Continue with Google"
+  - button "Continue with Apple"
+  - button "Continue with LinkedIn"
+- paragraph:
+  - text: By continuing, you agree to the
+  - link "Greenhouse Privacy Policy":
+    - /url: https://www.greenhouse.com/privacy-policy
+  - text: and
+  - link "MyGreenhouse User Agreement":
+    - /url: https://my.greenhouse.io/users/agreement
+  - text: .
+- paragraph:
+  - text: Looking for your organization's Greenhouse account?
+  - link "Sign in":
+    - /url: https://app.greenhouse.io/users/sign_in
+- generic: This site uses cookies
+- text: By continuing to use this site, you are agreeing to our use of cookies.
+- link "See Privacy Policy":
+  - /url: https://www.greenhouse.io/privacy-policy
+- button "Ok"

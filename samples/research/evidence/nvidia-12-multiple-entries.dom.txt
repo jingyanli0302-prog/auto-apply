@@ -1,0 +1,189 @@
+- link "Skip to main content":
+  - /url: ""
+- banner:
+  - link "careers home":
+    - /url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    - img "careers home"
+  - heading "CAREERS AT NVIDIA" [level=1]
+  - button "Settings":
+    - generic: Settings
+  - button "[USER-OPERATED-TEST-ACCOUNT]":
+    - generic: [USER-OPERATED-TEST-ACCOUNT]
+  - navigation:
+    - button "Home"
+    - button "Search for Jobs"
+    - button "Candidate Home"
+- main:
+  - link "Back to Job Posting":
+    - generic: Back to Job Posting
+  - heading "Senior Systems Software Engineer - GPU Performance at Scale" [level=2]
+  - generic "Application Progress":
+    - list:
+      - generic: completed step 1 of 5
+      - generic: My Information
+      - generic: current step 2 of 5
+      - generic: My Experience
+      - generic: step 3 of 5
+      - generic: Application Questions
+      - generic: step 4 of 5
+      - generic: Voluntary Disclosures
+      - generic: step 5 of 5
+      - generic: Review
+  - heading "My Experience" [level=3]
+  - generic: "* Indicates a required field"
+  - group "Work Experience":
+    - heading "Work Experience" [level=4]
+    - group "Work Experience 1":
+      - heading "Work Experience 1" [level=5]
+      - button "Delete": Delete
+      - generic: Job Title*
+      - textbox "Job Title"
+      - generic: Company*
+      - textbox "Company"
+      - generic: Location
+      - textbox "Location"
+      - generic: I currently work here
+      - checkbox "I currently work here"
+      - group "From":
+        - generic: From*
+        - generic: current value is MM/YYYY
+        - generic: MM
+        - spinbutton "Month"
+        - generic: /
+        - generic: YYYY
+        - spinbutton "Year"
+        - button "Calendar"
+      - group "To":
+        - generic: To*
+        - generic: current value is MM/YYYY
+        - generic: MM
+        - spinbutton "Month"
+        - generic: /
+        - generic: YYYY
+        - spinbutton "Year"
+        - button "Calendar"
+      - generic: Role Description
+      - textbox "Role Description"
+    - group "Work Experience 2":
+      - heading "Work Experience 2" [level=5]
+      - button "Delete": Delete
+      - generic: Job Title*
+      - textbox "Job Title"
+      - generic: Company*
+      - textbox "Company"
+      - generic: Location
+      - textbox "Location"
+      - generic: I currently work here
+      - checkbox "I currently work here"
+      - group "From":
+        - generic: From*
+        - generic: current value is MM/YYYY
+        - generic: MM
+        - spinbutton "Month"
+        - generic: /
+        - generic: YYYY
+        - spinbutton "Year"
+        - button "Calendar"
+      - group "To":
+        - generic: To*
+        - generic: current value is MM/YYYY
+        - generic: MM
+        - spinbutton "Month"
+        - generic: /
+        - generic: YYYY
+        - spinbutton "Year"
+        - button "Calendar"
+      - generic: Role Description
+      - textbox "Role Description"
+    - button "Add Another"
+  - group "Education":
+    - heading "Education" [level=4]
+    - group "Education 1":
+      - heading "Education 1" [level=5]
+      - button "Delete": Delete
+      - generic: School or University*
+      - textbox "School or University"
+      - generic: Degree*
+      - button "Degree Select One Required": Select One
+      - generic: Field of Study
+      - textbox "Field of Study":
+        - /placeholder: Search
+      - generic: 0 items selected
+      - button "The field will alphabetically return the first 100 results and can also return specified matches."
+      - generic: Overall Result (GPA)
+      - textbox "Overall Result (GPA)"
+      - group "From":
+        - generic: From
+        - generic: current value is YYYY
+        - generic: YYYY
+        - spinbutton "Year"
+      - group "To (Actual or Expected)":
+        - generic: To (Actual or Expected)
+        - generic: current value is YYYY
+        - generic: YYYY
+        - spinbutton "Year"
+    - group "Education 2":
+      - heading "Education 2" [level=5]
+      - button "Delete": Delete
+      - generic: School or University*
+      - textbox "School or University" [active]
+      - generic: Degree*
+      - button "Degree Select One Required": Select One
+      - generic: Field of Study
+      - textbox "Field of Study":
+        - /placeholder: Search
+      - generic: 0 items selected
+      - button "The field will alphabetically return the first 100 results and can also return specified matches."
+      - generic: Overall Result (GPA)
+      - textbox "Overall Result (GPA)"
+      - group "From":
+        - generic: From
+        - generic: current value is YYYY
+        - generic: YYYY
+        - spinbutton "Year"
+      - group "To (Actual or Expected)":
+        - generic: To (Actual or Expected)
+        - generic: current value is YYYY
+        - generic: YYYY
+        - spinbutton "Year"
+    - button "Add Another"
+  - group "Skills":
+    - heading "Skills" [level=4]
+    - generic: Type to Add Skills
+    - textbox "Type to Add Skills":
+      - /placeholder: Search
+    - generic: 0 items selected
+  - group "Resume/CV":
+    - heading "Resume/CV" [level=4]
+    - paragraph:
+      - generic: Upload a file (5MB max)
+      - generic "Upload a file (5MB max)":
+        - generic: Drop files here
+        - generic: or
+        - button "Select files":
+          - generic: Select files
+  - group "Websites":
+    - heading "Websites" [level=4]
+    - generic: Add any relevant websites.
+    - button "Add"
+  - group "Social Network URLs":
+    - heading "Social Network URLs" [level=4]
+    - generic: "Please provide a link to your LinkedIn profile:"
+    - textbox "Please provide a link to your LinkedIn profile:"
+  - button "Back"
+  - button "Save and Continue"
+- heading "Follow Us" [level=4]
+- list:
+  - link "X":
+    - /url: https://twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - link "Facebook":
+    - /url: https://www.facebook.com/NVIDIA
+  - link "Glassdoor":
+    - /url: https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/nvidia
+  - link "YouTube":
+    - /url: https://www.youtube.com/nvidia
+- link "Applicant Privacy Policy":
+  - /url: https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/
+- generic: © 2026 Workday, Inc. All rights reserved.

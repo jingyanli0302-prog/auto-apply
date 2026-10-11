@@ -1,0 +1,118 @@
+Browser tab: 5, Title: "Software Engineer, Developer Platform @ Notion", URL: "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a".
+0 AXWebArea Software Engineer, Developer Platform @ Notion, URL: jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a
+	1 container root
+		2 content list
+			3 link Description: Notion, Value: notion.com/
+			4 link Description: Back to Notion’s Job Listings, Value: jobs.ashbyhq.com/notion
+		5 heading Software Engineer, Developer Platform, Value: 1
+			6 text Software Engineer, Developer Platform
+		7 heading Location, Value: 2
+			8 text Location
+		9 text San Francisco, California; New York, New York
+		10 heading Employment Type, Value: 2
+			11 text Employment Type
+		12 text Full time
+		13 heading Location Type, Value: 2
+			14 text Location Type
+		15 text Hybrid
+		16 heading Department, Value: 2
+			17 text Department
+		18 text Engineering
+		19 tab group
+			20 tab (selected, settable, boolean) Overview, Value: 1, ID: job-overview
+			21 tab (selectable, settable, boolean) Application, Value: 0, ID: job-application-form
+		160 container Description: Overview, ID: overview
+			161 heading Who We Are, Value: 1
+				162 text Who We Are
+			163 text Notion is the collaborative AI workspace where teams and agents 
+			164 link Description: think together, Value: youtube.com/watch?v=vkpYpWfEK5s
+			165 text . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.
+			166 text Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.
+			167 heading About the Role:, Value: 1
+				168 text About the Role:
+			169 text As a 
+			170 link Description: Developer Platform, Value: notion.com/product/dev
+			171 text  engineer, you will directly contribute to the foundational pieces that make Notion extensible and connected. You will build tools, APIs, and platform experiences that help customers connect Notion to the world — bringing their apps, data, and workflows into one workspace. Your work will make it easier for developers, admins, and builders to create reliable integrations and automations on top of Notion.
+			172 text You will be a key player in building the robust technical foundation that allows Notion to achieve the connected workspace vision. Your work will include both internal platform contributions that accelerate other Notion engineering teams and end-user-facing functionality that enables toolmaking ubiquity. You will be presented with challenging technical problems, as Notion’s product needs are complex. You’ll play a key role in identifying and executing against technical investments that ensure the long-term quality, reliability, and performance of Notion’s platform as we scale.
+			173 text This role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We’re looking for someone who’s excited to work alongside the team during those days.
+			174 heading What You'll Achieve:, Value: 1
+				175 text What You'll Achieve:
+			176 content list
+				177 container
+					178 AXListMarker • 
+					179 text You’ll work with a team of engineers and cross-functional partners across product, design, data science, and user research to define a product strategy and drive execution through conception, research, implementation, and maintenance.
+				180 container
+					181 AXListMarker • 
+					182 text You’ll evolve Developer Platform capabilities across APIs, MCP tools, and integration infrastructure that help customers automate workflows, customize Notion, and connect Notion to the tools and data they use every day.
+				183 container
+					184 AXListMarker • 
+					185 text You’ll contribute to the overall performance, reliability, and robustness of the Notion product, ensuring it scales elegantly across many dimensions.
+				186 container
+					187 AXListMarker • 
+					188 text You’ll partner with engineering leaders to identify and execute against high-leverage technical investments that ensure the long-term flexibility and sustainability of our core systems.
+			189 heading Skills You'll Need to Bring:, Value: 1
+				190 text Skills You'll Need to Bring:
+			191 content list
+				192 container
+					193 AXListMarker • 
+					194 text 7+ years of experience shipping production software, with a strong track record of owning features end-to-end
+				195 container
+					196 AXListMarker • 
+					197 text Fluency with TypeScript across both backend and frontend
+				198 container
+					199 AXListMarker • 
+					200 text Strong product instincts: you can take a vague problem, propose a solid technical approach, and know when to cut scope
+				201 container
+					202 AXListMarker • 
+					203 text You don’t need to be an AI expert, but you’re curious and willing to adopt AI tools to work smarter and deliver better results
+			204 heading Nice to Haves:, Value: 1
+				205 text Nice to Haves:
+			206 content list
+				207 container
+					208 AXListMarker • 
+					209 text Experience building developer tools like APIs and SDKs
+				210 container
+					211 AXListMarker • 
+					212 text Experience driving teams toward shared goals and balancing business priorities with individuals’ strengths, areas of interest, and career development goals
+				213 container
+					214 AXListMarker • 
+					215 text Familiarity with AI/agent tooling, evals, or LLM-driven product experiences
+			216 text Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is $213,000 - $320,000 per year.
+			217 text By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s 
+			218 link Description: Global Recruiting Privacy Policy, Value: notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550?pvs=74
+			219 text  and 
+			220 link Description: NYLL 144, Value: notion.notion.site/Ashby-AI-Bias-Audit-2b0efdeead05803bbbfae159ec86c528
+			221 text .
+			222 text #LI-Onsite
+			223 heading A Note on AI, Value: 1
+				224 text A Note on AI
+			225 text You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.
+			226 heading Equal Opportunity & Accommodations, Value: 1
+				227 text Equal Opportunity & Accommodations
+			228 text We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.
+			229 text Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+			232 AXWebArea Think Together, URL: embedded-media.ashbyhq.com/embed/0ac11447-a862-468b-95a0-40198c971382/5a7e80f3-d875-4693-938a-33455a593625
+				233 AXWebArea Think Together - YouTube, URL: youtube.com/embed/vkpYpWfEK5s?rel=0
+					234 container
+						235 container Description: YouTube Video Player, ID: movie_player
+						236 container
+							237 button Play video
+							238 button Description: Hide player controls, ID: player-controls-a11y-toggle
+							239 container player-control-overlay
+								240 container
+									241 link Description: Think Together, Value: youtube.com/watch?v=vkpYpWfEK5s
+									242 link Description: Notion, Value: youtube.com/channel/UCoSvlWS5XcwaSzIcbuJ-Ysg
+									243 button
+									244 container
+										245 text Notion 350K subscribers
+								246 container
+									247 button Share
+									248 link Description: Watch on YouTube, Value: youtube.com/watch?v=vkpYpWfEK5s
+			231 link Description: Apply for this Job, Value: jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a/application
+		155 container
+			156 link Description: Learn more about Ashby, Value: ashbyhq.com/
+			157 link Description: Privacy Policy, Value: ashbyhq.com/privacy
+			158 link Description: Security, Value: ashbyhq.com/security
+			159 link Description: Vulnerability Disclosure, Value: ashbyhq.com/disclosure
+
+The focused UI element is 20 tab (selected, settable, boolean) Overview, Value: 1, ID: job-overview

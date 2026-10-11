@@ -1,0 +1,83 @@
+Browser tab: 4, Title: "Create Account", URL: "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually".
+1 AXWebArea Create Account, URL: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+	2 container root
+		3 link Description: Skip to main content, ID: accessibilitySkipToMainContent, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592/apply/applyManually
+		4 container
+			17 link Description:  search for jobs, Value: salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site
+			5 heading 1
+			6 pop up button (collapsed) English, ID: languageSelectorButton, Secondary Actions: Expand
+			7 button Sign In
+			8 button Search for Jobs
+		18 container
+			19 link Back to Job Posting
+				20 text Back to Job Posting
+			21 heading Software Engineering MTS, Value: 2
+				22 text Software Engineering MTS
+			23 container Application Progress
+				24 content list
+					25 container
+						26 text current step 1 of 6 Create Account/Sign In
+					27 container
+						28 text step 2 of 6 My Information
+					29 container
+						30 text step 3 of 6 My Experience
+					31 container
+						32 text step 4 of 6 Application Questions
+					33 container
+						34 text step 5 of 6 Voluntary Disclosures
+					35 container
+						36 text step 6 of 6 Review
+			37 container
+				38 heading Create Account, Value: 3, ID: authViewTitle
+					39 text Create Account
+				40 container
+					41 text Password Requirements:
+					42 content list
+						43 container
+							44 AXListMarker • 
+							45 text An alphabetic character
+						46 container
+							47 AXListMarker • 
+							48 text A special character
+						49 container
+							50 AXListMarker • 
+							51 text A lowercase character
+						52 container
+							53 AXListMarker • 
+							54 text An uppercase character
+						55 container
+							56 AXListMarker • 
+							57 text A minimum of 8 characters
+						58 container
+							59 AXListMarker • 
+							60 text A numeric character
+				61 container
+					62 text Email Address
+					63 text field (settable) Email Address
+					64 text Password
+					65 text field (settable) Password
+					66 text Verify New Password
+					67 text field (settable) Verify New Password
+					68 container
+						69 text By activating your account in Workday, you acknowledge and agree that you have read and understand Salesforce's 
+						70 link Description: Candidate Privacy Notice, Value: c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Privacy/salesforce-candidate-privacy-statement.pdf
+						71 text , including the information provided on how Salesforce processes your personal data and your related rights as set forth therein. 
+					72 container
+						73 checkbox (settable, integer) Description: I acknowledge and agree to Salesforce's Candidate Privacy Notice, Value: 0, ID: input-9
+					74 button Create Account
+				75 text Already have an account?
+				76 button Sign In
+				77 button Forgot your password?
+				78 container
+					79 text Enter website. This input is for robots only, do not enter if you're human.
+					80 text field (settable) Enter website. This input is for robots only, do not enter if you're human., ID: 9bcd0c33-3be2-410e-b5ac-c5b520d30b85
+		9 heading Follow Us, Value: 4
+			10 text Follow Us
+		11 content list
+			12 link Description: Glassdoor, Value: glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+			13 link Description: Facebook, Value: facebook.com/salesforce
+			14 link Description: X, Value: twitter.com/salesforcejobs
+			15 link Description: LinkedIn, Value: linkedin.com/company/salesforce
+		16 text © 2026 Workday, Inc. All rights reserved.
+
+The focused UI element is 38 heading Create Account, Value: 3, ID: authViewTitle

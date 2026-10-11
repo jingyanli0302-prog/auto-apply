@@ -1,0 +1,194 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#main-content"
+  - link "Careers at Airbnb Careers":
+    - /url: https://careers.airbnb.com/
+    - img "Careers at Airbnb"
+    - text: Careers
+  - navigation:
+    - list:
+      - link "Life at Airbnb":
+        - /url: https://careers.airbnb.com/life-at-airbnb/
+      - link "Job Search":
+        - /url: /positions
+- heading "Account Manager" [level=1]
+- generic: London, United Kingdom
+- tablist "Job information":
+  - tab "Role overview"
+  - tab "Application" [selected]
+- tabpanel "Application":
+  - iframe [active] [id="grnhse_iframe"]:
+    - main:
+      - img "Airbnb Logo"
+      - paragraph: Create a Job Alert
+      - paragraph: Interested in building your career at Airbnb? Get future opportunities sent straight to your email.
+      - link "Create alert":
+        - /url: https://my.greenhouse.io/users/sign_in?job_board=airbnb&source=job_alert_post
+      - separator
+      - heading "Apply for this job" [level=2]
+      - paragraph: "*"
+      - paragraph: indicates a required field
+      - button "Autofill my application"
+      - generic: First Name*
+      - textbox "First Name"
+      - generic: Last Name*
+      - textbox "Last Name"
+      - generic: Email*
+      - textbox "Email"
+      - group "Phone":
+        - generic: Phone
+        - generic: Country*
+        - log
+        - combobox "Country"
+        - button "Toggle flyout":
+        - textbox
+        - generic: Phone*
+        - textbox "Phone"
+      - generic: Location (City)
+      - log
+      - combobox "Location (City)"
+      - button "Locate me"
+      - group "Resume/CV*":
+        - generic: Resume/CV*
+        - button "Attach"
+        - generic: Attach
+        - button "Attach"
+        - button "Enter manually"
+        - generic: Enter manually
+        - paragraph: "Accepted file types: pdf, doc, docx, txt, rtf"
+      - group "Cover Letter*":
+        - generic: Cover Letter*
+        - button "Attach"
+        - generic: Attach
+        - button "Attach"
+        - button "Enter manually"
+        - generic: Enter manually
+        - paragraph: "Accepted file types: pdf, doc, docx, txt, rtf"
+      - separator
+      - generic: LinkedIn Profile
+      - textbox "LinkedIn Profile"
+      - generic: How did you hear about this job?*
+      - textbox "How did you hear about this job?"
+      - 'group "Before submitting your application please review the points below: *"':
+        - generic: "Before submitting your application please review the points below: *"
+        - checkbox "I acknowledge receipt of the Airbnb Candidate Data Privacy Notice"
+        - generic: I acknowledge receipt of the Airbnb Candidate Data Privacy Notice
+      - list:
+        - text: Please click
+        - link "here":
+          - /url: https://careers.airbnb.com/candidate-privacy/emea-candidate-privacy/
+        - text: to read the Airbnb Candidate Data Privacy Notice.
+        - listitem: This Privacy Notice is not a contract, express or implied and it does not set terms or conditions of employment.
+      - generic: Gender*
+      - log: 4 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+      - generic: Select...
+      - combobox "Gender" [expanded] [active]
+      - button "Toggle flyout":
+      - listbox:
+        - option "Male"
+        - option "Female"
+        - option "Other"
+        - option "Decline to Self Identify"
+      - textbox
+      - paragraph: Airbnb is committed to creating a diverse workplace. In order to measure our efforts in this regard, we invite applicants to self-identify as to their gender. Answering to this question is entirely voluntary and declining to provide this information will not subject you to adverse treatment or retaliation. The response that you do provide will be maintained confidential and will not be shared with hiring managers. In turn, Airbnb will anonymize the information related to your gender, so that once it is collected it will not be possible to relate it, directly or indirectly, to you.
+      - paragraph: All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. You are being given the opportunity to provide such information in order to help us measure our own diversity and inclusion efforts and to comply with our internal equal employment opportunity standards.
+      - paragraph: All of your personal information, including your gender should you choose to provide it, will be collected, stored and processed in accordance with the Airbnb Privacy Notice.
+      - generic: Are you legally authorized to work in the country where the job is located? *
+      - log
+      - generic: Select...
+      - combobox "Are you legally authorized to work in the country where the job is located?"
+      - button "Toggle flyout":
+      - textbox
+      - generic: Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?*
+      - log
+      - generic: Select...
+      - combobox "Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?"
+      - button "Toggle flyout":
+      - textbox
+      - generic: Are you currently subject to any non-compete or non-solicitation agreement that would impact your ability to work at Airbnb or prevent you from accepting a job offer from Airbnb? *
+      - log
+      - generic: Select...
+      - combobox "Are you currently subject to any non-compete or non-solicitation agreement that would impact your ability to work at Airbnb or prevent you from accepting a job offer from Airbnb?"
+      - button "Toggle flyout":
+      - textbox
+      - generic: Are you currently or have you ever worked for Airbnb in any capacity? This could include, but is not limited to, a full-time employee, intern, apprentice, or contingent worker.*
+      - log
+      - generic: Select...
+      - combobox "Are you currently or have you ever worked for Airbnb in any capacity? This could include, but is not limited to, a full-time employee, intern, apprentice, or contingent worker."
+      - button "Toggle flyout":
+      - textbox
+      - generic: Candidate AI Usage Attestation:*
+      - log
+      - generic: Select...
+      - combobox "Candidate AI Usage Attestation:"
+      - button "Toggle flyout":
+      - textbox
+      - paragraph:
+        - emphasis: By submitting this application, I agree and understand that the use of generative artificial intelligence (“AI”) tools, for example, ChatGPT, Gemini, and GitHub Copilot (“AI Tools”) is strictly prohibited during the interview process, unless Airbnb explicitly permits their use. I further attest that all materials I submit during the interview process including, but not limited to, responses to written or verbal interview questions, written prompts, take-home assignments, and assessments, represent my own original work and were completed without the use of AI Tools, external individuals, or other unauthorized assistance, unless expressly permitted by Airbnb.
+      - paragraph:
+        - emphasis: I also understand that I am prohibited from entering into AI Tools (including transcription tools) any confidential or non-public information of Airbnb that is obtained during the interview process. I understand that failure to comply with this Candidate AI Usage Attestation may result in disqualification from the hiring process or withdrawal of an offer.
+      - button "Submit application"
+    - iframe [name="a-c5gtob9tnbxu"]:
+      - text: protected by
+      - strong: reCAPTCHA
+- contentinfo:
+  - paragraph: "Airbnb, Inc. can hire employees in states where we have registered entities. Currently, employees cannot be located/live in: Alaska, Mississippi, and North Dakota. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list."
+  - paragraph: Reasonable Accommodation — Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected characteristic. We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+  - list:
+    - link "Airbnb":
+      - /url: https://airbnb.com/
+      - generic: Airbnb
+    - list:
+      - link "Life at Airbnb":
+        - /url: https://careers.airbnb.com/life-at-airbnb/
+      - link "FAQ":
+        - /url: https://careers.airbnb.com/faq/
+      - link "Candidate Privacy":
+        - /url: https://careers.airbnb.com/candidate-privacy/
+    - generic: Careers
+    - list:
+      - link "Job Search":
+        - /url: https://careers.airbnb.com/positions
+      - link "Connect Engineering Apprenticeship":
+        - /url: https://careers.airbnb.com/connect-engineering-apprenticeship/
+      - link "Internship Programs":
+        - /url: https://careers.airbnb.com/internship-programs/
+    - generic: Machine Readable Files
+    - list:
+      - link "HMSA":
+        - /url: https://www.hmsa.com/help-center/transparency-in-coverage-machine-readable-files/
+      - link "Kaiser Permanente":
+        - /url: https://healthy.kaiserpermanente.org/northern-california/pages/technical-information#machine-readable-files
+      - link "Anthem":
+        - /url: https://www.anthem.com/ca/machine-readable-file/search/
+  - text: © Airbnb, Inc
+  - list:
+    - text: •
+    - link "Terms":
+      - /url: https://www.airbnb.com/terms
+    - text: •
+    - link "Privacy":
+      - /url: https://www.airbnb.com/terms/privacy_policy
+    - text: •
+    - link "Sitemap":
+      - /url: https://www.airbnb.com/sitemaps/v2
+  - link "• Cookie Preferences":
+    - /url: "#"
+    - text: •
+    - generic: Cookie Preferences
+  - link "• Your Privacy Choices":
+    - /url: "#"
+    - text: •
+    - generic: Your Privacy Choices
+  - button "English"
+  - link "linkedin":
+    - /url: https://www.linkedin.com/company/airbnb
+    - img "linkedin"
+  - link "twitter":
+    - /url: https://twitter.com/airbnb
+    - img "twitter"
+  - link "instagram":
+    - /url: https://instagram.com/airbnb
+    - img "instagram"
+- status
+- status
