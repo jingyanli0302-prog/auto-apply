@@ -11,6 +11,10 @@ resumes/*.pdf
 data/applied.csv
 data/queue.csv
 data/learnings.json
+data/tasks.json
+data/tasks.json.*.tmp
+data/session.lock
+data/evidence/
 
 # Generated files
 forms/*

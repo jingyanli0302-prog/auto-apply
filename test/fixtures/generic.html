@@ -1,0 +1,6 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Generic reconstruction</title></head><body><h1>Application</h1><form onsubmit="return false">
+<label>First Name<input required></label><label>Email<input type="email" required></label><label>Start date<input type="date"></label>
+<label>Resume<input type="file"></label><label>Cover Letter<input type="file"></label>
+<label>Show additional question<input type="checkbox" onchange="document.getElementById('dynamic').hidden=!this.checked"></label>
+<label id="dynamic" hidden>Custom question<textarea></textarea></label><label>Enter website. This input is for robots only, do not enter if you're human.<input></label>
+<button type="button" onclick="window.submits++;if(window.outcome==='success')document.body.innerHTML='<h1>Application received</h1>';if(window.outcome==='network')fetch('/offline')">Submit application</button></form><script>window.submits=0;window.outcome='unknown'</script></body></html>

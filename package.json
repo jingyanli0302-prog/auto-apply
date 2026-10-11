@@ -1,7 +1,7 @@
 {
   "name": "job-auto-apply",
   "version": "1.2.0",
-  "description": "Autonomous job application engine — Playwright-based form filler with self-learning, OTP handling, and multi-ATS support",
+  "description": "Recoverable Playwright applications with mandatory human Review and explicit submission approval",
   "type": "module",
   "bin": {
     "auto-apply": "./cli.mjs"
@@ -9,6 +9,8 @@
   "files": [
     "cli.mjs",
     "lib/",
+    "docs/",
+    "samples/research/sample-manifest.json",
     "config/profile.example.yml",
     "config/resumes.example.yml",
     "targets.example.txt",
@@ -19,6 +21,10 @@
     "LICENSE"
   ],
   "scripts": {
+    "test": "node --test",
+    "test:unit": "node --test test/unit.test.mjs",
+    "test:dom": "node --test test/dom.test.mjs",
+    "check": "node scripts/check.mjs",
     "setup": "node cli.mjs setup",
     "scan": "node cli.mjs scan",
     "fill": "node cli.mjs fill",

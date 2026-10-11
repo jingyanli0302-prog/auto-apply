@@ -1,0 +1,12 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Ashby reconstruction</title></head><body><h1>Application</h1>
+<label>Autofill from resume<input type="file" id="parse" onchange="parseResume()"></label><div id="progress"></div>
+<label>Full Name<input id="name" required></label><label>Email<input type="email" id="email" required></label><label>Phone<input id="phone" type="tel"></label>
+<div class="field"><label>Will you require sponsorship?*</label><input type="hidden" name="sponsor"><button type="button" aria-pressed="false" onclick="choose(this)">Yes</button><button type="button" aria-pressed="false" onclick="choose(this)">No</button></div>
+<label>Pick date...<input id="date" type="text" onclick="document.getElementById('calendar').hidden=false"></label><div id="calendar" hidden role="dialog">November 2026<button type="button" onclick="document.getElementById('date').value='11/15/2026';this.parentElement.hidden=true">15</button></div>
+<label>Location<input id="location" role="combobox" oninput="suggest()" aria-controls="locations"></label><ul role="listbox" id="locations" hidden></ul>
+<button type="button" onclick="window.submits++">Submit Application</button><script>
+window.submits=0;
+function choose(button){for(const peer of button.parentElement.querySelectorAll('button'))peer.setAttribute('aria-pressed',String(peer===button));button.parentElement.querySelector('input').value=button.textContent}
+function parseResume(){progress.textContent='Parsing your resume. Autofilling key fields...';setTimeout(()=>{document.getElementById('name').value='Synthetic Test';email.value='synthetic@example.org';progress.textContent=''},150)}
+function suggest(){locations.hidden=false;locations.innerHTML='';for(const name of ['Fremont, CA, United States','Fremont, NE, United States']){const li=document.createElement('li');li.setAttribute('role','option');li.textContent=name;li.onclick=()=>{document.getElementById('location').value=name;locations.hidden=true};locations.append(li)}}
+</script></body></html>

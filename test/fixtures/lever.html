@@ -1,0 +1,8 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Lever reconstruction</title></head><body><h1>Application</h1>
+<form id="application" onsubmit="event.preventDefault();window.submits++">
+<div class="application-question"><div class="application-label">Full name✱</div><input name="name" required></div>
+<label>Email<input type="email" required></label><label>Resume/CV<input id="resume" type="file" onchange="progress.textContent='Analyzing resume...';setTimeout(()=>progress.textContent='Success!',100)"></label><div id="progress"></div>
+<label>Pronouns<select onchange="custom.hidden=this.value!=='Custom'"><option value="">Select...</option><option>Custom</option><option>They/them</option></select></label><label id="custom" hidden>Custom pronouns<input></label>
+<label>University<select><option value="">Select...</option><option>Tsinghua University</option><option>Cornell University - Cornell Tech</option><option>Cornell University - Ithaca</option></select></label>
+<label>Export Control and Compliance<textarea></textarea></label>
+<button type="submit">Submit application</button></form><div id="challenge" hidden><iframe title="hCaptcha challenge" src="/captcha"></iframe></div><script>window.submits=0</script></body></html>

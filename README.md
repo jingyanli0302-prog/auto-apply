@@ -1,375 +1,50 @@
 # auto-apply
 
-**Autonomous job application engine** — give it your resume, profile, and job URLs. It scans the form, maps every field, fills it, submits, handles OTP, and learns from mistakes.
+可恢复、必须人工 Review 并明确批准的申请工具。使用 Playwright 和本地 YAML，不调用 OpenAI API，不生成申请答案。
 
-Built on [Playwright](https://playwright.dev). Works with [Claude Code](https://claude.ai/code) as a `/auto-apply` skill.
-
-```
-node cli.mjs apply https://job-boards.greenhouse.io/company/jobs/123
-```
-
----
-
-## Supported Platforms
-
-| ATS | Scan | Fill | Submit | Notes |
-|-----|------|------|--------|-------|
-| **Greenhouse** | Yes | Yes | Yes | React Select, intl-tel-input, embedded forms |
-| **Ashby** | Yes | Yes | Yes | Yes/No buttons, typeahead, custom domains |
-| **Lever** | Yes | Yes | Yes | /apply/ navigation, ARIA dropdowns |
-| **Workday** | Yes | Yes | Yes | Login/account creation, multi-step wizard, conditional fields |
-| **Gem** | Yes | Yes | Yes | Direct application pages |
-| **iCIMS** | Yes | Yes | Partial | Detection only |
-| **SmartRecruiters** | Yes | Yes | Partial | Detection only |
-| **Generic** | Yes | Yes | Yes | Any site with Apply button + standard inputs |
-
----
-
-## How It Works
-
-```
-          ┌──────────┐
-  URL ──> │  Scanner  │──> scan.json (all fields, types, options)
-          └────┬─────┘
-               │
-          ┌────▼─────┐
-          │  Planner  │──> plan.json (field → profile value mapping)
-          └────┬─────┘
-               │         ┌──────────────┐
-          ┌────▼─────┐   │   Learner    │
-          │  Engine   │◄──┤ (corrections │
-          └────┬─────┘   │  from past)  │
-               │         └──────────────┘
-          ┌────▼─────┐
-          │  Verify   │──> Re-check every field in DOM
-          └────┬─────┘
-               │
-          ┌────▼─────┐   ┌─────────┐
-          │  Submit   │──>│   OTP   │──> Gmail IMAP fetch
-          └────┬─────┘   └─────────┘
-               │
-          ┌────▼─────┐
-          │ Reporter  │──> CSV log + screenshots
-          └──────────┘
-```
-
-**Pipeline per URL:** Detect ATS → Scan form fields → Load profile → Pick best resume → Generate fill plan → Apply past learnings → Fill all fields → Verify every field → Retry empties → Submit → Handle OTP → Log result → Screenshot
-
----
-
-## Quick Start
-
-### Option A: npx (recommended)
-
-```bash
-mkdir my-job-search && cd my-job-search
-npx job-auto-apply setup
-# or install globally:
-npm i -g job-auto-apply
-```
-
-That's it. Edit `config/profile.yml`, add your resume to `resumes/`, and start applying.
-
-### Option B: Clone & Install
-
-```bash
-git clone https://github.com/devdattatalele/auto-apply.git
-cd auto-apply
+```sh
 npm install
 npx playwright install chromium
 node cli.mjs setup
+# 编辑 config/profile.yml，填写本人资料、附件和按题目原文配置的 answers
+node cli.mjs queue import-research
+node cli.mjs batch
 ```
 
-### 2. Create Your Profile
+一个 headed Chromium 会话、一个 context 管理每个任务的页面，自动操作串行执行。验证码、OTP、协议、认证或异常会保存任务及页面，切换下一个 queued 任务。终端进入交互命令循环；浏览器保持打开。用户操作暂停页后 `resume ID` 重新扫描，绝不回放旧 DOM 定位。
 
-`setup` copies `config/profile.example.yml` → `config/profile.yml`. Edit it with your details:
-
-```yaml
-personal:
-  first_name: "Jane"
-  last_name: "Doe"
-  email: "jane.doe@gmail.com"
-  phone: "5551234567"
-  linkedin: "https://linkedin.com/in/janedoe"
-  location: "San Francisco, California"
-  city: "San Francisco"
-  state: "California"
-  postal_code: "94105"
-  country: "United States +1"
-  country_phone_code: "United States of America (+1)"
-
-eeo:
-  gender: "Female"
-  hispanic_latino: "No"
-  race: "White"
-  veteran_status: "I am not a protected veteran"
-  disability_status: "I do not want to answer"
-
-work_auth:
-  authorized_us: "Yes"
-  sponsorship_needed: "No"
-
-education:
-  degree: "Bachelor of Science"
-  major: "Computer Science"
-  university: "Stanford University"
-  graduation_year: "2020"
-
-experience:
-  years: "5"
-  current_company: "Google"
-  current_title: "Software Engineer"
+```text
+list
+resume TASK_ID
+review TASK_ID
+approve TASK_ID CURRENT_REVIEW_FINGERPRINT
+submit TASK_ID
+check TASK_ID
+resolve TASK_ID not-submitted 已人工核查门户且该职位没有提交记录的具体依据
+quit
 ```
 
-### 3. Add Your Resume(s)
+`apply URL` / `fill URL` 填写到人工 Review；`batch [targets.txt]` 处理 queued 任务；`scan URL` 只扫描。`queue add URL [company]` 添加，`queue list` / `status` / `list` 查看。`resume ID`、`review ID`、`check ID` 也可从新进程启动。最终批准只能在当前交互会话给出；没有命令行跳过 Review 的开关。
 
-Place PDF files in `resumes/` and configure `config/resumes.yml`:
+Review 只显示缺失、推导、不确定、映射/校验失败或未经确认的页面资料；明确提供且实际填写验证成功的资料不重复列出。中间步骤可批准该步 Review 后继续，最终步骤批准才成为 ready-to-submit。协议必须由用户在浏览器内处理。批准绑定页面文字、字段/选项/值、frame、DOM 变更版本、配置答案及附件内容哈希；任何变化（包括改回原值）都会失效，必须重新 Review。最终点击前重新核验，严格只点唯一的最终 Submit。
 
-```yaml
-default: my-resume
+状态存于 `data/tasks.json`：queued、filling、needs-human、needs-review、ready-to-submit、submitting、submitted、uncertain、failed。每个任务有 UUID、状态历史、阻断/异常、新字段、映射失败、Review 和提交证据。截图在 `data/evidence/`。这些文件包含私人申请信息，已 gitignore。任务文件原子替换；会话锁禁止两个进程同时操作任务。
 
-resumes:
-  - id: my-resume
-    file: resumes/my-resume.pdf
-    label: "General"
-    keywords:
-      - software engineer
-      - backend
-      - python
+退出/重启后会重新打开职位原 URL，现场扫描核验；不会宣称恢复了服务端草稿或重放旧字段。原页面内存状态只在会话活着时保留；不持久保存 cookies/password。登录或草稿恢复不确定时交人工处理。重启清除全部 Review/批准；submitting 转 uncertain。旧 CSV 非 queued/pending 记录导入 uncertain，不沿用旧成功判断。
+
+没有错误、解析 Success、验证码消失或 URL 变化均不代表成功。只有同可信来源的新出现、明确针对申请的成功 heading，且该 document 表单消失，才记录 submitted；否则 uncertain。uncertain 不会继续填写或提交。用户先运行 `check ID`，再核查门户/邮件/实际结果；只有明确记录 `resolve ID not-submitted 具体人工核验依据` 才能解除阻断，之后 `resume ID` 重新扫描、Review 和批准。工具不推断“未提交”，也不自动重试。网络异常也不会重投。研究未观察正式成功页，当前确认规则是保守实现，须在受控真实场景继续验证。
+
+账户按精确租户 hostname 配置 `accounts`，邮箱/密码引用 `.env` 环境变量。已有账户明确 `existing: true` 才尝试 Sign In；新账户 `existing: false` 准备创建入口及用户提供的邮箱/密码，注册、协议、OTP 由用户完成。成功后将 existing 改为 true。不会因登录失败擅自新建账户，也不输出或保存密码。Adobe 访客路径不强迫登录；MyGreenhouse 可选认证不自动选择。
+
+国家别名 US/USA/United States/United States of America 只用于 Country。EEO 的限定拒答别名只用于对应披露题；电话国家代码不能借国家别名猜测。Yes/No、同意声明和长题目不做宽泛匹配。`work_auth`、government/export 等事实通过 `answers` 的精确题文 + `value_ref` 映射；支持按 URL/group/id 限定。重复组仅在可唯一识别的工作/教育/证书分区内增加，歧义、层级菜单、多选或新控件转人工 Review。未知必填观测不等同 optional。
+
+研究范围及人工回退见 [coverage.md](docs/coverage.md)。fixture 是依据研究证据重建的最小 DOM 行为模型，不能证明线上 12 个页面已经端到端通过。测试不会访问真实职位或投递。
+
+```sh
+npm run test:unit
+npm run test:dom
+npm test
+npm run check
 ```
 
-The engine picks the best resume variant by matching JD keywords.
-
-### 4. Set Up OTP (Optional)
-
-For sites that require email verification after submit:
-
-```bash
-cp .env.example .env
-```
-
-Edit `.env` with your Gmail App Password ([generate one here](https://myaccount.google.com/apppasswords)):
-
-```
-EMAIL=you@gmail.com
-APP_PASSWORD=xxxx xxxx xxxx xxxx
-```
-
-### 5. Apply
-
-```bash
-# Single application
-npx job-auto-apply apply https://job-boards.greenhouse.io/company/jobs/123
-
-# Or use the queue
-npx job-auto-apply queue add https://careers.adobe.com/job/R167447 Adobe
-npx job-auto-apply queue add https://jobs.lever.co/stripe/abc123 Stripe
-npx job-auto-apply batch
-```
-
-> If you cloned the repo, use `node cli.mjs` instead of `npx job-auto-apply`.
-
----
-
-## Commands
-
-```
-node cli.mjs setup                       Set up your profile
-node cli.mjs scan <url>                  Scan form fields → JSON
-node cli.mjs fill <url> [plan.json]      Fill form (auto-plan if no plan given)
-node cli.mjs apply <url>                 Full pipeline: scan → plan → fill → submit → OTP
-node cli.mjs batch [targets.txt]         Apply to all URLs in file (or process queue)
-node cli.mjs queue add <url> [company]   Add URL to application queue
-node cli.mjs queue list                  Show queue entries
-node cli.mjs queue remove <url>          Remove URL from queue
-node cli.mjs queue clear                 Clear completed/failed entries
-node cli.mjs status                      Show stats & learnings
-```
-
-### `scan` — Inspect a form
-
-```bash
-node cli.mjs scan https://jobs.ashbyhq.com/company/job-id
-```
-
-Outputs `forms/{slug}-scan.json` with every field: id, name, label, type, options, required status, CSS selector.
-
-### `fill` — Fill without full pipeline
-
-```bash
-node cli.mjs fill https://example.com/apply              # auto-generates plan
-node cli.mjs fill https://example.com/apply plan.json     # uses custom plan
-```
-
-### `apply` — Full pipeline
-
-```bash
-node cli.mjs apply https://job-boards.greenhouse.io/verkada/jobs/5039079007
-```
-
-Runs: scan → pick resume → generate plan → apply learnings → fill → verify → submit → OTP → log.
-
-### `queue` — Manage application links
-
-```bash
-node cli.mjs queue add "https://careers.adobe.com/us/en/job/R167447" Adobe
-node cli.mjs queue add "https://jobs.lever.co/stripe/abc123" Stripe
-node cli.mjs queue list
-# ⏳ pending  │ Adobe   │ https://careers.adobe.com/...
-# ⏳ pending  │ Stripe  │ https://jobs.lever.co/...
-
-node cli.mjs batch          # processes all pending queue entries
-node cli.mjs queue list
-# ✅ submitted │ Adobe   │ https://careers.adobe.com/...
-# ✅ submitted │ Stripe  │ https://jobs.lever.co/...
-```
-
-### `batch` — Bulk apply
-
-```bash
-node cli.mjs batch                    # process pending queue entries
-node cli.mjs batch targets.txt        # process URLs from file
-```
-
-### `status` — Dashboard
-
-```bash
-node cli.mjs status
-# Overall:
-#   Total applications: 4
-#   Submitted: 3
-#   Failed: 1
-#   Success rate: 75%
-#
-# By ATS:
-#   greenhouse: 2/2 (100%)
-#   workday: 1/1 (100%)
-#   ashby: 0/1 (0%)
-#
-# Queue: 2 pending, 3 applied, 0 failed
-```
-
----
-
-## Architecture
-
-```
-auto-apply/
-├── cli.mjs                  CLI entry point
-├── lib/
-│   ├── engine.mjs           Core fill engine (15 field type handlers)
-│   ├── scanner.mjs          Form field scanner
-│   ├── planner.mjs          Auto plan generation (label → profile mapping)
-│   ├── discovery.mjs        ATS detection & form navigation
-│   ├── fields.mjs           Universal field finder & dropdown handler
-│   ├── otp.mjs              Gmail IMAP OTP extraction
-│   ├── workday.mjs          Workday login & account creation
-│   ├── learner.mjs          Self-learning store
-│   └── reporter.mjs         CSV logging, screenshots & queue management
-├── config/
-│   ├── profile.yml          Your profile (gitignored)
-│   ├── profile.example.yml  Template
-│   └── resumes.yml          Resume variants & keywords
-├── resumes/                 PDF resume files (gitignored)
-├── forms/                   Scan & plan JSON files (gitignored)
-├── data/
-│   ├── applied.csv          Application log
-│   ├── queue.csv            Application queue
-│   └── learnings.json       Self-learning data
-├── screenshots/             Pre/post-submit screenshots (gitignored)
-└── targets.txt              Batch URL list
-```
-
-### Field Type Handlers
-
-| Type | Handler | Example |
-|------|---------|---------|
-| text, email, tel, textarea | Direct fill | Name, Email, Phone |
-| file | `setInputFiles` | Resume upload |
-| select | Native `selectOption` | Country, State |
-| dropdown (React Select) | Type-to-filter + click option | Gender, Race |
-| custom-select | 4-strategy handler | Workday, Ashby |
-| checkbox | Click toggle | Data consent, Terms |
-| radio | Click by value or label | Yes/No, Prior worker |
-| phone-country | intl-tel-input search | Country code picker |
-| typeahead | Type + pick autocomplete | Location, Company |
-| yes-no-button | DOM traversal from label | Visa sponsorship (Ashby) |
-| multi-select | Type-filter per value | Languages, Skills |
-
-### Self-Learning
-
-The engine records every fill result in `data/learnings.json`:
-
-- **Field failures** — which fields failed and which strategy eventually worked
-- **Option corrections** — e.g., profile says "I don't wish to answer" but dropdown has "I do not want to answer"
-- **Per-ATS success rates** — tracks submit success by platform
-- **Applied automatically** — `applyLearnings()` corrects plan values before each fill
-
-### Dropdown Handler (4 Strategies)
-
-1. **Native select** — `selectOption({ label })` for `<select>` elements
-2. **Type-to-filter** — Type value into input, wait for React Select / custom dropdown, click best fuzzy match
-3. **Click-scan** — Open dropdown, scan all visible options, click best match
-4. **Keyboard navigation** — ArrowDown through options, Enter on match
-
-Each strategy includes fuzzy text matching and verification that the value actually stuck.
-
----
-
-## Claude Code Integration
-
-auto-apply works as a Claude Code skill. Add it to any project:
-
-```bash
-mkdir -p .claude/skills/auto-apply
-```
-
-Create `.claude/skills/auto-apply/SKILL.md` — see the included skill file for the full definition.
-
-Then use it in Claude Code:
-
-```
-/auto-apply apply https://greenhouse.io/company/jobs/123
-/auto-apply queue add https://careers.adobe.com/job/R167447 Adobe
-/auto-apply status
-```
-
----
-
-## Environment Variables
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `EMAIL` | For OTP | Gmail address for receiving verification codes |
-| `APP_PASSWORD` | For OTP | Gmail App Password ([generate](https://myaccount.google.com/apppasswords)) |
-| `WORKDAY_EMAIL` | No | Email for Workday account login |
-| `WORKDAY_PASSWORD` | No | Password for Workday account login |
-
----
-
-## Test Results
-
-Tested on real job applications:
-
-| Platform | Company | Fields Filled | Result |
-|----------|---------|---------------|--------|
-| Greenhouse | Verkada | 14/14 | Submitted |
-| Greenhouse | Discord | 18/18 | Filled (custom Qs) |
-| Ashby | Perplexity | 11/11 | Filled (anti-bot) |
-| Workday | Adobe | 15/15 + 1 conditional | Submitted |
-
----
-
-## Safety
-
-- **Never headless** — browser always opens visually so you can see what's happening
-- **Never auto-submits blindly** — verification pass checks every field before submit
-- **Screenshot everything** — pre-submit and post-submit screenshots saved automatically
-- **Retry with diagnosis** — submit errors trigger re-scan and re-fill of empty fields
-- **No credential storage** — `.env` is gitignored, passwords never logged
-
----
-
-## License
-
-MIT
+使用 Node 内置测试；DOM 测试使用已安装的 Chromium，headed。项目没有额外 lint/type/build 工具链。自动学习不会修改申请答案；旧 fields/learner/otp 模块不参与新申请流水线。

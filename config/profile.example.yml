@@ -1,46 +1,125 @@
-# Auto-apply profile — fill in your details
-# This file is used to auto-generate fill plans for job applications.
-
+# All blanks/nulls mean UNKNOWN. Never copy synthetic research answers into a real profile.
+# Multiple education/experience records are arrays; use page-observed option wording.
 personal:
-  first_name: "Jane"
-  last_name: "Doe"
-  email: "jane.doe@gmail.com"
-  phone: "5551234567"
-  linkedin: "https://www.linkedin.com/in/janedoe"
-  location: "San Francisco, California"
-  city: "San Francisco"
-  state: "California"
-  postal_code: "94105"
-  address_line1: ""
-  address_line2: ""
-  country: "United States +1"
-  country_phone_code: "United States of America (+1)"
+  first_name:
+  last_name:
+  full_name:
+  preferred_name:
+  pronouns:
+  custom_pronouns:
+  email:
+  phone:
+  phone_type:
+  phone_extension:
+  country_phone_code:
+  linkedin:
+  website:
+  portfolio:
+  location:
+  city:
+  state:
+  postal_code:
+  address_line1:
+  address_line2:
+  country:
 
-# EEO fields (US-based applicant)
-eeo:
-  gender: "Female"
-  hispanic_latino: "No"
-  race: "White"
-  veteran_status: "I am not a protected veteran"
-  disability_status: "I do not want to answer"
+attachments:
+  resume:
+  cover_letter:
 
-# Work authorization
+education: []
+# - university:
+#   degree:
+#   major:
+#   gpa:
+#   from: {year: null}
+#   to: {year: null}
+experience: []
+# - title:
+#   company:
+#   location:
+#   current: null                 # explicit true/false, never a default
+#   description:
+#   from: {month: null, year: null}
+#   to: {month: null, year: null}
+certifications: []
+# - name:
+#   number:
+#   from: {month: null, day: null, year: null}
+#   to: {month: null, day: null, year: null}
+skills: []
+
+# Long or sensitive questions are mapped ONLY through exact-label answers below.
+# These sections store reusable user facts, not automatic Yes/No interpretations.
 work_auth:
-  authorized_us: "Yes"
-  sponsorship_needed: "No"
-  visa_status: ""
-  office_willing: "Yes"
-  willing_to_relocate: "Yes"
+  authorized_us:
+  authorized_by_country: {}
+  sponsorship_now:
+  sponsorship_future:
+  sponsorship_needed:
+  visa_status:
+  work_right_documents:
+eeo:
+  gender:
+  hispanic_latino:
+  race:
+  veteran_status:
+  disability_status:
+  intersex:
+previous_employment:
+  by_company: {}
+# Company records may include answer, employee_id, email, first_name, last_name,
+# capacity (multi-select), dates. Use exact-label answers for each field.
+government:
+  current_or_previous_service:
+  relatives:
+  conflicts:
+export_control:
+  citizenships: []
+  permanent_residencies: []
+  status_obtained_dates: {}
+office:
+  willingness:
+  anchor_days:
+  relocation:
+  relocation_at_own_expense:
+  payroll_location:
+job:
+  source:
+  source_path: []
+  legal_working_age:
+  background_check:
+  start_date:
+  salary_expectation:
+  years_experience:
+  languages: []
+  why_company:
+  security_explanation:
+  encoded_challenge_answer:
+  contact_preferences:
+  safe_sender_confirmation:
 
-education:
-  degree: "Bachelor of Science"
-  major: "Computer Science"
-  university: "Stanford University"
-  graduation_year: "2020"
+# Exact question text is required for authorizations, government/export controls,
+# employer history and all job-specific questions. No fuzzy label matching.
+# Set url to the original job URL to prevent cross-company reuse; group/id disambiguate.
+# value_ref references a fact above; alternatively use value (string/boolean/list).
+# Unknown/unvalidated branches and agreements always remain human-handled.
+answers: []
+# - url: https://example.org/jobs/123
+#   label: "Copy the complete question from the current page"
+#   group: "Optional exact group name"
+#   id: "Optional current control ID"
+#   value_ref: work_auth.authorized_us
+# - url: https://example.org/jobs/123
+#   label: "Start date"
+#   value: ""                     # use observed date format, blank is unknown
 
-experience:
-  years: "5"
-  current_company: "Google"
-  current_title: "Software Engineer"
-  salary_expectation: ""
-  start_date: ""
+# Per ATS tenant hostname, never infer one company's account from another.
+# Passwords remain in your environment/.env and are never included in tasks or logs.
+# For new accounts set existing: false explicitly, provide both env references,
+# then complete registration/agreements/OTP manually. After success set existing: true.
+accounts: {}
+# nvidia.wd5.myworkdayjobs.com:
+#   existing: null                 # explicitly true for a previously created account
+#   email_env: NVIDIA_ACCOUNT_EMAIL
+#   password_env: NVIDIA_ACCOUNT_PASSWORD

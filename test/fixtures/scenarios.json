@@ -1,0 +1,14 @@
+[
+  {"company":"Nvidia","fixture":"workday.html","evidence":"nvidia-12-multiple-entries.dom.txt","manual":["disclosure agreement","NVIDIA Review not observed","Autofill/Last Application"]},
+  {"company":"Adobe","fixture":"workday.html","evidence":"adobe-24-review.dom.txt","manual":["terms","hierarchical source","unvalidated controls"]},
+  {"company":"Salesforce","fixture":"workday.html","evidence":"salesforce-10-multiple-entries.dom.txt","manual":["government/export Yes branches","candidate agreements"]},
+  {"company":"Anthropic","fixture":"greenhouse.html","evidence":"anthropic-06-validation-errors.txt","manual":["arbitration","AI question","manual resume alternative validation"]},
+  {"company":"Figma","fixture":"greenhouse.html","evidence":"figma-02-race-conditional.dom.txt","manual":["optional MyGreenhouse login","resume parsing"]},
+  {"company":"Airbnb","fixture":"greenhouse.html","iframe":true,"evidence":"airbnb-02-embedded-form.dom.txt","manual":["AI consent","sponsorship three-way branches"]},
+  {"company":"Notion","fixture":"ashby.html","evidence":"notion-05-parsing.dom.txt","manual":["Anchor Days unknown answer","source multiselect"]},
+  {"company":"Ramp","fixture":"ashby.html","evidence":"ramp-03-test-answer-no.dom.txt","manual":["encoded challenge","security explanation","SMS consent"]},
+  {"company":"OpenAI","fixture":"ashby.html","evidence":"openai-03-date-text.dom.txt","manual":["arbitration/truthfulness","application limit","resume parsing unobserved"]},
+  {"company":"Palantir","fixture":"lever.html","evidence":"palantir-07-repeated-hcaptcha.dom.txt","manual":["recurring hCaptcha","business validation after captcha","languages"]},
+  {"company":"Zoox","fixture":"lever.html","evidence":"zoox-02-custom-pronouns.dom.txt","manual":["recurring hCaptcha","export countries/status dates"]},
+  {"company":"Veeva Systems","fixture":"lever.html","evidence":"veeva-04-parsed.dom.txt","manual":["safe sender acknowledgement","two-year contact agreement","post-parse submission"]}
+]

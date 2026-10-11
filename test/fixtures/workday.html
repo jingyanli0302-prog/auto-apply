@@ -1,0 +1,25 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Workday observed Manual reconstruction</title></head><body>
+<h2 id="heading">My Information</h2><form onsubmit="return false">
+<div id="information">
+<label>First Name<input id="first" required></label><label>Last Name<input id="last" required></label>
+<label>Country<select id="country" onchange="document.getElementById('province').hidden=this.value!=='CA'"><option value="">Select One</option><option value="US">United States of America</option><option value="CA">Canada</option></select></label>
+<label id="province" hidden>Province or Territory<input></label>
+<fieldset><legend>Have you previously worked for this company?</legend>
+<label>Yes<input type="radio" name="previous" value="yes" onchange="document.getElementById('former').hidden=false"></label>
+<label>No<input type="radio" name="previous" value="no" onchange="document.getElementById('former').hidden=true"></label></fieldset>
+<div id="former" hidden><label>Previous Employee ID<input></label><label>Previous Email<input type="email"></label><label>Previous First Name<input></label><label>Previous Last Name<input></label></div>
+</div>
+<div id="experience" hidden>
+<section role="group" aria-label="Work Experience"><div id="jobs"></div><button type="button" onclick="addJob()">Add</button></section>
+<section role="group" aria-label="Education"><div id="schools"></div><button type="button" onclick="addSchool()">Add</button></section>
+<label>Resume/CV<input type="file" id="resume" required></label>
+</div>
+<div id="review" hidden>My Information and My Experience saved for review.</div>
+<button id="next" type="button" onclick="advance()">Save and Continue</button>
+<button id="submit" type="button" hidden onclick="window.submits++;document.body.innerHTML='<h1>Your application has been submitted</h1>'">Submit</button>
+</form><script>
+window.submits=0;window.step=0;
+function advance(){if(window.step===0){information.hidden=true;experience.hidden=false;heading.textContent='My Experience';window.step=1}else{experience.hidden=true;review.hidden=false;heading.textContent='Review';next.hidden=true;submit.hidden=false;window.step=2}}
+function addJob(){let n=jobs.children.length+1;const el=document.createElement('div');el.setAttribute('role','group');el.setAttribute('aria-label','Work Experience '+n);el.innerHTML=`<label>Job Title<input required></label><label>Company<input required></label><label>I currently work here<input type="checkbox" onchange="this.closest('[role=group]').querySelector('[aria-label=To]').hidden=this.checked"></label><div role="group" aria-label="From"><input aria-label="Month" role="spinbutton" type="number"><input aria-label="Year" role="spinbutton" type="number"></div><div role="group" aria-label="To"><input aria-label="Month" role="spinbutton" type="number"><input aria-label="Year" role="spinbutton" type="number"></div><button type="button" onclick="this.parentElement.remove()">Delete</button>`;jobs.append(el)}
+function addSchool(){let n=schools.children.length+1;const el=document.createElement('div');el.setAttribute('role','group');el.setAttribute('aria-label','Education '+n);el.innerHTML='<label>School or University<input required></label><label>Degree<select><option value="">Select One</option><option>BS</option><option>Bachelors</option></select></label><div role="group" aria-label="From"><input aria-label="Year" type="number"></div><div role="group" aria-label="To (Actual or Expected)"><input aria-label="Year" type="number"></div><button type="button" onclick="this.parentElement.remove()">Delete</button>';schools.append(el)}
+</script></body></html>
