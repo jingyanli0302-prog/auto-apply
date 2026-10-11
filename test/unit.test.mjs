@@ -10,6 +10,7 @@ import { reviewItems, fingerprint } from '../lib/review.mjs';
 import { successEvidence } from '../lib/adapters.mjs';
 import { accountFor } from '../lib/workday.mjs';
 import { fillForm } from '../lib/engine.mjs';
+import { companyRelationshipQuestion } from '../lib/company-relationships.mjs';
 
 test('aliases are context limited and ambiguity is never resolved by guessing', () => {
   for (const value of ['US', 'USA', 'United States', 'United States of America']) assert.equal(matchOption(value, ['United States of America'], { label: 'Country' }).option.text, 'United States of America');
@@ -105,3 +106,43 @@ test('example profile contains no invented personal or sensitive defaults', asyn
   assert.deepEqual(profile.education, []); assert.deepEqual(profile.experience, []);
 });
 test('legacy auto-submit entry point cannot bypass persistent Review', async () => { await assert.rejects(fillForm('https://example.org', { fills: [] }), /legacy auto-submit is disabled/); });
+
+test('explicit cross-company No declarations cover relatives and former employment without defaults', async () => {
+  const profile = { company_relationships: { relatives_employed: 'No', previously_employed: 'No' } };
+  const labels = [
+    'Have you previously worked for NVIDIA as an employee or contractor?',
+    'Description: Have you been employed by Adobe in the past?',
+    'Have you ever worked for Figma before, as an employee or a contractor/consultant?',
+    'Have you previously worked here?',
+    'Do you have any relatives who currently work at Adobe?',
+    'Do you have family members employed by NVIDIA?',
+    'Are any of your relatives currently employed at Figma?',
+    '您是否有亲戚在该公司工作？',
+    '你以前是否在该公司工作过？',
+  ];
+  for (const label of labels) {
+    const field = { key: label, label, type: 'radio', options: [{ text: 'Yes', value: 'yes' }, { text: 'No', value: 'no' }] };
+    const plan = await generatePlan({ fields: [field] }, profile);
+    assert.equal(plan.fills[0]?.value, 'no', label);
+    assert.equal((await generatePlan({ fields: [field] }, {})).fills.length, 0);
+  }
+  assert.equal(answerFor({ label: labels[4], type: 'checkbox' }, profile).value, false);
+});
+
+test('relationship declarations do not infer government, referrals, negative or combined answers', () => {
+  const profile = { company_relationships: { relatives_employed: 'No', previously_employed: 'No' } };
+  for (const label of [
+    'Have you ever worked for the government?',
+    'Do you have any relatives who work for a government agency?',
+    'How did you hear about us? Friend or Family',
+    'Do you NOT have relatives working at Adobe?',
+    'Have you never worked for Adobe?',
+    'Have you previously worked for Salesforce, or are you a current Salesforce contractor?',
+    'Have you previously worked for Adobe and do you need sponsorship?',
+    'Your previous Salesforce employee ID',
+    'Have you ever worked for any company?',
+  ]) {
+    assert.equal(companyRelationshipQuestion(label), null, label);
+    assert.equal(answerFor({ label }, profile).value, undefined, label);
+  }
+});

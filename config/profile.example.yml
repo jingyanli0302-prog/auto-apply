@@ -57,6 +57,7 @@ work_auth:
   sponsorship_now:
   sponsorship_future:
   sponsorship_needed:
+  sponsorship_by_country: {}
   visa_status:
   work_right_documents:
 eeo:
@@ -68,6 +69,13 @@ eeo:
   intersex:
 previous_employment:
   by_company: {}
+
+# Optional reusable user declarations for clearly worded affirmative questions.
+# Set to "No" only if you explicitly confirm this applies to every employer.
+# Compound, negative and government-related questions still require exact answers/Review.
+company_relationships:
+  relatives_employed:
+  previously_employed:
 # Company records may include answer, employee_id, email, first_name, last_name,
 # capacity (multi-select), dates. Use exact-label answers for each field.
 government:

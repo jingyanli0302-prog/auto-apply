@@ -36,7 +36,7 @@ Review 只显示缺失、推导、不确定、映射/校验失败或未经确认
 
 账户按精确租户 hostname 配置 `accounts`，邮箱/密码引用 `.env` 环境变量。已有账户明确 `existing: true` 才尝试 Sign In；新账户 `existing: false` 准备创建入口及用户提供的邮箱/密码，注册、协议、OTP 由用户完成。成功后将 existing 改为 true。不会因登录失败擅自新建账户，也不输出或保存密码。Adobe 访客路径不强迫登录；MyGreenhouse 可选认证不自动选择。
 
-国家别名 US/USA/United States/United States of America 只用于 Country。EEO 的限定拒答别名只用于对应披露题；电话国家代码不能借国家别名猜测。Yes/No、同意声明和长题目不做宽泛匹配。`work_auth`、government/export 等事实通过 `answers` 的精确题文 + `value_ref` 映射；支持按 URL/group/id 限定。重复组仅在可唯一识别的工作/教育/证书分区内增加，歧义、层级菜单、多选或新控件转人工 Review。未知必填观测不等同 optional。
+国家别名 US/USA/United States/United States of America 只用于 Country。EEO 的限定拒答别名只用于对应披露题；电话国家代码不能借国家别名猜测。Yes/No、同意声明和长题目不做宽泛匹配。`work_auth`、government/export 等事实通过 `answers` 的精确题文 + `value_ref` 映射；支持按 URL/group/id 限定。`company_relationships` 可显式设置 `relatives_employed: "No"`、`previously_employed: "No"`，复用本人已确认的“无亲戚在该公司工作、未在该公司工作过”事实；模板空值不启用。仅识别肯定式题型，反问、政府关联、复合问题或 No 选项不明确仍转 Review。重复组仅在可唯一识别的工作/教育/证书分区内增加，歧义、层级菜单、多选或新控件转人工 Review。未知必填观测不等同 optional。
 
 研究范围及人工回退见 [coverage.md](docs/coverage.md)。fixture 是依据研究证据重建的最小 DOM 行为模型，不能证明线上 12 个页面已经端到端通过。测试不会访问真实职位或投递。
 
